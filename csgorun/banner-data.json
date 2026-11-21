@@ -1,20 +1,81 @@
 {
   "banner": "CSGORUN",
-  "generated_at": 1795275337.73599,
+  "generated_at": 1795275534.4620862,
   "publications": [
     {
       "person": "ДЕНИС РЯБЦЕВ",
+      "profile": "work48",
+      "account": "Denis Ryabcev Cuts",
+      "account_url": "https://www.youtube.com/channel/UCHZAR2hOSeSvlDooVyLVQVw",
+      "platform": "youtube",
+      "views": null,
+      "views_source": "нет проверенных данных",
+      "views_checked_at": null,
+      "published_at": 1795275471.8332846,
+      "url": "https://www.youtube.com/shorts/F2VlXCou5IQ",
+      "has_video_id": true,
+      "evidence": "по имени файла · требуется проверка",
+      "source_tracked": true
+    },
+    {
+      "person": "ДЕНИС РЯБЦЕВ",
+      "profile": "work47",
+      "account": "@andrewandersonp3470239",
+      "account_url": "https://www.tiktok.com/@andrewandersonp3470239",
+      "platform": "tiktok",
+      "views": null,
+      "views_source": "нет проверенных данных",
+      "views_checked_at": null,
+      "published_at": 1795275466.6679826,
+      "url": "https://www.tiktok.com/@andrewandersonp3470239/video/7710649344331894019",
+      "has_video_id": true,
+      "evidence": "распознан текст на кадре",
+      "source_tracked": false
+    },
+    {
+      "person": "ДЕНИС РЯБЦЕВ",
       "profile": "work45",
-      "account": "work45",
-      "account_url": "",
+      "account": "@pemokidag774",
+      "account_url": "https://www.tiktok.com/@pemokidag774",
+      "platform": "tiktok",
+      "views": null,
+      "views_source": "нет проверенных данных",
+      "views_checked_at": null,
+      "published_at": 1795275386.5318782,
+      "url": "https://www.tiktok.com/@pemokidag774/video/7710648765048360215",
+      "has_video_id": true,
+      "evidence": "распознан текст на кадре",
+      "source_tracked": false
+    },
+    {
+      "person": "ДЕНИС РЯБЦЕВ",
+      "profile": "work46",
+      "account": "@austinromeroir0175249",
+      "account_url": "https://www.tiktok.com/@austinromeroir0175249",
+      "platform": "tiktok",
+      "views": null,
+      "views_source": "нет проверенных данных",
+      "views_checked_at": null,
+      "published_at": 1795275381.0184307,
+      "url": "https://www.tiktok.com/@austinromeroir0175249/video/7710648772216245526",
+      "has_video_id": true,
+      "evidence": "распознан текст на кадре",
+      "source_tracked": false
+    },
+    {
+      "person": "ДЕНИС РЯБЦЕВ",
+      "profile": "work45",
+      "account": "@pemokidag774",
+      "account_url": "https://www.instagram.com/pemokidag774/",
       "platform": "instagram",
       "views": 0,
-      "views_source": "из базы",
-      "views_checked_at": null,
+      "views_source": "по ссылке",
+      "views_checked_at": 1795275096.1620972,
       "published_at": 1795275240.858334,
-      "url": "",
-      "has_video_id": false,
-      "evidence": "распознан текст на кадре"
+      "url": "https://www.instagram.com/pemokidag774/reel/DgAj2Z5SE0m/",
+      "has_video_id": true,
+      "evidence": "распознан текст на кадре",
+      "source_tracked": false
     },
     {
       "person": "ДЕНИС РЯБЦЕВ",
@@ -22,13 +83,14 @@
       "account": "@user8278593368309",
       "account_url": "https://www.tiktok.com/@user8278593368309",
       "platform": "tiktok",
-      "views": 0,
-      "views_source": "из базы",
+      "views": null,
+      "views_source": "нет проверенных данных",
       "views_checked_at": null,
       "published_at": 1795275229.823689,
       "url": "https://www.tiktok.com/@user8278593368309/video/7710648028767456534",
-      "has_video_id": false,
-      "evidence": "распознан текст на кадре"
+      "has_video_id": true,
+      "evidence": "распознан текст на кадре",
+      "source_tracked": false
     },
     {
       "person": "ДЕНИС РЯБЦЕВ",
@@ -37,12 +99,13 @@
       "account_url": "https://www.youtube.com/channel/UCJTYinMD1TNKQh2sW0GCLzA",
       "platform": "youtube",
       "views": 0,
-      "views_source": "из базы",
-      "views_checked_at": null,
+      "views_source": "по ссылке",
+      "views_checked_at": 1795275096.1620972,
       "published_at": 1795275041.2118802,
       "url": "https://www.youtube.com/shorts/rWirYJhddmE",
       "has_video_id": true,
-      "evidence": "распознан текст на кадре"
+      "evidence": "распознан текст на кадре",
+      "source_tracked": false
     },
     {
       "person": "ДЕНИС РЯБЦЕВ",
@@ -51,12 +114,13 @@
       "account_url": "https://www.tiktok.com/@unairodero5",
       "platform": "tiktok",
       "views": 0,
-      "views_source": "из базы",
-      "views_checked_at": null,
+      "views_source": "по ссылке",
+      "views_checked_at": 1795275096.1620972,
       "published_at": 1795275031.061923,
       "url": "https://www.tiktok.com/@unairodero5/video/7710647363454471438",
       "has_video_id": true,
-      "evidence": "распознан текст на кадре"
+      "evidence": "распознан текст на кадре",
+      "source_tracked": false
     },
     {
       "person": "ДЕНИС РЯБЦЕВ",
@@ -65,12 +129,13 @@
       "account_url": "https://www.tiktok.com/@carldaviss071217",
       "platform": "tiktok",
       "views": 0,
-      "views_source": "из базы",
-      "views_checked_at": null,
+      "views_source": "по ссылке",
+      "views_checked_at": 1795275096.1620972,
       "published_at": 1795274950.8322334,
       "url": "https://www.tiktok.com/@carldaviss071217/video/7710647112031128854",
       "has_video_id": true,
-      "evidence": "распознан текст на кадре"
+      "evidence": "распознан текст на кадре",
+      "source_tracked": false
     },
     {
       "person": "ДЕНИС РЯБЦЕВ",
@@ -79,12 +144,13 @@
       "account_url": "https://www.youtube.com/channel/UCjTFfS8_mOlhZcoHTKk1M9g",
       "platform": "youtube",
       "views": 0,
-      "views_source": "из базы",
-      "views_checked_at": null,
+      "views_source": "по ссылке",
+      "views_checked_at": 1795275096.1620972,
       "published_at": 1795274940.665892,
       "url": "https://www.youtube.com/shorts/rIAXJmAN3v8",
       "has_video_id": true,
-      "evidence": "распознан текст на кадре"
+      "evidence": "по имени файла · требуется проверка",
+      "source_tracked": true
     },
     {
       "person": "ДЕНИС РЯБЦЕВ",
@@ -93,12 +159,13 @@
       "account_url": "https://www.tiktok.com/@aropokzeropo",
       "platform": "tiktok",
       "views": 0,
-      "views_source": "из базы",
-      "views_checked_at": null,
+      "views_source": "по ссылке",
+      "views_checked_at": 1795275096.1620972,
       "published_at": 1795274865.5093572,
       "url": "https://www.tiktok.com/@aropokzeropo/video/7710646659390213389",
       "has_video_id": true,
-      "evidence": "распознан текст на кадре"
+      "evidence": "распознан текст на кадре",
+      "source_tracked": false
     },
     {
       "person": "ДЕНИС РЯБЦЕВ",
@@ -107,12 +174,13 @@
       "account_url": "https://www.youtube.com/channel/UCYN9iaBt8AKZ52Dscal_adw",
       "platform": "youtube",
       "views": 0,
-      "views_source": "из базы",
-      "views_checked_at": null,
+      "views_source": "по ссылке",
+      "views_checked_at": 1795275096.1620972,
       "published_at": 1795274815.389023,
       "url": "https://www.youtube.com/shorts/-eLmSx9K-jw",
       "has_video_id": true,
-      "evidence": "распознан текст на кадре"
+      "evidence": "распознан текст на кадре",
+      "source_tracked": false
     },
     {
       "person": "ДЕНИС РЯБЦЕВ",
@@ -121,12 +189,13 @@
       "account_url": "https://www.youtube.com/channel/UC17TunByvdjZnP9hFUHvTBg",
       "platform": "youtube",
       "views": 0,
-      "views_source": "из базы",
-      "views_checked_at": null,
+      "views_source": "по ссылке",
+      "views_checked_at": 1795275096.1620972,
       "published_at": 1795274765.1683543,
       "url": "https://www.youtube.com/shorts/PQTh6lDYSZw",
       "has_video_id": true,
-      "evidence": "распознан текст на кадре"
+      "evidence": "распознан текст на кадре",
+      "source_tracked": false
     },
     {
       "person": "ДЕНИС РЯБЦЕВ",
@@ -134,13 +203,14 @@
       "account": "@dotadva218",
       "account_url": "https://www.tiktok.com/@dotadva218",
       "platform": "tiktok",
-      "views": 0,
-      "views_source": "из базы",
+      "views": null,
+      "views_source": "нет проверенных данных",
       "views_checked_at": null,
       "published_at": 1795274679.8850951,
       "url": "https://www.tiktok.com/@dotadva218/video/7710645913387109646",
       "has_video_id": true,
-      "evidence": "распознан текст на кадре"
+      "evidence": "распознан текст на кадре",
+      "source_tracked": false
     },
     {
       "person": "ДЕНИС РЯБЦЕВ",
@@ -149,12 +219,13 @@
       "account_url": "https://www.youtube.com/channel/UCY5gyRG3_y0RjV9uy6Pvz0w",
       "platform": "youtube",
       "views": 0,
-      "views_source": "из базы",
-      "views_checked_at": null,
+      "views_source": "по ссылке",
+      "views_checked_at": 1795275096.1620972,
       "published_at": 1795274674.7374375,
       "url": "https://www.youtube.com/shorts/J_q-I5_Mw-Y",
       "has_video_id": true,
-      "evidence": "распознан текст на кадре"
+      "evidence": "распознан текст на кадре",
+      "source_tracked": false
     },
     {
       "person": "ДЕНИС РЯБЦЕВ",
@@ -163,12 +234,13 @@
       "account_url": "https://www.youtube.com/channel/UCihLZLylVm5Y3p-CJn8wPsw",
       "platform": "youtube",
       "views": 0,
-      "views_source": "из базы",
-      "views_checked_at": null,
+      "views_source": "по ссылке",
+      "views_checked_at": 1795275096.1620972,
       "published_at": 1795274564.1392694,
       "url": "https://www.youtube.com/shorts/1OsJj-nXTP4",
       "has_video_id": true,
-      "evidence": "распознан текст на кадре"
+      "evidence": "распознан текст на кадре",
+      "source_tracked": false
     },
     {
       "person": "ДЕНИС РЯБЦЕВ",
@@ -177,12 +249,13 @@
       "account_url": "https://www.youtube.com/channel/UCly8awoC69ZLSRZ3CnYNm_Q",
       "platform": "youtube",
       "views": 0,
-      "views_source": "из базы",
-      "views_checked_at": null,
+      "views_source": "по ссылке",
+      "views_checked_at": 1795275096.1620972,
       "published_at": 1795274483.6427321,
       "url": "https://www.youtube.com/shorts/P73QKIIdn8k",
       "has_video_id": true,
-      "evidence": "распознан текст на кадре"
+      "evidence": "распознан текст на кадре",
+      "source_tracked": false
     },
     {
       "person": "ДЕНИС РЯБЦЕВ",
@@ -190,13 +263,14 @@
       "account": "@lauralewisr46484288",
       "account_url": "https://www.tiktok.com/@lauralewisr46484288",
       "platform": "tiktok",
-      "views": 0,
-      "views_source": "из базы",
+      "views": null,
+      "views_source": "нет проверенных данных",
       "views_checked_at": null,
       "published_at": 1795274463.481667,
       "url": "https://www.tiktok.com/@lauralewisr46484288/video/7710645049280711958",
       "has_video_id": true,
-      "evidence": "распознан текст на кадре"
+      "evidence": "распознан текст на кадре",
+      "source_tracked": false
     },
     {
       "person": "ДЕНИС РЯБЦЕВ",
@@ -205,12 +279,13 @@
       "account_url": "https://www.youtube.com/channel/UCXkfIm77R2-rIhuTNVyPGug",
       "platform": "youtube",
       "views": 0,
-      "views_source": "из базы",
-      "views_checked_at": null,
+      "views_source": "по ссылке",
+      "views_checked_at": 1795275096.1620972,
       "published_at": 1795271656.0,
       "url": "https://www.youtube.com/shorts/UuBOlKgFqAA",
       "has_video_id": true,
-      "evidence": "распознан текст на кадре"
+      "evidence": "распознан текст на кадре",
+      "source_tracked": false
     },
     {
       "person": "ДЕНИС РЯБЦЕВ",
@@ -219,12 +294,13 @@
       "account_url": "https://www.youtube.com/channel/UCrMEde0z_XXU3LY-VKJPgzQ",
       "platform": "youtube",
       "views": 0,
-      "views_source": "из базы",
-      "views_checked_at": null,
+      "views_source": "по ссылке",
+      "views_checked_at": 1795275096.1620972,
       "published_at": 1795271904.0,
       "url": "https://www.youtube.com/shorts/-m-hCjOr5yg",
       "has_video_id": true,
-      "evidence": "распознан текст на кадре"
+      "evidence": "распознан текст на кадре",
+      "source_tracked": false
     },
     {
       "person": "ДЕНИС РЯБЦЕВ",
@@ -233,12 +309,13 @@
       "account_url": "https://www.youtube.com/channel/UCNTcVChiUTOXpe4HKBN9eBQ",
       "platform": "youtube",
       "views": 0,
-      "views_source": "из базы",
-      "views_checked_at": null,
+      "views_source": "по ссылке",
+      "views_checked_at": 1795275096.1620972,
       "published_at": 1795271661.0,
       "url": "https://www.youtube.com/shorts/hS-KN1OW_zQ",
       "has_video_id": true,
-      "evidence": "распознан текст на кадре"
+      "evidence": "распознан текст на кадре",
+      "source_tracked": false
     },
     {
       "person": "ДЕНИС РЯБЦЕВ",
@@ -247,12 +324,13 @@
       "account_url": "https://www.youtube.com/channel/UC8KGNnGhtghI7KMK28IqJuQ",
       "platform": "youtube",
       "views": 9,
-      "views_source": "из базы",
-      "views_checked_at": null,
+      "views_source": "по ссылке",
+      "views_checked_at": 1795275096.1620972,
       "published_at": 1795271820.0,
       "url": "https://www.youtube.com/shorts/0vAtqKmGmPw",
       "has_video_id": true,
-      "evidence": "распознан текст на кадре"
+      "evidence": "распознан текст на кадре",
+      "source_tracked": false
     },
     {
       "person": "ДЕНИС РЯБЦЕВ",
@@ -261,12 +339,13 @@
       "account_url": "https://www.youtube.com/channel/UCHZAR2hOSeSvlDooVyLVQVw",
       "platform": "youtube",
       "views": 0,
-      "views_source": "из базы",
-      "views_checked_at": null,
+      "views_source": "по ссылке",
+      "views_checked_at": 1795275096.1620972,
       "published_at": 1795271744.0,
       "url": "https://www.youtube.com/shorts/BDk_RB0q-0E",
       "has_video_id": true,
-      "evidence": "распознан текст на кадре"
+      "evidence": "распознан текст на кадре",
+      "source_tracked": false
     },
     {
       "person": "ДЕНИС РЯБЦЕВ",
@@ -275,12 +354,13 @@
       "account_url": "https://www.youtube.com/channel/UCjTFfS8_mOlhZcoHTKk1M9g",
       "platform": "youtube",
       "views": 91,
-      "views_source": "из базы",
-      "views_checked_at": null,
+      "views_source": "по ссылке",
+      "views_checked_at": 1795275096.1620972,
       "published_at": 1795271648.0,
       "url": "https://www.youtube.com/shorts/uMr-do-SSAY",
       "has_video_id": true,
-      "evidence": "распознан текст на кадре"
+      "evidence": "распознан текст на кадре",
+      "source_tracked": false
     },
     {
       "person": "ДЕНИС РЯБЦЕВ",
@@ -289,12 +369,13 @@
       "account_url": "https://www.tiktok.com/@priscillacalhocb97105718",
       "platform": "tiktok",
       "views": 0,
-      "views_source": "из базы",
-      "views_checked_at": null,
+      "views_source": "по ссылке",
+      "views_checked_at": 1795275096.1620972,
       "published_at": 1795251492.5170438,
       "url": "https://www.tiktok.com/@priscillacalhocb97105718/video/7710546365755034902",
       "has_video_id": true,
-      "evidence": "распознан текст на кадре"
+      "evidence": "распознан текст на кадре",
+      "source_tracked": false
     },
     {
       "person": "ДЕНИС РЯБЦЕВ",
@@ -303,12 +384,13 @@
       "account_url": "https://www.tiktok.com/@thomasmorenobx13261183",
       "platform": "tiktok",
       "views": 0,
-      "views_source": "из базы",
-      "views_checked_at": null,
+      "views_source": "по ссылке",
+      "views_checked_at": 1795275096.1620972,
       "published_at": 1795251482.4302843,
       "url": "https://www.tiktok.com/@thomasmorenobx13261183/video/7710546331432996118",
       "has_video_id": true,
-      "evidence": "распознан текст на кадре"
+      "evidence": "распознан текст на кадре",
+      "source_tracked": false
     },
     {
       "person": "ДЕНИС РЯБЦЕВ",
@@ -317,12 +399,13 @@
       "account_url": "https://www.tiktok.com/@joshuaharveys8308280",
       "platform": "tiktok",
       "views": 0,
-      "views_source": "из базы",
-      "views_checked_at": null,
+      "views_source": "по ссылке",
+      "views_checked_at": 1795275096.1620972,
       "published_at": 1795251392.2740695,
       "url": "https://www.tiktok.com/@joshuaharveys8308280/video/7710545937646538006",
       "has_video_id": true,
-      "evidence": "распознан текст на кадре"
+      "evidence": "распознан текст на кадре",
+      "source_tracked": false
     },
     {
       "person": "ДЕНИС РЯБЦЕВ",
@@ -331,12 +414,13 @@
       "account_url": "https://www.tiktok.com/@ashleywilliamsp61599188",
       "platform": "tiktok",
       "views": 0,
-      "views_source": "из базы",
-      "views_checked_at": null,
+      "views_source": "по ссылке",
+      "views_checked_at": 1795275096.1620972,
       "published_at": 1795251387.1844277,
       "url": "https://www.tiktok.com/@ashleywilliamsp61599188/video/7710545889185762562",
       "has_video_id": true,
-      "evidence": "распознан текст на кадре"
+      "evidence": "распознан текст на кадре",
+      "source_tracked": false
     },
     {
       "person": "ДЕНИС РЯБЦЕВ",
@@ -345,12 +429,13 @@
       "account_url": "https://www.tiktok.com/@alyssajenningsk99556710",
       "platform": "tiktok",
       "views": 0,
-      "views_source": "из базы",
-      "views_checked_at": null,
+      "views_source": "по ссылке",
+      "views_checked_at": 1795275096.1620972,
       "published_at": 1795251307.0470123,
       "url": "https://www.tiktok.com/@alyssajenningsk99556710/video/7710545538265009430",
       "has_video_id": true,
-      "evidence": "распознан текст на кадре"
+      "evidence": "распознан текст на кадре",
+      "source_tracked": false
     },
     {
       "person": "ДЕНИС РЯБЦЕВ",
@@ -359,12 +444,13 @@
       "account_url": "https://www.tiktok.com/@melissahunton354530",
       "platform": "tiktok",
       "views": 0,
-      "views_source": "из базы",
-      "views_checked_at": null,
+      "views_source": "по ссылке",
+      "views_checked_at": 1795275096.1620972,
       "published_at": 1795251301.9336505,
       "url": "https://www.tiktok.com/@melissahunton354530/video/7710545547022585110",
       "has_video_id": true,
-      "evidence": "распознан текст на кадре"
+      "evidence": "распознан текст на кадре",
+      "source_tracked": false
     },
     {
       "person": "ДЕНИС РЯБЦЕВ",
@@ -373,12 +459,13 @@
       "account_url": "https://www.tiktok.com/@emilyowenn197695",
       "platform": "tiktok",
       "views": 0,
-      "views_source": "из базы",
-      "views_checked_at": null,
+      "views_source": "по ссылке",
+      "views_checked_at": 1795275096.1620972,
       "published_at": 1795251226.7808034,
       "url": "https://www.tiktok.com/@emilyowenn197695/video/7710545226628254979",
       "has_video_id": true,
-      "evidence": "распознан текст на кадре"
+      "evidence": "распознан текст на кадре",
+      "source_tracked": false
     },
     {
       "person": "ДЕНИС РЯБЦЕВ",
@@ -387,12 +474,13 @@
       "account_url": "https://www.tiktok.com/@thomasbutlerm39360264",
       "platform": "tiktok",
       "views": 0,
-      "views_source": "из базы",
-      "views_checked_at": null,
+      "views_source": "по ссылке",
+      "views_checked_at": 1795275096.1620972,
       "published_at": 1795251221.6699972,
       "url": "https://www.tiktok.com/@thomasbutlerm39360264/video/7710545219892022550",
       "has_video_id": true,
-      "evidence": "распознан текст на кадре"
+      "evidence": "распознан текст на кадре",
+      "source_tracked": false
     },
     {
       "person": "ДЕНИС РЯБЦЕВ",
@@ -401,12 +489,13 @@
       "account_url": "https://www.tiktok.com/@jenniferedwardya65272069",
       "platform": "tiktok",
       "views": 0,
-      "views_source": "из базы",
-      "views_checked_at": null,
+      "views_source": "по ссылке",
+      "views_checked_at": 1795275096.1620972,
       "published_at": 1795251136.535774,
       "url": "https://www.tiktok.com/@jenniferedwardya65272069/video/7710544833017892118",
       "has_video_id": true,
-      "evidence": "распознан текст на кадре"
+      "evidence": "распознан текст на кадре",
+      "source_tracked": false
     },
     {
       "person": "ДЕНИС РЯБЦЕВ",
@@ -415,12 +504,13 @@
       "account_url": "https://www.youtube.com/channel/UCw72xO70DDbopQid0N9zDuQ",
       "platform": "youtube",
       "views": 0,
-      "views_source": "из базы",
-      "views_checked_at": null,
+      "views_source": "по ссылке",
+      "views_checked_at": 1795275096.1620972,
       "published_at": 1795251131.3399575,
       "url": "https://www.youtube.com/shorts/qYZmlLevvVU",
       "has_video_id": true,
-      "evidence": "распознан текст на кадре"
+      "evidence": "распознан текст на кадре",
+      "source_tracked": false
     },
     {
       "person": "ДЕНИС РЯБЦЕВ",
@@ -429,12 +519,13 @@
       "account_url": "https://www.tiktok.com/@cynthiamyersf070289",
       "platform": "tiktok",
       "views": 0,
-      "views_source": "из базы",
-      "views_checked_at": null,
+      "views_source": "по ссылке",
+      "views_checked_at": 1795275096.1620972,
       "published_at": 1795251051.1204066,
       "url": "https://www.tiktok.com/@cynthiamyersf070289/video/7710544472005709078",
       "has_video_id": true,
-      "evidence": "распознан текст на кадре"
+      "evidence": "распознан текст на кадре",
+      "source_tracked": false
     },
     {
       "person": "ДЕНИС РЯБЦЕВ",
@@ -443,12 +534,13 @@
       "account_url": "https://www.tiktok.com/@matthewlyncha9815456",
       "platform": "tiktok",
       "views": 0,
-      "views_source": "из базы",
-      "views_checked_at": null,
+      "views_source": "по ссылке",
+      "views_checked_at": 1795275096.1620972,
       "published_at": 1795251046.0168066,
       "url": "https://www.tiktok.com/@matthewlyncha9815456/video/7710544447662050582",
       "has_video_id": true,
-      "evidence": "распознан текст на кадре"
+      "evidence": "распознан текст на кадре",
+      "source_tracked": false
     },
     {
       "person": "ДЕНИС РЯБЦЕВ",
@@ -457,12 +549,13 @@
       "account_url": "https://www.tiktok.com/@deniska_vibes_live",
       "platform": "tiktok",
       "views": 0,
-      "views_source": "из базы",
-      "views_checked_at": null,
+      "views_source": "по ссылке",
+      "views_checked_at": 1795275096.1620972,
       "published_at": 1795250965.876663,
       "url": "https://www.tiktok.com/@deniska_vibes_live/video/7710544107688692994",
       "has_video_id": true,
-      "evidence": "распознан текст на кадре"
+      "evidence": "распознан текст на кадре",
+      "source_tracked": false
     },
     {
       "person": "ДЕНИС РЯБЦЕВ",
@@ -471,12 +564,13 @@
       "account_url": "https://www.tiktok.com/@victoriameyern6918441",
       "platform": "tiktok",
       "views": 0,
-      "views_source": "из базы",
-      "views_checked_at": null,
+      "views_source": "по ссылке",
+      "views_checked_at": 1795275096.1620972,
       "published_at": 1795250960.777131,
       "url": "https://www.tiktok.com/@victoriameyern6918441/video/7710544078009683222",
       "has_video_id": true,
-      "evidence": "распознан текст на кадре"
+      "evidence": "распознан текст на кадре",
+      "source_tracked": false
     },
     {
       "person": "ДЕНИС РЯБЦЕВ",
@@ -485,12 +579,13 @@
       "account_url": "https://www.tiktok.com/@michellemccallvx2849213",
       "platform": "tiktok",
       "views": 0,
-      "views_source": "из базы",
-      "views_checked_at": null,
+      "views_source": "по ссылке",
+      "views_checked_at": 1795275096.1620972,
       "published_at": 1795250880.6268315,
       "url": "https://www.tiktok.com/@michellemccallvx2849213/video/7710543759141834006",
       "has_video_id": true,
-      "evidence": "распознан текст на кадре"
+      "evidence": "распознан текст на кадре",
+      "source_tracked": false
     },
     {
       "person": "ДЕНИС РЯБЦЕВ",
@@ -499,12 +594,13 @@
       "account_url": "https://www.tiktok.com/@crystalwalshgr689907",
       "platform": "tiktok",
       "views": 0,
-      "views_source": "из базы",
-      "views_checked_at": null,
+      "views_source": "по ссылке",
+      "views_checked_at": 1795275096.1620972,
       "published_at": 1795250870.51642,
       "url": "https://www.tiktok.com/@crystalwalshgr689907/video/7710543716322151702",
       "has_video_id": true,
-      "evidence": "распознан текст на кадре"
+      "evidence": "распознан текст на кадре",
+      "source_tracked": false
     },
     {
       "person": "ДЕНИС РЯБЦЕВ",
@@ -513,12 +609,13 @@
       "account_url": "https://www.youtube.com/channel/UCCs8AJdeF-I7J4BFjX3KDgw",
       "platform": "youtube",
       "views": 0,
-      "views_source": "из базы",
-      "views_checked_at": null,
+      "views_source": "по ссылке",
+      "views_checked_at": 1795275096.1620972,
       "published_at": 1795250785.3509946,
       "url": "https://www.youtube.com/shorts/QVtDSLkK1FY",
       "has_video_id": true,
-      "evidence": "распознан текст на кадре"
+      "evidence": "распознан текст на кадре",
+      "source_tracked": false
     },
     {
       "person": "ДЕНИС РЯБЦЕВ",
@@ -526,13 +623,14 @@
       "account": "@michelleconleybb1395910",
       "account_url": "https://www.tiktok.com/@michelleconleybb1395910",
       "platform": "tiktok",
-      "views": 0,
-      "views_source": "из базы",
-      "views_checked_at": null,
+      "views": 34,
+      "views_source": "по ссылке",
+      "views_checked_at": 1795275096.1620972,
       "published_at": 1795250780.1923354,
       "url": "https://www.tiktok.com/@michelleconleybb1395910/video/7710543313643834646",
       "has_video_id": true,
-      "evidence": "по имени файла · требуется проверка"
+      "evidence": "по имени файла · требуется проверка",
+      "source_tracked": false
     },
     {
       "person": "ДЕНИС РЯБЦЕВ",
@@ -541,12 +639,13 @@
       "account_url": "https://www.tiktok.com/@allisondayk389916",
       "platform": "tiktok",
       "views": 0,
-      "views_source": "из базы",
-      "views_checked_at": null,
+      "views_source": "по ссылке",
+      "views_checked_at": 1795275096.1620972,
       "published_at": 1795250710.0902576,
       "url": "https://www.tiktok.com/@allisondayk389916/video/7710543012341845270",
       "has_video_id": true,
-      "evidence": "распознан текст на кадре"
+      "evidence": "распознан текст на кадре",
+      "source_tracked": false
     },
     {
       "person": "ДЕНИС РЯБЦЕВ",
@@ -555,12 +654,13 @@
       "account_url": "https://www.tiktok.com/@tracysheltonjk0085586",
       "platform": "tiktok",
       "views": 0,
-      "views_source": "из базы",
-      "views_checked_at": null,
+      "views_source": "по ссылке",
+      "views_checked_at": 1795275096.1620972,
       "published_at": 1795250689.995519,
       "url": "https://www.tiktok.com/@tracysheltonjk0085586/video/7710542922130771222",
       "has_video_id": true,
-      "evidence": "распознан текст на кадре"
+      "evidence": "распознан текст на кадре",
+      "source_tracked": false
     },
     {
       "person": "ДЕНИС РЯБЦЕВ",
@@ -569,12 +669,13 @@
       "account_url": "https://www.tiktok.com/@jeremymcmillanq918810",
       "platform": "tiktok",
       "views": 0,
-      "views_source": "из базы",
-      "views_checked_at": null,
+      "views_source": "по ссылке",
+      "views_checked_at": 1795275096.1620972,
       "published_at": 1795250624.884467,
       "url": "https://www.tiktok.com/@jeremymcmillanq918810/video/7710542645726104854",
       "has_video_id": true,
-      "evidence": "распознан текст на кадре"
+      "evidence": "распознан текст на кадре",
+      "source_tracked": false
     },
     {
       "person": "ДЕНИС РЯБЦЕВ",
@@ -583,12 +684,13 @@
       "account_url": "https://www.tiktok.com/@ashleybutleral76989147",
       "platform": "tiktok",
       "views": 0,
-      "views_source": "из базы",
-      "views_checked_at": null,
+      "views_source": "по ссылке",
+      "views_checked_at": 1795275096.1620972,
       "published_at": 1795250599.790334,
       "url": "https://www.tiktok.com/@ashleybutleral76989147/video/7710542532979051798",
       "has_video_id": true,
-      "evidence": "распознан текст на кадре"
+      "evidence": "распознан текст на кадре",
+      "source_tracked": false
     },
     {
       "person": "ДЕНИС РЯБЦЕВ",
@@ -597,12 +699,13 @@
       "account_url": "https://www.youtube.com/channel/UCUS0r7OM-eODoMe5WqN7txw",
       "platform": "youtube",
       "views": 0,
-      "views_source": "из базы",
-      "views_checked_at": null,
+      "views_source": "по ссылке",
+      "views_checked_at": 1795275096.1620972,
       "published_at": 1795250534.6428654,
       "url": "https://www.youtube.com/shorts/eYnS5toJ1y8",
       "has_video_id": true,
-      "evidence": "распознан текст на кадре"
+      "evidence": "распознан текст на кадре",
+      "source_tracked": false
     },
     {
       "person": "ДЕНИС РЯБЦЕВ",
@@ -611,12 +714,13 @@
       "account_url": "https://www.youtube.com/channel/UCVPldWGwdzCLMTrJHtpM2Iw",
       "platform": "youtube",
       "views": 0,
-      "views_source": "из базы",
-      "views_checked_at": null,
+      "views_source": "по ссылке",
+      "views_checked_at": 1795275096.1620972,
       "published_at": 1795250504.4772117,
       "url": "https://www.youtube.com/shorts/T4f5qkwKRwk",
       "has_video_id": true,
-      "evidence": "распознан текст на кадре"
+      "evidence": "распознан текст на кадре",
+      "source_tracked": false
     },
     {
       "person": "ДЕНИС РЯБЦЕВ",
@@ -625,12 +729,13 @@
       "account_url": "https://www.tiktok.com/@justinbaileyuj701873",
       "platform": "tiktok",
       "views": 0,
-      "views_source": "из базы",
-      "views_checked_at": null,
+      "views_source": "по ссылке",
+      "views_checked_at": 1795275096.1620972,
       "published_at": 1795250434.3366675,
       "url": "https://www.tiktok.com/@justinbaileyuj701873/video/7710541816155720982",
       "has_video_id": true,
-      "evidence": "распознан текст на кадре"
+      "evidence": "распознан текст на кадре",
+      "source_tracked": false
     },
     {
       "person": "ДЕНИС РЯБЦЕВ",
@@ -639,12 +744,13 @@
       "account_url": "https://www.tiktok.com/@michaelfrankliwo33777259",
       "platform": "tiktok",
       "views": 0,
-      "views_source": "из базы",
-      "views_checked_at": null,
+      "views_source": "по ссылке",
+      "views_checked_at": 1795275096.1620972,
       "published_at": 1795250429.2553368,
       "url": "https://www.tiktok.com/@michaelfrankliwo33777259/video/7710541802234826006",
       "has_video_id": true,
-      "evidence": "распознан текст на кадре"
+      "evidence": "распознан текст на кадре",
+      "source_tracked": false
     },
     {
       "person": "ДЕНИС РЯБЦЕВ",
@@ -653,12 +759,13 @@
       "account_url": "https://www.tiktok.com/@jeffreymillertl5058149",
       "platform": "tiktok",
       "views": 0,
-      "views_source": "из базы",
-      "views_checked_at": null,
+      "views_source": "по ссылке",
+      "views_checked_at": 1795275096.1620972,
       "published_at": 1795250344.1445963,
       "url": "https://www.tiktok.com/@jeffreymillertl5058149/video/7710541412063923478",
       "has_video_id": true,
-      "evidence": "распознан текст на кадре"
+      "evidence": "распознан текст на кадре",
+      "source_tracked": false
     },
     {
       "person": "ДЕНИС РЯБЦЕВ",
@@ -667,12 +774,13 @@
       "account_url": "https://www.tiktok.com/@laurenricewu281953",
       "platform": "tiktok",
       "views": 0,
-      "views_source": "из базы",
-      "views_checked_at": null,
+      "views_source": "по ссылке",
+      "views_checked_at": 1795275096.1620972,
       "published_at": 1795250319.056651,
       "url": "https://www.tiktok.com/@laurenricewu281953/video/7710541295726513430",
       "has_video_id": true,
-      "evidence": "распознан текст на кадре"
+      "evidence": "распознан текст на кадре",
+      "source_tracked": false
     },
     {
       "person": "ДЕНИС РЯБЦЕВ",
@@ -681,12 +789,13 @@
       "account_url": "https://www.tiktok.com/@rachelsmithpb073260",
       "platform": "tiktok",
       "views": 0,
-      "views_source": "из базы",
-      "views_checked_at": null,
+      "views_source": "по ссылке",
+      "views_checked_at": 1795275096.1620972,
       "published_at": 1795250258.9454477,
       "url": "https://www.tiktok.com/@rachelsmithpb073260/video/7710541055925456150",
       "has_video_id": true,
-      "evidence": "распознан текст на кадре"
+      "evidence": "распознан текст на кадре",
+      "source_tracked": false
     },
     {
       "person": "ДЕНИС РЯБЦЕВ",
@@ -695,12 +804,13 @@
       "account_url": "https://www.tiktok.com/@andrewandersonp3470239",
       "platform": "tiktok",
       "views": 0,
-      "views_source": "из базы",
-      "views_checked_at": null,
+      "views_source": "по ссылке",
+      "views_checked_at": 1795275096.1620972,
       "published_at": 1795250243.856381,
       "url": "https://www.tiktok.com/@andrewandersonp3470239/video/7710541014376746262",
       "has_video_id": true,
-      "evidence": "распознан текст на кадре"
+      "evidence": "распознан текст на кадре",
+      "source_tracked": false
     },
     {
       "person": "ДЕНИС РЯБЦЕВ",
@@ -709,12 +819,13 @@
       "account_url": "https://www.tiktok.com/@austinromeroir0175249",
       "platform": "tiktok",
       "views": 0,
-      "views_source": "из базы",
-      "views_checked_at": null,
+      "views_source": "по ссылке",
+      "views_checked_at": 1795275096.1620972,
       "published_at": 1795250183.719195,
       "url": "https://www.tiktok.com/@austinromeroir0175249/video/7710540762680708374",
       "has_video_id": true,
-      "evidence": "распознан текст на кадре"
+      "evidence": "распознан текст на кадре",
+      "source_tracked": false
     },
     {
       "person": "ДЕНИС РЯБЦЕВ",
@@ -723,12 +834,13 @@
       "account_url": "https://www.tiktok.com/@pemokidag774",
       "platform": "tiktok",
       "views": 0,
-      "views_source": "из базы",
-      "views_checked_at": null,
+      "views_source": "по ссылке",
+      "views_checked_at": 1795275096.1620972,
       "published_at": 1795250148.6104114,
       "url": "https://www.tiktok.com/@pemokidag774/video/7710540547349417238",
       "has_video_id": true,
-      "evidence": "распознан текст на кадре"
+      "evidence": "распознан текст на кадре",
+      "source_tracked": false
     },
     {
       "person": "ДЕНИС РЯБЦЕВ",
@@ -737,26 +849,28 @@
       "account_url": "https://www.tiktok.com/@user8278593368309",
       "platform": "tiktok",
       "views": 0,
-      "views_source": "из базы",
-      "views_checked_at": null,
+      "views_source": "по ссылке",
+      "views_checked_at": 1795275096.1620972,
       "published_at": 1795250098.5030022,
       "url": "https://www.tiktok.com/@user8278593368309/video/7710540399609203990",
       "has_video_id": true,
-      "evidence": "распознан текст на кадре"
+      "evidence": "распознан текст на кадре",
+      "source_tracked": false
     },
     {
       "person": "ДЕНИС РЯБЦЕВ",
       "profile": "work45",
-      "account": "work45",
-      "account_url": "",
+      "account": "@pemokidag774",
+      "account_url": "https://www.instagram.com/pemokidag774/",
       "platform": "instagram",
-      "views": 0,
-      "views_source": "из базы",
-      "views_checked_at": null,
+      "views": 123,
+      "views_source": "по ссылке",
+      "views_checked_at": 1795275096.1620972,
       "published_at": 1795250058.3880115,
-      "url": "",
-      "has_video_id": false,
-      "evidence": "распознан текст на кадре"
+      "url": "https://www.instagram.com/pemokidag774/reel/Df_z6TpyWtB/",
+      "has_video_id": true,
+      "evidence": "распознан текст на кадре",
+      "source_tracked": false
     },
     {
       "person": "ДЕНИС РЯБЦЕВ",
@@ -765,12 +879,13 @@
       "account_url": "https://www.youtube.com/channel/UCJTYinMD1TNKQh2sW0GCLzA",
       "platform": "youtube",
       "views": 0,
-      "views_source": "из базы",
-      "views_checked_at": null,
+      "views_source": "по ссылке",
+      "views_checked_at": 1795275096.1620972,
       "published_at": 1795249998.2540863,
       "url": "https://www.youtube.com/shorts/j_0jsAfEvbk",
       "has_video_id": true,
-      "evidence": "распознан текст на кадре"
+      "evidence": "распознан текст на кадре",
+      "source_tracked": false
     },
     {
       "person": "ДЕНИС РЯБЦЕВ",
@@ -779,12 +894,13 @@
       "account_url": "https://www.tiktok.com/@carldaviss071217",
       "platform": "tiktok",
       "views": 0,
-      "views_source": "из базы",
-      "views_checked_at": null,
+      "views_source": "по ссылке",
+      "views_checked_at": 1795275096.1620972,
       "published_at": 1795249915.0959215,
       "url": "https://www.tiktok.com/@carldaviss071217/video/7710539575281585430",
       "has_video_id": true,
-      "evidence": "распознан текст на кадре"
+      "evidence": "распознан текст на кадре",
+      "source_tracked": false
     },
     {
       "person": "ДЕНИС РЯБЦЕВ",
@@ -792,13 +908,14 @@
       "account": "@unairodero5",
       "account_url": "https://www.tiktok.com/@unairodero5",
       "platform": "tiktok",
-      "views": 0,
-      "views_source": "из базы",
+      "views": null,
+      "views_source": "нет проверенных данных",
       "views_checked_at": null,
       "published_at": 1795249915.025915,
       "url": "https://www.tiktok.com/@unairodero5/video/7710539358486498573",
       "has_video_id": true,
-      "evidence": "распознан текст на кадре"
+      "evidence": "распознан текст на кадре",
+      "source_tracked": false
     },
     {
       "person": "ДЕНИС РЯБЦЕВ",
@@ -807,12 +924,13 @@
       "account_url": "https://www.youtube.com/channel/UCYN9iaBt8AKZ52Dscal_adw",
       "platform": "youtube",
       "views": 0,
-      "views_source": "из базы",
-      "views_checked_at": null,
+      "views_source": "по ссылке",
+      "views_checked_at": 1795275096.1620972,
       "published_at": 1795249831.9034107,
       "url": "https://www.youtube.com/shorts/plTy7BZ_WJM",
       "has_video_id": true,
-      "evidence": "распознан текст на кадре"
+      "evidence": "распознан текст на кадре",
+      "source_tracked": false
     },
     {
       "person": "ДЕНИС РЯБЦЕВ",
@@ -821,12 +939,13 @@
       "account_url": "https://www.tiktok.com/@aropokzeropo",
       "platform": "tiktok",
       "views": 0,
-      "views_source": "из базы",
-      "views_checked_at": null,
+      "views_source": "по ссылке",
+      "views_checked_at": 1795275096.1620972,
       "published_at": 1795249831.793909,
       "url": "https://www.tiktok.com/@aropokzeropo/video/7710539030059945229",
       "has_video_id": true,
-      "evidence": "распознан текст на кадре"
+      "evidence": "распознан текст на кадре",
+      "source_tracked": false
     },
     {
       "person": "ДЕНИС РЯБЦЕВ",
@@ -834,13 +953,14 @@
       "account": "Ден Ряба | Стримы",
       "account_url": "https://www.youtube.com/channel/UC17TunByvdjZnP9hFUHvTBg",
       "platform": "youtube",
-      "views": 637,
+      "views": 1305,
       "views_source": "по ссылке",
-      "views_checked_at": 1795260134.91613,
+      "views_checked_at": 1795275096.1620972,
       "published_at": 1795249751.653163,
       "url": "https://www.youtube.com/shorts/GnqRBf6IgWI",
       "has_video_id": true,
-      "evidence": "распознан текст на кадре"
+      "evidence": "распознан текст на кадре",
+      "source_tracked": false
     },
     {
       "person": "ДЕНИС РЯБЦЕВ",
@@ -849,12 +969,13 @@
       "account_url": "https://www.youtube.com/channel/UCY5gyRG3_y0RjV9uy6Pvz0w",
       "platform": "youtube",
       "views": 0,
-      "views_source": "из базы",
-      "views_checked_at": null,
+      "views_source": "по ссылке",
+      "views_checked_at": 1795275096.1620972,
       "published_at": 1795249681.477788,
       "url": "https://www.youtube.com/shorts/5CIABO4xAZQ",
       "has_video_id": true,
-      "evidence": "распознан текст на кадре"
+      "evidence": "распознан текст на кадре",
+      "source_tracked": false
     },
     {
       "person": "ДЕНИС РЯБЦЕВ",
@@ -862,13 +983,14 @@
       "account": "@dotadva218",
       "account_url": "https://www.tiktok.com/@dotadva218",
       "platform": "tiktok",
-      "views": 0,
-      "views_source": "из базы",
+      "views": null,
+      "views_source": "нет проверенных данных",
       "views_checked_at": null,
       "published_at": 1795249676.3420289,
       "url": "https://www.tiktok.com/@dotadva218/video/7710538381821889822",
       "has_video_id": true,
-      "evidence": "распознан текст на кадре"
+      "evidence": "распознан текст на кадре",
+      "source_tracked": false
     },
     {
       "person": "ДЕНИС РЯБЦЕВ",
@@ -877,12 +999,13 @@
       "account_url": "https://www.youtube.com/channel/UCihLZLylVm5Y3p-CJn8wPsw",
       "platform": "youtube",
       "views": 0,
-      "views_source": "из базы",
-      "views_checked_at": null,
+      "views_source": "по ссылке",
+      "views_checked_at": 1795275096.1620972,
       "published_at": 1795249586.1810925,
       "url": "https://www.youtube.com/shorts/qecIMOwXR7A",
       "has_video_id": true,
-      "evidence": "распознан текст на кадре"
+      "evidence": "распознан текст на кадре",
+      "source_tracked": false
     },
     {
       "person": "ДЕНИС РЯБЦЕВ",
@@ -890,13 +1013,14 @@
       "account": "Ден Ряба | Лучшее",
       "account_url": "https://www.youtube.com/channel/UCly8awoC69ZLSRZ3CnYNm_Q",
       "platform": "youtube",
-      "views": 286,
+      "views": 796,
       "views_source": "по ссылке",
-      "views_checked_at": 1795260136.5811424,
+      "views_checked_at": 1795275096.1620972,
       "published_at": 1795249493.0162034,
       "url": "https://www.youtube.com/shorts/USKiunpuO5o",
       "has_video_id": true,
-      "evidence": "распознан текст на кадре"
+      "evidence": "распознан текст на кадре",
+      "source_tracked": false
     },
     {
       "person": "ДЕНИС РЯБЦЕВ",
@@ -904,13 +1028,14 @@
       "account": "@lauralewisr46484288",
       "account_url": "https://www.tiktok.com/@lauralewisr46484288",
       "platform": "tiktok",
-      "views": 0,
-      "views_source": "из базы",
+      "views": null,
+      "views_source": "нет проверенных данных",
       "views_checked_at": null,
       "published_at": 1795249492.9026976,
       "url": "https://www.tiktok.com/@lauralewisr46484288/video/7710537769721826582",
       "has_video_id": true,
-      "evidence": "распознан текст на кадре"
+      "evidence": "распознан текст на кадре",
+      "source_tracked": false
     },
     {
       "person": "ДЕНИС РЯБЦЕВ",
@@ -919,12 +1044,13 @@
       "account_url": "https://www.tiktok.com/@priscillacalhocb97105718",
       "platform": "tiktok",
       "views": 0,
-      "views_source": "из базы",
-      "views_checked_at": null,
+      "views_source": "по ссылке",
+      "views_checked_at": 1795275096.1620972,
       "published_at": 1795107073.4102085,
       "url": "https://www.tiktok.com/@priscillacalhocb97105718/video/7709926118383471894",
       "has_video_id": true,
-      "evidence": "распознан текст на кадре"
+      "evidence": "распознан текст на кадре",
+      "source_tracked": false
     },
     {
       "person": "ДЕНИС РЯБЦЕВ",
@@ -933,12 +1059,13 @@
       "account_url": "https://www.tiktok.com/@matthewjonesg836824",
       "platform": "tiktok",
       "views": 0,
-      "views_source": "из базы",
-      "views_checked_at": null,
+      "views_source": "по ссылке",
+      "views_checked_at": 1795275096.1620972,
       "published_at": 1795107068.3122308,
       "url": "https://www.tiktok.com/@matthewjonesg836824/video/7709926099253333270",
       "has_video_id": true,
-      "evidence": "распознан текст на кадре"
+      "evidence": "распознан текст на кадре",
+      "source_tracked": false
     },
     {
       "person": "ДЕНИС РЯБЦЕВ",
@@ -947,12 +1074,13 @@
       "account_url": "https://www.tiktok.com/@thomasmorenobx13261183",
       "platform": "tiktok",
       "views": 0,
-      "views_source": "из базы",
-      "views_checked_at": null,
+      "views_source": "по ссылке",
+      "views_checked_at": 1795275096.1620972,
       "published_at": 1795106978.1696668,
       "url": "https://www.tiktok.com/@thomasmorenobx13261183/video/7709925724748008726",
       "has_video_id": true,
-      "evidence": "распознан текст на кадре"
+      "evidence": "распознан текст на кадре",
+      "source_tracked": false
     },
     {
       "person": "ДЕНИС РЯБЦЕВ",
@@ -961,12 +1089,13 @@
       "account_url": "https://www.tiktok.com/@ashleywilliamsp61599188",
       "platform": "tiktok",
       "views": 0,
-      "views_source": "из базы",
-      "views_checked_at": null,
+      "views_source": "по ссылке",
+      "views_checked_at": 1795275096.1620972,
       "published_at": 1795106968.0557685,
       "url": "https://www.tiktok.com/@ashleywilliamsp61599188/video/7709925652648037654",
       "has_video_id": true,
-      "evidence": "распознан текст на кадре"
+      "evidence": "распознан текст на кадре",
+      "source_tracked": false
     },
     {
       "person": "ДЕНИС РЯБЦЕВ",
@@ -975,12 +1104,13 @@
       "account_url": "https://www.tiktok.com/@joshuaharveys8308280",
       "platform": "tiktok",
       "views": 0,
-      "views_source": "из базы",
-      "views_checked_at": null,
+      "views_source": "по ссылке",
+      "views_checked_at": 1795275096.1620972,
       "published_at": 1795106892.9006093,
       "url": "https://www.tiktok.com/@joshuaharveys8308280/video/7709925344203230486",
       "has_video_id": true,
-      "evidence": "распознан текст на кадре"
+      "evidence": "распознан текст на кадре",
+      "source_tracked": false
     },
     {
       "person": "ДЕНИС РЯБЦЕВ",
@@ -989,12 +1119,13 @@
       "account_url": "https://www.tiktok.com/@melissahunton354530",
       "platform": "tiktok",
       "views": 0,
-      "views_source": "из базы",
-      "views_checked_at": null,
+      "views_source": "по ссылке",
+      "views_checked_at": 1795275096.1620972,
       "published_at": 1795106882.790159,
       "url": "https://www.tiktok.com/@melissahunton354530/video/7709925303086320918",
       "has_video_id": true,
-      "evidence": "распознан текст на кадре"
+      "evidence": "распознан текст на кадре",
+      "source_tracked": false
     },
     {
       "person": "ДЕНИС РЯБЦЕВ",
@@ -1003,12 +1134,13 @@
       "account_url": "https://www.tiktok.com/@alyssajenningsk99556710",
       "platform": "tiktok",
       "views": 0,
-      "views_source": "из базы",
-      "views_checked_at": null,
+      "views_source": "по ссылке",
+      "views_checked_at": 1795275096.1620972,
       "published_at": 1795106807.679273,
       "url": "https://www.tiktok.com/@alyssajenningsk99556710/video/7709924983560015126",
       "has_video_id": true,
-      "evidence": "распознан текст на кадре"
+      "evidence": "распознан текст на кадре",
+      "source_tracked": false
     },
     {
       "person": "ДЕНИС РЯБЦЕВ",
@@ -1017,12 +1149,13 @@
       "account_url": "https://www.tiktok.com/@emilyowenn197695",
       "platform": "tiktok",
       "views": 0,
-      "views_source": "из базы",
-      "views_checked_at": null,
+      "views_source": "по ссылке",
+      "views_checked_at": 1795275096.1620972,
       "published_at": 1795106767.585666,
       "url": "https://www.tiktok.com/@emilyowenn197695/video/7709924809387363606",
       "has_video_id": true,
-      "evidence": "распознан текст на кадре"
+      "evidence": "распознан текст на кадре",
+      "source_tracked": false
     },
     {
       "person": "ДЕНИС РЯБЦЕВ",
@@ -1031,12 +1164,13 @@
       "account_url": "https://www.tiktok.com/@thomasbutlerm39360264",
       "platform": "tiktok",
       "views": 0,
-      "views_source": "из базы",
-      "views_checked_at": null,
+      "views_source": "по ссылке",
+      "views_checked_at": 1795275096.1620972,
       "published_at": 1795106702.4793212,
       "url": "https://www.tiktok.com/@thomasbutlerm39360264/video/7709924512761941270",
       "has_video_id": true,
-      "evidence": "распознан текст на кадре"
+      "evidence": "распознан текст на кадре",
+      "source_tracked": false
     },
     {
       "person": "ДЕНИС РЯБЦЕВ",
@@ -1046,11 +1180,12 @@
       "platform": "youtube",
       "views": 1,
       "views_source": "по ссылке",
-      "views_checked_at": 1795260136.6871805,
+      "views_checked_at": 1795275096.1620972,
       "published_at": 1795106677.3691256,
       "url": "https://www.youtube.com/shorts/562hmmM1xRs",
       "has_video_id": true,
-      "evidence": "распознан текст на кадре"
+      "evidence": "распознан текст на кадре",
+      "source_tracked": false
     },
     {
       "person": "ДЕНИС РЯБЦЕВ",
@@ -1059,12 +1194,13 @@
       "account_url": "https://www.tiktok.com/@matthewlyncha9815456",
       "platform": "tiktok",
       "views": 0,
-      "views_source": "из базы",
-      "views_checked_at": null,
+      "views_source": "по ссылке",
+      "views_checked_at": 1795275096.1620972,
       "published_at": 1795106622.1330483,
       "url": "https://www.tiktok.com/@matthewlyncha9815456/video/7709924146435738902",
       "has_video_id": true,
-      "evidence": "распознан текст на кадре"
+      "evidence": "распознан текст на кадре",
+      "source_tracked": false
     },
     {
       "person": "ДЕНИС РЯБЦЕВ",
@@ -1073,12 +1209,13 @@
       "account_url": "https://www.tiktok.com/@jenniferedwardya65272069",
       "platform": "tiktok",
       "views": 0,
-      "views_source": "из базы",
-      "views_checked_at": null,
+      "views_source": "по ссылке",
+      "views_checked_at": 1795275096.1620972,
       "published_at": 1795106602.0325105,
       "url": "https://www.tiktok.com/@jenniferedwardya65272069/video/7709924102764760342",
       "has_video_id": true,
-      "evidence": "распознан текст на кадре"
+      "evidence": "распознан текст на кадре",
+      "source_tracked": false
     },
     {
       "person": "ДЕНИС РЯБЦЕВ",
@@ -1087,12 +1224,13 @@
       "account_url": "https://www.tiktok.com/@cynthiamyersf070289",
       "platform": "tiktok",
       "views": 0,
-      "views_source": "из базы",
-      "views_checked_at": null,
+      "views_source": "по ссылке",
+      "views_checked_at": 1795275096.1620972,
       "published_at": 1795106518.9138334,
       "url": "https://www.tiktok.com/@cynthiamyersf070289/video/7709923734177549590",
       "has_video_id": true,
-      "evidence": "распознан текст на кадре"
+      "evidence": "распознан текст на кадре",
+      "source_tracked": false
     },
     {
       "person": "ДЕНИС РЯБЦЕВ",
@@ -1101,12 +1239,13 @@
       "account_url": "https://www.tiktok.com/@deniska_vibes_live",
       "platform": "tiktok",
       "views": 0,
-      "views_source": "из базы",
-      "views_checked_at": null,
+      "views_source": "по ссылке",
+      "views_checked_at": 1795275096.1620972,
       "published_at": 1795106518.8498116,
       "url": "https://www.tiktok.com/@deniska_vibes_live/video/7709923740494089494",
       "has_video_id": true,
-      "evidence": "распознан текст на кадре"
+      "evidence": "распознан текст на кадре",
+      "source_tracked": false
     },
     {
       "person": "ДЕНИС РЯБЦЕВ",
@@ -1115,12 +1254,13 @@
       "account_url": "https://www.tiktok.com/@victoriameyern6918441",
       "platform": "tiktok",
       "views": 0,
-      "views_source": "из базы",
-      "views_checked_at": null,
+      "views_source": "по ссылке",
+      "views_checked_at": 1795275096.1620972,
       "published_at": 1795106425.7116768,
       "url": "https://www.tiktok.com/@victoriameyern6918441/video/7709923341053807875",
       "has_video_id": true,
-      "evidence": "распознан текст на кадре"
+      "evidence": "распознан текст на кадре",
+      "source_tracked": false
     },
     {
       "person": "ДЕНИС РЯБЦЕВ",
@@ -1129,12 +1269,13 @@
       "account_url": "https://www.tiktok.com/@michellemccallvx2849213",
       "platform": "tiktok",
       "views": 0,
-      "views_source": "из базы",
-      "views_checked_at": null,
+      "views_source": "по ссылке",
+      "views_checked_at": 1795275096.1620972,
       "published_at": 1795106425.6461458,
       "url": "https://www.tiktok.com/@michellemccallvx2849213/video/7709923346426678550",
       "has_video_id": true,
-      "evidence": "распознан текст на кадре"
+      "evidence": "распознан текст на кадре",
+      "source_tracked": false
     },
     {
       "person": "ДЕНИС РЯБЦЕВ",
@@ -1143,12 +1284,13 @@
       "account_url": "https://www.tiktok.com/@crystalwalshgr689907",
       "platform": "tiktok",
       "views": 0,
-      "views_source": "из базы",
-      "views_checked_at": null,
+      "views_source": "по ссылке",
+      "views_checked_at": 1795275096.1620972,
       "published_at": 1795106335.485971,
       "url": "https://www.tiktok.com/@crystalwalshgr689907/video/7709922954129214742",
       "has_video_id": true,
-      "evidence": "распознан текст на кадре"
+      "evidence": "распознан текст на кадре",
+      "source_tracked": false
     },
     {
       "person": "ДЕНИС РЯБЦЕВ",
@@ -1158,11 +1300,12 @@
       "platform": "youtube",
       "views": 3,
       "views_source": "по ссылке",
-      "views_checked_at": 1795260136.9220784,
+      "views_checked_at": 1795275096.1620972,
       "published_at": 1795106250.3164616,
       "url": "https://www.youtube.com/shorts/gXCV8ZuVTNc",
       "has_video_id": true,
-      "evidence": "распознан текст на кадре"
+      "evidence": "распознан текст на кадре",
+      "source_tracked": false
     },
     {
       "person": "ДЕНИС РЯБЦЕВ",
@@ -1170,13 +1313,14 @@
       "account": "@michelleconleybb1395910",
       "account_url": "https://www.tiktok.com/@michelleconleybb1395910",
       "platform": "tiktok",
-      "views": 0,
-      "views_source": "из базы",
-      "views_checked_at": null,
+      "views": 43,
+      "views_source": "по ссылке",
+      "views_checked_at": 1795275096.1620972,
       "published_at": 1795106175.1063087,
       "url": "https://www.tiktok.com/@michelleconleybb1395910/video/7709922249750449431",
       "has_video_id": true,
-      "evidence": "распознан текст на кадре"
+      "evidence": "распознан текст на кадре",
+      "source_tracked": false
     },
     {
       "person": "ДЕНИС РЯБЦЕВ",
@@ -1185,12 +1329,13 @@
       "account_url": "https://www.tiktok.com/@allisondayk389916",
       "platform": "tiktok",
       "views": 0,
-      "views_source": "из базы",
-      "views_checked_at": null,
+      "views_source": "по ссылке",
+      "views_checked_at": 1795275096.1620972,
       "published_at": 1795106084.962216,
       "url": "https://www.tiktok.com/@allisondayk389916/video/7709921885181496598",
       "has_video_id": true,
-      "evidence": "распознан текст на кадре"
+      "evidence": "распознан текст на кадре",
+      "source_tracked": false
     },
     {
       "person": "ДЕНИС РЯБЦЕВ",
@@ -1199,12 +1344,13 @@
       "account_url": "https://www.tiktok.com/@tracysheltonjk0085586",
       "platform": "tiktok",
       "views": 0,
-      "views_source": "из базы",
-      "views_checked_at": null,
+      "views_source": "по ссылке",
+      "views_checked_at": 1795275096.1620972,
       "published_at": 1795105989.8335419,
       "url": "https://www.tiktok.com/@tracysheltonjk0085586/video/7709921464203365654",
       "has_video_id": true,
-      "evidence": "распознан текст на кадре"
+      "evidence": "распознан текст на кадре",
+      "source_tracked": false
     },
     {
       "person": "ДЕНИС РЯБЦЕВ",
@@ -1213,12 +1359,13 @@
       "account_url": "https://www.tiktok.com/@jeremymcmillanq918810",
       "platform": "tiktok",
       "views": 0,
-      "views_source": "из базы",
-      "views_checked_at": null,
+      "views_source": "по ссылке",
+      "views_checked_at": 1795275096.1620972,
       "published_at": 1795105904.7292247,
       "url": "https://www.tiktok.com/@jeremymcmillanq918810/video/7709921100603378966",
       "has_video_id": true,
-      "evidence": "распознан текст на кадре"
+      "evidence": "распознан текст на кадре",
+      "source_tracked": false
     },
     {
       "person": "ДЕНИС РЯБЦЕВ",
@@ -1228,11 +1375,12 @@
       "platform": "youtube",
       "views": 1179,
       "views_source": "по ссылке",
-      "views_checked_at": 1795260138.2160678,
+      "views_checked_at": 1795275096.1620972,
       "published_at": 1795105819.5663807,
       "url": "https://www.youtube.com/shorts/bEFN5C5ePHc",
       "has_video_id": true,
-      "evidence": "распознан текст на кадре"
+      "evidence": "распознан текст на кадре",
+      "source_tracked": false
     },
     {
       "person": "ДЕНИС РЯБЦЕВ",
@@ -1241,12 +1389,13 @@
       "account_url": "https://www.tiktok.com/@ashleybutleral76989147",
       "platform": "tiktok",
       "views": 0,
-      "views_source": "из базы",
-      "views_checked_at": null,
+      "views_source": "по ссылке",
+      "views_checked_at": 1795275096.1620972,
       "published_at": 1795105724.3782456,
       "url": "https://www.tiktok.com/@ashleybutleral76989147/video/7709920337693035798",
       "has_video_id": true,
-      "evidence": "распознан текст на кадре"
+      "evidence": "распознан текст на кадре",
+      "source_tracked": false
     },
     {
       "person": "ДЕНИС РЯБЦЕВ",
@@ -1255,12 +1404,13 @@
       "account_url": "https://www.youtube.com/channel/UCVPldWGwdzCLMTrJHtpM2Iw",
       "platform": "youtube",
       "views": 0,
-      "views_source": "из базы",
-      "views_checked_at": null,
+      "views_source": "по ссылке",
+      "views_checked_at": 1795275096.1620972,
       "published_at": 1795105634.224094,
       "url": "https://www.youtube.com/shorts/PXJ4MExzqPI",
       "has_video_id": true,
-      "evidence": "распознан текст на кадре"
+      "evidence": "распознан текст на кадре",
+      "source_tracked": false
     },
     {
       "person": "ДЕНИС РЯБЦЕВ",
@@ -1269,12 +1419,13 @@
       "account_url": "https://www.tiktok.com/@justinbaileyuj701873",
       "platform": "tiktok",
       "views": 0,
-      "views_source": "из базы",
-      "views_checked_at": null,
+      "views_source": "по ссылке",
+      "views_checked_at": 1795275096.1620972,
       "published_at": 1795105449.0157003,
       "url": "https://www.tiktok.com/@justinbaileyuj701873/video/7709919152873540886",
       "has_video_id": true,
-      "evidence": "распознан текст на кадре"
+      "evidence": "распознан текст на кадре",
+      "source_tracked": false
     },
     {
       "person": "ДЕНИС РЯБЦЕВ",
@@ -1283,12 +1434,13 @@
       "account_url": "https://www.tiktok.com/@michaelfrankliwo33777259",
       "platform": "tiktok",
       "views": 0,
-      "views_source": "из базы",
-      "views_checked_at": null,
+      "views_source": "по ссылке",
+      "views_checked_at": 1795275096.1620972,
       "published_at": 1795105368.8895655,
       "url": "https://www.tiktok.com/@michaelfrankliwo33777259/video/7709918789160209686",
       "has_video_id": true,
-      "evidence": "распознан текст на кадре"
+      "evidence": "распознан текст на кадре",
+      "source_tracked": false
     },
     {
       "person": "ДЕНИС РЯБЦЕВ",
@@ -1297,12 +1449,13 @@
       "account_url": "https://www.tiktok.com/@jeffreymillertl5058149",
       "platform": "tiktok",
       "views": 0,
-      "views_source": "из базы",
-      "views_checked_at": null,
+      "views_source": "по ссылке",
+      "views_checked_at": 1795275096.1620972,
       "published_at": 1795105273.762733,
       "url": "https://www.tiktok.com/@jeffreymillertl5058149/video/7709918381113134358",
       "has_video_id": true,
-      "evidence": "распознан текст на кадре"
+      "evidence": "распознан текст на кадре",
+      "source_tracked": false
     },
     {
       "person": "ДЕНИС РЯБЦЕВ",
@@ -1311,12 +1464,13 @@
       "account_url": "https://www.tiktok.com/@laurenricewu281953",
       "platform": "tiktok",
       "views": 0,
-      "views_source": "из базы",
-      "views_checked_at": null,
+      "views_source": "по ссылке",
+      "views_checked_at": 1795275096.1620972,
       "published_at": 1795105173.6258178,
       "url": "https://www.tiktok.com/@laurenricewu281953/video/7709917950614015254",
       "has_video_id": true,
-      "evidence": "распознан текст на кадре"
+      "evidence": "распознан текст на кадре",
+      "source_tracked": false
     },
     {
       "person": "ДЕНИС РЯБЦЕВ",
@@ -1325,12 +1479,13 @@
       "account_url": "https://www.tiktok.com/@rachelsmithpb073260",
       "platform": "tiktok",
       "views": 0,
-      "views_source": "из базы",
-      "views_checked_at": null,
+      "views_source": "по ссылке",
+      "views_checked_at": 1795275096.1620972,
       "published_at": 1795105078.4877665,
       "url": "https://www.tiktok.com/@rachelsmithpb073260/video/7709917565815885078",
       "has_video_id": true,
-      "evidence": "распознан текст на кадре"
+      "evidence": "распознан текст на кадре",
+      "source_tracked": false
     },
     {
       "person": "ДЕНИС РЯБЦЕВ",
@@ -1339,12 +1494,13 @@
       "account_url": "https://www.tiktok.com/@andrewandersonp3470239",
       "platform": "tiktok",
       "views": 0,
-      "views_source": "из базы",
-      "views_checked_at": null,
+      "views_source": "по ссылке",
+      "views_checked_at": 1795275096.1620972,
       "published_at": 1795104988.337533,
       "url": "https://www.tiktok.com/@andrewandersonp3470239/video/7709917160386120963",
       "has_video_id": true,
-      "evidence": "распознан текст на кадре"
+      "evidence": "распознан текст на кадре",
+      "source_tracked": false
     },
     {
       "person": "ДЕНИС РЯБЦЕВ",
@@ -1353,12 +1509,13 @@
       "account_url": "https://www.tiktok.com/@austinromeroir0175249",
       "platform": "tiktok",
       "views": 0,
-      "views_source": "из базы",
-      "views_checked_at": null,
+      "views_source": "по ссылке",
+      "views_checked_at": 1795275096.1620972,
       "published_at": 1795104893.1827261,
       "url": "https://www.tiktok.com/@austinromeroir0175249/video/7709916764598963478",
       "has_video_id": true,
-      "evidence": "распознан текст на кадре"
+      "evidence": "распознан текст на кадре",
+      "source_tracked": false
     },
     {
       "person": "ДЕНИС РЯБЦЕВ",
@@ -1366,13 +1523,14 @@
       "account": "@pemokidag774",
       "account_url": "https://www.tiktok.com/@pemokidag774",
       "platform": "tiktok",
-      "views": 0,
-      "views_source": "из базы",
+      "views": null,
+      "views_source": "нет проверенных данных",
       "views_checked_at": null,
       "published_at": 1795104758.0482752,
       "url": "https://www.tiktok.com/@pemokidag774/video/7709916145750461718",
       "has_video_id": true,
-      "evidence": "распознан текст на кадре"
+      "evidence": "распознан текст на кадре",
+      "source_tracked": false
     },
     {
       "person": "ДЕНИС РЯБЦЕВ",
@@ -1381,12 +1539,13 @@
       "account_url": "https://www.youtube.com/channel/UCJTYinMD1TNKQh2sW0GCLzA",
       "platform": "youtube",
       "views": 0,
-      "views_source": "из базы",
-      "views_checked_at": null,
+      "views_source": "по ссылке",
+      "views_checked_at": 1795275096.1620972,
       "published_at": 1795104527.8274364,
       "url": "https://www.youtube.com/shorts/5Db88A9Zcyw",
       "has_video_id": true,
-      "evidence": "распознан текст на кадре"
+      "evidence": "распознан текст на кадре",
+      "source_tracked": false
     },
     {
       "person": "ДЕНИС РЯБЦЕВ",
@@ -1395,12 +1554,13 @@
       "account_url": "https://www.tiktok.com/@carldaviss071217",
       "platform": "tiktok",
       "views": 0,
-      "views_source": "из базы",
-      "views_checked_at": null,
+      "views_source": "по ссылке",
+      "views_checked_at": 1795275096.1620972,
       "published_at": 1795104522.704303,
       "url": "https://www.tiktok.com/@carldaviss071217/video/7709915143500500246",
       "has_video_id": true,
-      "evidence": "распознан текст на кадре"
+      "evidence": "распознан текст на кадре",
+      "source_tracked": false
     },
     {
       "person": "ДЕНИС РЯБЦЕВ",
@@ -1409,12 +1569,13 @@
       "account_url": "https://www.tiktok.com/@unairodero5",
       "platform": "tiktok",
       "views": 0,
-      "views_source": "из базы",
-      "views_checked_at": null,
+      "views_source": "по ссылке",
+      "views_checked_at": 1795275096.1620972,
       "published_at": 1795104452.5565546,
       "url": "https://www.tiktok.com/@unairodero5/video/7709914783104945421",
       "has_video_id": true,
-      "evidence": "распознан текст на кадре"
+      "evidence": "распознан текст на кадре",
+      "source_tracked": false
     },
     {
       "person": "ДЕНИС РЯБЦЕВ",
@@ -1423,12 +1584,13 @@
       "account_url": "https://www.youtube.com/channel/UCYN9iaBt8AKZ52Dscal_adw",
       "platform": "youtube",
       "views": 0,
-      "views_source": "из базы",
-      "views_checked_at": null,
+      "views_source": "по ссылке",
+      "views_checked_at": 1795275096.1620972,
       "published_at": 1795104442.4630942,
       "url": "https://www.youtube.com/shorts/JY2B8TXWONA",
       "has_video_id": true,
-      "evidence": "распознан текст на кадре"
+      "evidence": "распознан текст на кадре",
+      "source_tracked": false
     },
     {
       "person": "ДЕНИС РЯБЦЕВ",
@@ -1437,12 +1599,13 @@
       "account_url": "https://www.tiktok.com/@aropokzeropo",
       "platform": "tiktok",
       "views": 0,
-      "views_source": "из базы",
-      "views_checked_at": null,
+      "views_source": "по ссылке",
+      "views_checked_at": 1795275096.1620972,
       "published_at": 1795104337.2793024,
       "url": "https://www.tiktok.com/@aropokzeropo/video/7709914296234331423",
       "has_video_id": true,
-      "evidence": "распознан текст на кадре"
+      "evidence": "распознан текст на кадре",
+      "source_tracked": false
     },
     {
       "person": "ДЕНИС РЯБЦЕВ",
@@ -1450,13 +1613,14 @@
       "account": "work16",
       "account_url": "",
       "platform": "instagram",
-      "views": 0,
-      "views_source": "из базы",
+      "views": null,
+      "views_source": "нет проверенных данных",
       "views_checked_at": null,
       "published_at": 1795104282.170504,
       "url": "",
       "has_video_id": false,
-      "evidence": "распознан текст на кадре"
+      "evidence": "распознан текст на кадре",
+      "source_tracked": false
     },
     {
       "person": "ДЕНИС РЯБЦЕВ",
@@ -1465,12 +1629,13 @@
       "account_url": "https://www.youtube.com/channel/UC17TunByvdjZnP9hFUHvTBg",
       "platform": "youtube",
       "views": 2,
-      "views_source": "из базы",
-      "views_checked_at": null,
+      "views_source": "по ссылке",
+      "views_checked_at": 1795275096.1620972,
       "published_at": 1795104232.0366886,
       "url": "https://www.youtube.com/shorts/xL2xrQWeiok",
       "has_video_id": true,
-      "evidence": "распознан текст на кадре"
+      "evidence": "распознан текст на кадре",
+      "source_tracked": false
     },
     {
       "person": "ДЕНИС РЯБЦЕВ",
@@ -1480,11 +1645,12 @@
       "platform": "youtube",
       "views": 4,
       "views_source": "по ссылке",
-      "views_checked_at": 1795260140.2184372,
+      "views_checked_at": 1795275096.1620972,
       "published_at": 1795104128.8576646,
       "url": "https://www.youtube.com/shorts/Tv8FkySizj0",
       "has_video_id": true,
-      "evidence": "распознан текст на кадре"
+      "evidence": "распознан текст на кадре",
+      "source_tracked": false
     },
     {
       "person": "ДЕНИС РЯБЦЕВ",
@@ -1493,12 +1659,13 @@
       "account_url": "https://www.tiktok.com/@dotadva218",
       "platform": "tiktok",
       "views": 0,
-      "views_source": "из базы",
-      "views_checked_at": null,
+      "views_source": "по ссылке",
+      "views_checked_at": 1795275096.1620972,
       "published_at": 1795104128.7481294,
       "url": "https://www.tiktok.com/@dotadva218/video/7709913417871559966",
       "has_video_id": true,
-      "evidence": "распознан текст на кадре"
+      "evidence": "распознан текст на кадре",
+      "source_tracked": false
     },
     {
       "person": "ДЕНИС РЯБЦЕВ",
@@ -1506,13 +1673,14 @@
       "account": "Ден Ряба | Клипы",
       "account_url": "https://www.youtube.com/channel/UCihLZLylVm5Y3p-CJn8wPsw",
       "platform": "youtube",
-      "views": 1145,
+      "views": 1148,
       "views_source": "по ссылке",
-      "views_checked_at": 1795260141.4166477,
+      "views_checked_at": 1795275096.1620972,
       "published_at": 1795104028.5830276,
       "url": "https://www.youtube.com/shorts/qydnj13fwS0",
       "has_video_id": true,
-      "evidence": "распознан текст на кадре"
+      "evidence": "распознан текст на кадре",
+      "source_tracked": false
     },
     {
       "person": "ДЕНИС РЯБЦЕВ",
@@ -1520,13 +1688,14 @@
       "account": "Ден Ряба | Лучшее",
       "account_url": "https://www.youtube.com/channel/UCly8awoC69ZLSRZ3CnYNm_Q",
       "platform": "youtube",
-      "views": 1,
+      "views": 7,
       "views_source": "по ссылке",
-      "views_checked_at": 1795260141.7000291,
+      "views_checked_at": 1795275096.1620972,
       "published_at": 1795103943.4007359,
       "url": "https://www.youtube.com/shorts/V3hLdS4jfS8",
       "has_video_id": true,
-      "evidence": "распознан текст на кадре"
+      "evidence": "распознан текст на кадре",
+      "source_tracked": false
     },
     {
       "person": "ДЕНИС РЯБЦЕВ",
@@ -1534,13 +1703,14 @@
       "account": "@lauralewisr46484288",
       "account_url": "https://www.tiktok.com/@lauralewisr46484288",
       "platform": "tiktok",
-      "views": 0,
-      "views_source": "из базы",
+      "views": null,
+      "views_source": "нет проверенных данных",
       "views_checked_at": null,
       "published_at": 1795103918.2658527,
       "url": "https://www.tiktok.com/@lauralewisr46484288/video/7709912566469889302",
       "has_video_id": true,
-      "evidence": "распознан текст на кадре"
+      "evidence": "распознан текст на кадре",
+      "source_tracked": false
     },
     {
       "person": "ДЕНИС РЯБЦЕВ",
@@ -1549,12 +1719,13 @@
       "account_url": "https://www.tiktok.com/@matthewjonesg836824",
       "platform": "tiktok",
       "views": 0,
-      "views_source": "из базы",
-      "views_checked_at": null,
+      "views_source": "по ссылке",
+      "views_checked_at": 1795275096.1620972,
       "published_at": 1795076299.3072367,
       "url": "https://www.tiktok.com/@matthewjonesg836824/video/7709793903947435286",
       "has_video_id": true,
-      "evidence": "распознан текст на кадре"
+      "evidence": "распознан текст на кадре",
+      "source_tracked": false
     },
     {
       "person": "ДЕНИС РЯБЦЕВ",
@@ -1562,13 +1733,14 @@
       "account": "@priscillacalhocb97105718",
       "account_url": "https://www.tiktok.com/@priscillacalhocb97105718",
       "platform": "tiktok",
-      "views": 0,
-      "views_source": "из базы",
+      "views": null,
+      "views_source": "нет проверенных данных",
       "views_checked_at": null,
       "published_at": 1795076289.1734803,
       "url": "https://www.tiktok.com/@priscillacalhocb97105718/video/7709793874427792662",
       "has_video_id": true,
-      "evidence": "распознан текст на кадре"
+      "evidence": "распознан текст на кадре",
+      "source_tracked": false
     },
     {
       "person": "ДЕНИС РЯБЦЕВ",
@@ -1577,12 +1749,13 @@
       "account_url": "https://www.tiktok.com/@thomasmorenobx13261183",
       "platform": "tiktok",
       "views": 0,
-      "views_source": "из базы",
-      "views_checked_at": null,
+      "views_source": "по ссылке",
+      "views_checked_at": 1795275096.1620972,
       "published_at": 1795076209.0230389,
       "url": "https://www.tiktok.com/@thomasmorenobx13261183/video/7709793518549486870",
       "has_video_id": true,
-      "evidence": "распознан текст на кадре"
+      "evidence": "распознан текст на кадре",
+      "source_tracked": false
     },
     {
       "person": "ДЕНИС РЯБЦЕВ",
@@ -1591,12 +1764,13 @@
       "account_url": "https://www.tiktok.com/@ashleywilliamsp61599188",
       "platform": "tiktok",
       "views": 0,
-      "views_source": "из базы",
-      "views_checked_at": null,
+      "views_source": "по ссылке",
+      "views_checked_at": 1795275096.1620972,
       "published_at": 1795076193.8998547,
       "url": "https://www.tiktok.com/@ashleywilliamsp61599188/video/7709793473221659926",
       "has_video_id": true,
-      "evidence": "распознан текст на кадре"
+      "evidence": "распознан текст на кадре",
+      "source_tracked": false
     },
     {
       "person": "ДЕНИС РЯБЦЕВ",
@@ -1605,12 +1779,13 @@
       "account_url": "https://www.tiktok.com/@joshuaharveys8308280",
       "platform": "tiktok",
       "views": 0,
-      "views_source": "из базы",
-      "views_checked_at": null,
+      "views_source": "по ссылке",
+      "views_checked_at": 1795275096.1620972,
       "published_at": 1795076118.7938645,
       "url": "https://www.tiktok.com/@joshuaharveys8308280/video/7709793104995421462",
       "has_video_id": true,
-      "evidence": "распознан текст на кадре"
+      "evidence": "распознан текст на кадре",
+      "source_tracked": false
     },
     {
       "person": "ДЕНИС РЯБЦЕВ",
@@ -1619,12 +1794,13 @@
       "account_url": "https://www.tiktok.com/@melissahunton354530",
       "platform": "tiktok",
       "views": 0,
-      "views_source": "из базы",
-      "views_checked_at": null,
+      "views_source": "по ссылке",
+      "views_checked_at": 1795275096.1620972,
       "published_at": 1795076103.698077,
       "url": "https://www.tiktok.com/@melissahunton354530/video/7709793070035832086",
       "has_video_id": true,
-      "evidence": "распознан текст на кадре"
+      "evidence": "распознан текст на кадре",
+      "source_tracked": false
     },
     {
       "person": "ДЕНИС РЯБЦЕВ",
@@ -1633,12 +1809,13 @@
       "account_url": "https://www.tiktok.com/@alyssajenningsk99556710",
       "platform": "tiktok",
       "views": 0,
-      "views_source": "из базы",
-      "views_checked_at": null,
+      "views_source": "по ссылке",
+      "views_checked_at": 1795275096.1620972,
       "published_at": 1795076038.5913124,
       "url": "https://www.tiktok.com/@alyssajenningsk99556710/video/7709792760810851606",
       "has_video_id": true,
-      "evidence": "распознан текст на кадре"
+      "evidence": "распознан текст на кадре",
+      "source_tracked": false
     },
     {
       "person": "ДЕНИС РЯБЦЕВ",
@@ -1647,12 +1824,13 @@
       "account_url": "https://www.tiktok.com/@emilyowenn197695",
       "platform": "tiktok",
       "views": 0,
-      "views_source": "из базы",
-      "views_checked_at": null,
+      "views_source": "по ссылке",
+      "views_checked_at": 1795275096.1620972,
       "published_at": 1795076003.5016294,
       "url": "https://www.tiktok.com/@emilyowenn197695/video/7709792651293248790",
       "has_video_id": true,
-      "evidence": "распознан текст на кадре"
+      "evidence": "распознан текст на кадре",
+      "source_tracked": false
     },
     {
       "person": "ДЕНИС РЯБЦЕВ",
@@ -1661,12 +1839,13 @@
       "account_url": "https://www.tiktok.com/@thomasbutlerm39360264",
       "platform": "tiktok",
       "views": 0,
-      "views_source": "из базы",
-      "views_checked_at": null,
+      "views_source": "по ссылке",
+      "views_checked_at": 1795275096.1620972,
       "published_at": 1795075933.3548927,
       "url": "https://www.tiktok.com/@thomasbutlerm39360264/video/7709792331775429910",
       "has_video_id": true,
-      "evidence": "распознан текст на кадре"
+      "evidence": "распознан текст на кадре",
+      "source_tracked": false
     },
     {
       "person": "ДЕНИС РЯБЦЕВ",
@@ -1675,12 +1854,13 @@
       "account_url": "https://www.youtube.com/channel/UCw72xO70DDbopQid0N9zDuQ",
       "platform": "youtube",
       "views": 0,
-      "views_source": "из базы",
-      "views_checked_at": null,
+      "views_source": "по ссылке",
+      "views_checked_at": 1795275096.1620972,
       "published_at": 1795075913.2378428,
       "url": "https://www.youtube.com/shorts/NeT-27CO_1I",
       "has_video_id": true,
-      "evidence": "распознан текст на кадре"
+      "evidence": "распознан текст на кадре",
+      "source_tracked": false
     },
     {
       "person": "ДЕНИС РЯБЦЕВ",
@@ -1689,12 +1869,13 @@
       "account_url": "https://www.tiktok.com/@jenniferedwardya65272069",
       "platform": "tiktok",
       "views": 0,
-      "views_source": "из базы",
-      "views_checked_at": null,
+      "views_source": "по ссылке",
+      "views_checked_at": 1795275096.1620972,
       "published_at": 1795075843.0827112,
       "url": "https://www.tiktok.com/@jenniferedwardya65272069/video/7709791959845473558",
       "has_video_id": true,
-      "evidence": "распознан текст на кадре"
+      "evidence": "распознан текст на кадре",
+      "source_tracked": false
     },
     {
       "person": "ДЕНИС РЯБЦЕВ",
@@ -1703,12 +1884,13 @@
       "account_url": "https://www.tiktok.com/@matthewlyncha9815456",
       "platform": "tiktok",
       "views": 0,
-      "views_source": "из базы",
-      "views_checked_at": null,
+      "views_source": "по ссылке",
+      "views_checked_at": 1795275096.1620972,
       "published_at": 1795075832.9952464,
       "url": "https://www.tiktok.com/@matthewlyncha9815456/video/7709791909434182934",
       "has_video_id": true,
-      "evidence": "распознан текст на кадре"
+      "evidence": "распознан текст на кадре",
+      "source_tracked": false
     },
     {
       "person": "ДЕНИС РЯБЦЕВ",
@@ -1717,12 +1899,13 @@
       "account_url": "https://www.tiktok.com/@cynthiamyersf070289",
       "platform": "tiktok",
       "views": 0,
-      "views_source": "из базы",
-      "views_checked_at": null,
+      "views_source": "по ссылке",
+      "views_checked_at": 1795275096.1620972,
       "published_at": 1795075752.871694,
       "url": "https://www.tiktok.com/@cynthiamyersf070289/video/7709791576851025174",
       "has_video_id": true,
-      "evidence": "распознан текст на кадре"
+      "evidence": "распознан текст на кадре",
+      "source_tracked": false
     },
     {
       "person": "ДЕНИС РЯБЦЕВ",
@@ -1731,12 +1914,13 @@
       "account_url": "https://www.tiktok.com/@deniska_vibes_live",
       "platform": "tiktok",
       "views": 0,
-      "views_source": "из базы",
-      "views_checked_at": null,
+      "views_source": "по ссылке",
+      "views_checked_at": 1795275096.1620972,
       "published_at": 1795075732.7707052,
       "url": "https://www.tiktok.com/@deniska_vibes_live/video/7709791467950132502",
       "has_video_id": true,
-      "evidence": "распознан текст на кадре"
+      "evidence": "распознан текст на кадре",
+      "source_tracked": false
     },
     {
       "person": "ДЕНИС РЯБЦЕВ",
@@ -1745,12 +1929,13 @@
       "account_url": "https://www.tiktok.com/@crystalwalshgr689907",
       "platform": "tiktok",
       "views": 0,
-      "views_source": "из базы",
-      "views_checked_at": null,
+      "views_source": "по ссылке",
+      "views_checked_at": 1795275096.1620972,
       "published_at": 1795075667.6719482,
       "url": "https://www.tiktok.com/@crystalwalshgr689907/video/7709791173673569558",
       "has_video_id": true,
-      "evidence": "по имени файла · требуется проверка"
+      "evidence": "по имени файла · требуется проверка",
+      "source_tracked": false
     },
     {
       "person": "ДЕНИС РЯБЦЕВ",
@@ -1759,12 +1944,13 @@
       "account_url": "https://www.tiktok.com/@victoriameyern6918441",
       "platform": "tiktok",
       "views": 0,
-      "views_source": "из базы",
-      "views_checked_at": null,
+      "views_source": "по ссылке",
+      "views_checked_at": 1795275096.1620972,
       "published_at": 1795075642.584498,
       "url": "https://www.tiktok.com/@victoriameyern6918441/video/7709791082258631938",
       "has_video_id": true,
-      "evidence": "распознан текст на кадре"
+      "evidence": "распознан текст на кадре",
+      "source_tracked": false
     },
     {
       "person": "ДЕНИС РЯБЦЕВ",
@@ -1773,12 +1959,13 @@
       "account_url": "https://www.youtube.com/channel/UCCs8AJdeF-I7J4BFjX3KDgw",
       "platform": "youtube",
       "views": 0,
-      "views_source": "из базы",
-      "views_checked_at": null,
+      "views_source": "по ссылке",
+      "views_checked_at": 1795275096.1620972,
       "published_at": 1795075577.4544077,
       "url": "https://www.youtube.com/shorts/HtBqbFNt20k",
       "has_video_id": true,
-      "evidence": "по имени файла · требуется проверка"
+      "evidence": "по имени файла · требуется проверка",
+      "source_tracked": false
     },
     {
       "person": "ДЕНИС РЯБЦЕВ",
@@ -1787,12 +1974,13 @@
       "account_url": "https://www.tiktok.com/@michellemccallvx2849213",
       "platform": "tiktok",
       "views": 0,
-      "views_source": "из базы",
-      "views_checked_at": null,
+      "views_source": "по ссылке",
+      "views_checked_at": 1795275096.1620972,
       "published_at": 1795075547.3134148,
       "url": "https://www.tiktok.com/@michellemccallvx2849213/video/7709790679446179094",
       "has_video_id": true,
-      "evidence": "распознан текст на кадре"
+      "evidence": "распознан текст на кадре",
+      "source_tracked": false
     },
     {
       "person": "ДЕНИС РЯБЦЕВ",
@@ -1800,13 +1988,14 @@
       "account": "@michelleconleybb1395910",
       "account_url": "https://www.tiktok.com/@michelleconleybb1395910",
       "platform": "tiktok",
-      "views": 0,
-      "views_source": "из базы",
-      "views_checked_at": null,
+      "views": 2,
+      "views_source": "по ссылке",
+      "views_checked_at": 1795275096.1620972,
       "published_at": 1795075457.1899362,
       "url": "https://www.tiktok.com/@michelleconleybb1395910/video/7709790316806638850",
       "has_video_id": true,
-      "evidence": "распознан текст на кадре"
+      "evidence": "распознан текст на кадре",
+      "source_tracked": false
     },
     {
       "person": "ДЕНИС РЯБЦЕВ",
@@ -1815,12 +2004,13 @@
       "account_url": "https://www.tiktok.com/@allisondayk389916",
       "platform": "tiktok",
       "views": 0,
-      "views_source": "из базы",
-      "views_checked_at": null,
+      "views_source": "по ссылке",
+      "views_checked_at": 1795275096.1620972,
       "published_at": 1795075392.0698345,
       "url": "https://www.tiktok.com/@allisondayk389916/video/7709790017433931030",
       "has_video_id": true,
-      "evidence": "распознан текст на кадре"
+      "evidence": "распознан текст на кадре",
+      "source_tracked": false
     },
     {
       "person": "ДЕНИС РЯБЦЕВ",
@@ -1829,12 +2019,13 @@
       "account_url": "https://www.tiktok.com/@tracysheltonjk0085586",
       "platform": "tiktok",
       "views": 0,
-      "views_source": "из базы",
-      "views_checked_at": null,
+      "views_source": "по ссылке",
+      "views_checked_at": 1795275096.1620972,
       "published_at": 1795075371.9638805,
       "url": "https://www.tiktok.com/@tracysheltonjk0085586/video/7709789945598053654",
       "has_video_id": true,
-      "evidence": "распознан текст на кадре"
+      "evidence": "распознан текст на кадре",
+      "source_tracked": false
     },
     {
       "person": "ДЕНИС РЯБЦЕВ",
@@ -1843,12 +2034,13 @@
       "account_url": "https://www.tiktok.com/@ashleybutleral76989147",
       "platform": "tiktok",
       "views": 0,
-      "views_source": "из базы",
-      "views_checked_at": null,
+      "views_source": "по ссылке",
+      "views_checked_at": 1795275096.1620972,
       "published_at": 1795075301.850371,
       "url": "https://www.tiktok.com/@ashleybutleral76989147/video/7709789627518881046",
       "has_video_id": true,
-      "evidence": "распознан текст на кадре"
+      "evidence": "распознан текст на кадре",
+      "source_tracked": false
     },
     {
       "person": "ДЕНИС РЯБЦЕВ",
@@ -1857,12 +2049,13 @@
       "account_url": "https://www.tiktok.com/@jeremymcmillanq918810",
       "platform": "tiktok",
       "views": 0,
-      "views_source": "из базы",
-      "views_checked_at": null,
+      "views_source": "по ссылке",
+      "views_checked_at": 1795275096.1620972,
       "published_at": 1795075281.7561269,
       "url": "https://www.tiktok.com/@jeremymcmillanq918810/video/7709789537039387926",
       "has_video_id": true,
-      "evidence": "распознан текст на кадре"
+      "evidence": "распознан текст на кадре",
+      "source_tracked": false
     },
     {
       "person": "ДЕНИС РЯБЦЕВ",
@@ -1871,12 +2064,13 @@
       "account_url": "https://www.youtube.com/channel/UCVPldWGwdzCLMTrJHtpM2Iw",
       "platform": "youtube",
       "views": 0,
-      "views_source": "из базы",
-      "views_checked_at": null,
+      "views_source": "по ссылке",
+      "views_checked_at": 1795275096.1620972,
       "published_at": 1795075211.6275523,
       "url": "https://www.youtube.com/shorts/X_PCOng4Cko",
       "has_video_id": true,
-      "evidence": "распознан текст на кадре"
+      "evidence": "распознан текст на кадре",
+      "source_tracked": false
     },
     {
       "person": "ДЕНИС РЯБЦЕВ",
@@ -1886,11 +2080,12 @@
       "platform": "youtube",
       "views": 2,
       "views_source": "по ссылке",
-      "views_checked_at": 1795260145.1668012,
+      "views_checked_at": 1795275096.1620972,
       "published_at": 1795075191.479426,
       "url": "https://www.youtube.com/shorts/o0PnKCKu_mc",
       "has_video_id": true,
-      "evidence": "распознан текст на кадре"
+      "evidence": "распознан текст на кадре",
+      "source_tracked": false
     },
     {
       "person": "ДЕНИС РЯБЦЕВ",
@@ -1899,12 +2094,13 @@
       "account_url": "https://www.tiktok.com/@justinbaileyuj701873",
       "platform": "tiktok",
       "views": 0,
-      "views_source": "из базы",
-      "views_checked_at": null,
+      "views_source": "по ссылке",
+      "views_checked_at": 1795275096.1620972,
       "published_at": 1795075086.3245804,
       "url": "https://www.tiktok.com/@justinbaileyuj701873/video/7709788677362240790",
       "has_video_id": true,
-      "evidence": "распознан текст на кадре"
+      "evidence": "распознан текст на кадре",
+      "source_tracked": false
     },
     {
       "person": "ДЕНИС РЯБЦЕВ",
@@ -1913,12 +2109,13 @@
       "account_url": "https://www.tiktok.com/@michaelfrankliwo33777259",
       "platform": "tiktok",
       "views": 0,
-      "views_source": "из базы",
-      "views_checked_at": null,
+      "views_source": "по ссылке",
+      "views_checked_at": 1795275096.1620972,
       "published_at": 1795075036.2235234,
       "url": "https://www.tiktok.com/@michaelfrankliwo33777259/video/7709788511796301078",
       "has_video_id": true,
-      "evidence": "распознан текст на кадре"
+      "evidence": "распознан текст на кадре",
+      "source_tracked": false
     },
     {
       "person": "ДЕНИС РЯБЦЕВ",
@@ -1927,12 +2124,13 @@
       "account_url": "https://www.tiktok.com/@jeffreymillertl5058149",
       "platform": "tiktok",
       "views": 0,
-      "views_source": "из базы",
-      "views_checked_at": null,
+      "views_source": "по ссылке",
+      "views_checked_at": 1795275096.1620972,
       "published_at": 1795074971.1122148,
       "url": "https://www.tiktok.com/@jeffreymillertl5058149/video/7709788185550753046",
       "has_video_id": true,
-      "evidence": "распознан текст на кадре"
+      "evidence": "распознан текст на кадре",
+      "source_tracked": false
     },
     {
       "person": "ДЕНИС РЯБЦЕВ",
@@ -1941,12 +2139,13 @@
       "account_url": "https://www.tiktok.com/@laurenricewu281953",
       "platform": "tiktok",
       "views": 0,
-      "views_source": "из базы",
-      "views_checked_at": null,
+      "views_source": "по ссылке",
+      "views_checked_at": 1795275096.1620972,
       "published_at": 1795074931.0199883,
       "url": "https://www.tiktok.com/@laurenricewu281953/video/7709788041233075478",
       "has_video_id": true,
-      "evidence": "распознан текст на кадре"
+      "evidence": "распознан текст на кадре",
+      "source_tracked": false
     },
     {
       "person": "ДЕНИС РЯБЦЕВ",
@@ -1955,12 +2154,13 @@
       "account_url": "https://www.tiktok.com/@rachelsmithpb073260",
       "platform": "tiktok",
       "views": 0,
-      "views_source": "из базы",
-      "views_checked_at": null,
+      "views_source": "по ссылке",
+      "views_checked_at": 1795275096.1620972,
       "published_at": 1795074875.9132164,
       "url": "https://www.tiktok.com/@rachelsmithpb073260/video/7709787779458206999",
       "has_video_id": true,
-      "evidence": "распознан текст на кадре"
+      "evidence": "распознан текст на кадре",
+      "source_tracked": false
     },
     {
       "person": "ДЕНИС РЯБЦЕВ",
@@ -1969,12 +2169,13 @@
       "account_url": "https://www.tiktok.com/@andrewandersonp3470239",
       "platform": "tiktok",
       "views": 0,
-      "views_source": "из базы",
-      "views_checked_at": null,
+      "views_source": "по ссылке",
+      "views_checked_at": 1795275096.1620972,
       "published_at": 1795074845.822211,
       "url": "https://www.tiktok.com/@andrewandersonp3470239/video/7709787672457350422",
       "has_video_id": true,
-      "evidence": "распознан текст на кадре"
+      "evidence": "распознан текст на кадре",
+      "source_tracked": false
     },
     {
       "person": "ДЕНИС РЯБЦЕВ",
@@ -1983,12 +2184,13 @@
       "account_url": "https://www.tiktok.com/@pemokidag774",
       "platform": "tiktok",
       "views": 0,
-      "views_source": "из базы",
-      "views_checked_at": null,
+      "views_source": "по ссылке",
+      "views_checked_at": 1795275096.1620972,
       "published_at": 1795074775.7150223,
       "url": "https://www.tiktok.com/@pemokidag774/video/7709787356378696982",
       "has_video_id": true,
-      "evidence": "распознан текст на кадре"
+      "evidence": "распознан текст на кадре",
+      "source_tracked": false
     },
     {
       "person": "ДЕНИС РЯБЦЕВ",
@@ -1997,26 +2199,28 @@
       "account_url": "https://www.tiktok.com/@austinromeroir0175249",
       "platform": "tiktok",
       "views": 0,
-      "views_source": "из базы",
-      "views_checked_at": null,
+      "views_source": "по ссылке",
+      "views_checked_at": 1795275096.1620972,
       "published_at": 1795074755.628058,
       "url": "https://www.tiktok.com/@austinromeroir0175249/video/7709787288238034198",
       "has_video_id": true,
-      "evidence": "распознан текст на кадре"
+      "evidence": "распознан текст на кадре",
+      "source_tracked": false
     },
     {
       "person": "ДЕНИС РЯБЦЕВ",
       "profile": "work45",
-      "account": "work45",
-      "account_url": "",
+      "account": "@pemokidag774",
+      "account_url": "https://www.instagram.com/pemokidag774/",
       "platform": "instagram",
-      "views": 0,
-      "views_source": "из базы",
-      "views_checked_at": null,
+      "views": 113,
+      "views_source": "по ссылке",
+      "views_checked_at": 1795275096.1620972,
       "published_at": 1795074680.48978,
-      "url": "",
-      "has_video_id": false,
-      "evidence": "распознан текст на кадре"
+      "url": "https://www.instagram.com/pemokidag774/reel/Df6lW0xyAfO/",
+      "has_video_id": true,
+      "evidence": "распознан текст на кадре",
+      "source_tracked": false
     },
     {
       "person": "ДЕНИС РЯБЦЕВ",
@@ -2025,12 +2229,13 @@
       "account_url": "https://www.tiktok.com/@user8278593368309",
       "platform": "tiktok",
       "views": 0,
-      "views_source": "из базы",
-      "views_checked_at": null,
+      "views_source": "по ссылке",
+      "views_checked_at": 1795275096.1620972,
       "published_at": 1795074655.3831778,
       "url": "https://www.tiktok.com/@user8278593368309/video/7709786830345948438",
       "has_video_id": true,
-      "evidence": "распознан текст на кадре"
+      "evidence": "распознан текст на кадре",
+      "source_tracked": false
     },
     {
       "person": "ДЕНИС РЯБЦЕВ",
@@ -2039,12 +2244,13 @@
       "account_url": "https://www.youtube.com/channel/UCJTYinMD1TNKQh2sW0GCLzA",
       "platform": "youtube",
       "views": 0,
-      "views_source": "из базы",
-      "views_checked_at": null,
+      "views_source": "по ссылке",
+      "views_checked_at": 1795275096.1620972,
       "published_at": 1795074565.2409499,
       "url": "https://www.youtube.com/shorts/l7DYvB98Uxo",
       "has_video_id": true,
-      "evidence": "распознан текст на кадре"
+      "evidence": "распознан текст на кадре",
+      "source_tracked": false
     },
     {
       "person": "ДЕНИС РЯБЦЕВ",
@@ -2053,12 +2259,13 @@
       "account_url": "https://www.tiktok.com/@carldaviss071217",
       "platform": "tiktok",
       "views": 0,
-      "views_source": "из базы",
-      "views_checked_at": null,
+      "views_source": "по ссылке",
+      "views_checked_at": 1795275096.1620972,
       "published_at": 1795074514.9688447,
       "url": "https://www.tiktok.com/@carldaviss071217/video/7709786200713858326",
       "has_video_id": true,
-      "evidence": "распознан текст на кадре"
+      "evidence": "распознан текст на кадре",
+      "source_tracked": false
     },
     {
       "person": "ДЕНИС РЯБЦЕВ",
@@ -2067,12 +2274,13 @@
       "account_url": "https://www.tiktok.com/@unairodero5",
       "platform": "tiktok",
       "views": 0,
-      "views_source": "из базы",
-      "views_checked_at": null,
+      "views_source": "по ссылке",
+      "views_checked_at": 1795275096.1620972,
       "published_at": 1795074464.873755,
       "url": "https://www.tiktok.com/@unairodero5/video/7709785809615867149",
       "has_video_id": true,
-      "evidence": "распознан текст на кадре"
+      "evidence": "распознан текст на кадре",
+      "source_tracked": false
     },
     {
       "person": "ДЕНИС РЯБЦЕВ",
@@ -2081,12 +2289,13 @@
       "account_url": "https://www.youtube.com/channel/UCYN9iaBt8AKZ52Dscal_adw",
       "platform": "youtube",
       "views": 0,
-      "views_source": "из базы",
-      "views_checked_at": null,
+      "views_source": "по ссылке",
+      "views_checked_at": 1795275096.1620972,
       "published_at": 1795074424.777935,
       "url": "https://www.youtube.com/shorts/tPTaL613mGg",
       "has_video_id": true,
-      "evidence": "распознан текст на кадре"
+      "evidence": "распознан текст на кадре",
+      "source_tracked": false
     },
     {
       "person": "ДЕНИС РЯБЦЕВ",
@@ -2095,12 +2304,13 @@
       "account_url": "https://www.tiktok.com/@aropokzeropo",
       "platform": "tiktok",
       "views": 0,
-      "views_source": "из базы",
-      "views_checked_at": null,
+      "views_source": "по ссылке",
+      "views_checked_at": 1795275096.1620972,
       "published_at": 1795074374.632133,
       "url": "https://www.tiktok.com/@aropokzeropo/video/7709785430765391134",
       "has_video_id": true,
-      "evidence": "распознан текст на кадре"
+      "evidence": "распознан текст на кадре",
+      "source_tracked": false
     },
     {
       "person": "ДЕНИС РЯБЦЕВ",
@@ -2109,12 +2319,13 @@
       "account_url": "https://www.youtube.com/channel/UC17TunByvdjZnP9hFUHvTBg",
       "platform": "youtube",
       "views": 2,
-      "views_source": "из базы",
-      "views_checked_at": null,
+      "views_source": "по ссылке",
+      "views_checked_at": 1795275096.1620972,
       "published_at": 1795074276.4501126,
       "url": "https://www.youtube.com/shorts/kUZQYWA7JQA",
       "has_video_id": true,
-      "evidence": "распознан текст на кадре"
+      "evidence": "распознан текст на кадре",
+      "source_tracked": false
     },
     {
       "person": "ДЕНИС РЯБЦЕВ",
@@ -2122,13 +2333,14 @@
       "account": "work16",
       "account_url": "",
       "platform": "instagram",
-      "views": 0,
-      "views_source": "из базы",
+      "views": null,
+      "views_source": "нет проверенных данных",
       "views_checked_at": null,
       "published_at": 1795074276.3460362,
       "url": "",
       "has_video_id": false,
-      "evidence": "распознан текст на кадре"
+      "evidence": "распознан текст на кадре",
+      "source_tracked": false
     },
     {
       "person": "ДЕНИС РЯБЦЕВ",
@@ -2137,12 +2349,13 @@
       "account_url": "https://www.tiktok.com/@dotadva218",
       "platform": "tiktok",
       "views": 0,
-      "views_source": "из базы",
-      "views_checked_at": null,
+      "views_source": "по ссылке",
+      "views_checked_at": 1795275096.1620972,
       "published_at": 1795074196.2270825,
       "url": "https://www.tiktok.com/@dotadva218/video/7709784683202039071",
       "has_video_id": true,
-      "evidence": "распознан текст на кадре"
+      "evidence": "распознан текст на кадре",
+      "source_tracked": false
     },
     {
       "person": "ДЕНИС РЯБЦЕВ",
@@ -2150,13 +2363,14 @@
       "account": "Ден Ряба Твич",
       "account_url": "https://www.youtube.com/channel/UCY5gyRG3_y0RjV9uy6Pvz0w",
       "platform": "youtube",
-      "views": 1458,
+      "views": 1476,
       "views_source": "по ссылке",
-      "views_checked_at": 1795260148.01231,
+      "views_checked_at": 1795275096.1620972,
       "published_at": 1795074116.0311801,
       "url": "https://www.youtube.com/shorts/ZoisGq8laJE",
       "has_video_id": true,
-      "evidence": "распознан текст на кадре"
+      "evidence": "распознан текст на кадре",
+      "source_tracked": false
     },
     {
       "person": "ДЕНИС РЯБЦЕВ",
@@ -2166,11 +2380,12 @@
       "platform": "youtube",
       "views": 4,
       "views_source": "по ссылке",
-      "views_checked_at": 1795260148.498087,
+      "views_checked_at": 1795275096.1620972,
       "published_at": 1795074085.7516882,
       "url": "https://www.youtube.com/shorts/iNsynQWhK68",
       "has_video_id": true,
-      "evidence": "распознан текст на кадре"
+      "evidence": "распознан текст на кадре",
+      "source_tracked": false
     },
     {
       "person": "ДЕНИС РЯБЦЕВ",
@@ -2178,13 +2393,14 @@
       "account": "@lauralewisr46484288",
       "account_url": "https://www.tiktok.com/@lauralewisr46484288",
       "platform": "tiktok",
-      "views": 0,
-      "views_source": "из базы",
+      "views": null,
+      "views_source": "нет проверенных данных",
       "views_checked_at": null,
       "published_at": 1795073990.5924137,
       "url": "https://www.tiktok.com/@lauralewisr46484288/video/7709783968790351126",
       "has_video_id": true,
-      "evidence": "распознан текст на кадре"
+      "evidence": "распознан текст на кадре",
+      "source_tracked": false
     },
     {
       "person": "ДЕНИС РЯБЦЕВ",
@@ -2192,41 +2408,44 @@
       "account": "Ден Ряба | Лучшее",
       "account_url": "https://www.youtube.com/channel/UCly8awoC69ZLSRZ3CnYNm_Q",
       "platform": "youtube",
-      "views": 1215,
+      "views": 1218,
       "views_source": "по ссылке",
-      "views_checked_at": 1795260149.606113,
+      "views_checked_at": 1795275096.1620972,
       "published_at": 1795073970.5002713,
       "url": "https://www.youtube.com/shorts/44MwxO8K_kY",
       "has_video_id": true,
-      "evidence": "распознан текст на кадре"
+      "evidence": "распознан текст на кадре",
+      "source_tracked": false
     },
     {
       "person": "ДЕНИС РЯБЦЕВ",
       "profile": "work45",
-      "account": "work45",
-      "account_url": "",
+      "account": "@pemokidag774",
+      "account_url": "https://www.instagram.com/pemokidag774/",
       "platform": "instagram",
       "views": 0,
-      "views_source": "из базы",
-      "views_checked_at": null,
+      "views_source": "по ссылке",
+      "views_checked_at": 1795275096.1620972,
       "published_at": 1795062674.1228354,
-      "url": "",
-      "has_video_id": false,
-      "evidence": "распознан текст на кадре"
+      "url": "https://www.instagram.com/pemokidag774/reel/Df6OfvkSzck/",
+      "has_video_id": true,
+      "evidence": "распознан текст на кадре",
+      "source_tracked": false
     },
     {
       "person": "ДЕНИС РЯБЦЕВ",
       "profile": "work45",
-      "account": "work45",
-      "account_url": "",
+      "account": "@pemokidag774",
+      "account_url": "https://www.instagram.com/pemokidag774/",
       "platform": "instagram",
-      "views": 0,
-      "views_source": "из базы",
-      "views_checked_at": null,
+      "views": 157,
+      "views_source": "по ссылке",
+      "views_checked_at": 1795275096.1620972,
       "published_at": 1795062508.851111,
-      "url": "",
-      "has_video_id": false,
-      "evidence": "распознан текст на кадре"
+      "url": "https://www.instagram.com/pemokidag774/reel/Df6OLjBywCU/",
+      "has_video_id": true,
+      "evidence": "распознан текст на кадре",
+      "source_tracked": false
     },
     {
       "person": "ДЕНИС РЯБЦЕВ",
@@ -2234,13 +2453,14 @@
       "account": "Ден Ряба | Движ",
       "account_url": "https://www.youtube.com/channel/UCYN9iaBt8AKZ52Dscal_adw",
       "platform": "youtube",
-      "views": 0,
-      "views_source": "из базы",
+      "views": null,
+      "views_source": "нет проверенных данных",
       "views_checked_at": null,
       "published_at": 1795055466.7275612,
       "url": "https://www.youtube.com/@user-work19/shorts",
       "has_video_id": false,
-      "evidence": "распознан текст на кадре"
+      "evidence": "распознан текст на кадре",
+      "source_tracked": false
     },
     {
       "person": "ДЕНИС РЯБЦЕВ",
@@ -2249,12 +2469,13 @@
       "account_url": "https://www.tiktok.com/@priscillacalhocb97105718",
       "platform": "tiktok",
       "views": 0,
-      "views_source": "из базы",
-      "views_checked_at": null,
+      "views_source": "по ссылке",
+      "views_checked_at": 1795275096.1620972,
       "published_at": 1795055464.3864453,
       "url": "https://www.tiktok.com/@priscillacalhocb97105718/video/7709704294471077143",
       "has_video_id": true,
-      "evidence": "распознан текст на кадре"
+      "evidence": "распознан текст на кадре",
+      "source_tracked": false
     },
     {
       "person": "ДЕНИС РЯБЦЕВ",
@@ -2263,12 +2484,13 @@
       "account_url": "https://www.tiktok.com/@melissahunton354530",
       "platform": "tiktok",
       "views": 0,
-      "views_source": "из базы",
-      "views_checked_at": null,
+      "views_source": "по ссылке",
+      "views_checked_at": 1795275096.1620972,
       "published_at": 1795055414.2653537,
       "url": "https://www.tiktok.com/@melissahunton354530/video/7709704130838744342",
       "has_video_id": true,
-      "evidence": "распознан текст на кадре"
+      "evidence": "распознан текст на кадре",
+      "source_tracked": false
     },
     {
       "person": "ДЕНИС РЯБЦЕВ",
@@ -2277,12 +2499,13 @@
       "account_url": "https://www.tiktok.com/@jenniferedwardya65272069",
       "platform": "tiktok",
       "views": 0,
-      "views_source": "из базы",
-      "views_checked_at": null,
+      "views_source": "по ссылке",
+      "views_checked_at": 1795275096.1620972,
       "published_at": 1795055379.1147714,
       "url": "https://www.tiktok.com/@jenniferedwardya65272069/video/7709703952006139158",
       "has_video_id": true,
-      "evidence": "распознан текст на кадре"
+      "evidence": "распознан текст на кадре",
+      "source_tracked": false
     },
     {
       "person": "ДЕНИС РЯБЦЕВ",
@@ -2291,12 +2514,13 @@
       "account_url": "https://www.tiktok.com/@cynthiamyersf070289",
       "platform": "tiktok",
       "views": 0,
-      "views_source": "из базы",
-      "views_checked_at": null,
+      "views_source": "по ссылке",
+      "views_checked_at": 1795275096.1620972,
       "published_at": 1795055358.9957027,
       "url": "https://www.tiktok.com/@cynthiamyersf070289/video/7709703898918817046",
       "has_video_id": true,
-      "evidence": "распознан текст на кадре"
+      "evidence": "распознан текст на кадре",
+      "source_tracked": false
     },
     {
       "person": "ДЕНИС РЯБЦЕВ",
@@ -2305,12 +2529,13 @@
       "account_url": "https://www.tiktok.com/@victoriameyern6918441",
       "platform": "tiktok",
       "views": 0,
-      "views_source": "из базы",
-      "views_checked_at": null,
+      "views_source": "по ссылке",
+      "views_checked_at": 1795275096.1620972,
       "published_at": 1795055298.8671722,
       "url": "https://www.tiktok.com/@victoriameyern6918441/video/7709703581443656982",
       "has_video_id": true,
-      "evidence": "распознан текст на кадре"
+      "evidence": "распознан текст на кадре",
+      "source_tracked": false
     },
     {
       "person": "ДЕНИС РЯБЦЕВ",
@@ -2319,12 +2544,13 @@
       "account_url": "https://www.tiktok.com/@michellemccallvx2849213",
       "platform": "tiktok",
       "views": 0,
-      "views_source": "из базы",
-      "views_checked_at": null,
+      "views_source": "по ссылке",
+      "views_checked_at": 1795275096.1620972,
       "published_at": 1795055273.7270126,
       "url": "https://www.tiktok.com/@michellemccallvx2849213/video/7709703555854142742",
       "has_video_id": true,
-      "evidence": "распознан текст на кадре"
+      "evidence": "распознан текст на кадре",
+      "source_tracked": false
     },
     {
       "person": "ДЕНИС РЯБЦЕВ",
@@ -2332,13 +2558,14 @@
       "account": "@michelleconleybb1395910",
       "account_url": "https://www.tiktok.com/@michelleconleybb1395910",
       "platform": "tiktok",
-      "views": 0,
-      "views_source": "из базы",
-      "views_checked_at": null,
+      "views": 20,
+      "views_source": "по ссылке",
+      "views_checked_at": 1795275096.1620972,
       "published_at": 1795055233.6131208,
       "url": "https://www.tiktok.com/@michelleconleybb1395910/video/7709703287234186518",
       "has_video_id": true,
-      "evidence": "распознан текст на кадре"
+      "evidence": "распознан текст на кадре",
+      "source_tracked": false
     },
     {
       "person": "ДЕНИС РЯБЦЕВ",
@@ -2347,12 +2574,13 @@
       "account_url": "https://www.tiktok.com/@allisondayk389916",
       "platform": "tiktok",
       "views": 0,
-      "views_source": "из базы",
-      "views_checked_at": null,
+      "views_source": "по ссылке",
+      "views_checked_at": 1795275096.1620972,
       "published_at": 1795055156.9839537,
       "url": "https://www.tiktok.com/@allisondayk389916/video/7709702942059777283",
       "has_video_id": true,
-      "evidence": "распознан текст на кадре"
+      "evidence": "распознан текст на кадре",
+      "source_tracked": false
     },
     {
       "person": "ДЕНИС РЯБЦЕВ",
@@ -2361,12 +2589,13 @@
       "account_url": "https://www.tiktok.com/@tracysheltonjk0085586",
       "platform": "tiktok",
       "views": 0,
-      "views_source": "из базы",
-      "views_checked_at": null,
+      "views_source": "по ссылке",
+      "views_checked_at": 1795275096.1620972,
       "published_at": 1795055131.3150651,
       "url": "https://www.tiktok.com/@tracysheltonjk0085586/video/7709702824715668758",
       "has_video_id": true,
-      "evidence": "распознан текст на кадре"
+      "evidence": "распознан текст на кадре",
+      "source_tracked": false
     },
     {
       "person": "ДЕНИС РЯБЦЕВ",
@@ -2375,12 +2604,13 @@
       "account_url": "https://www.tiktok.com/@michaelfrankliwo33777259",
       "platform": "tiktok",
       "views": 0,
-      "views_source": "из базы",
-      "views_checked_at": null,
+      "views_source": "по ссылке",
+      "views_checked_at": 1795275096.1620972,
       "published_at": 1795055077.392061,
       "url": "https://www.tiktok.com/@michaelfrankliwo33777259/video/7709702606423166230",
       "has_video_id": true,
-      "evidence": "распознан текст на кадре"
+      "evidence": "распознан текст на кадре",
+      "source_tracked": false
     },
     {
       "person": "ДЕНИС РЯБЦЕВ",
@@ -2389,12 +2619,13 @@
       "account_url": "https://www.tiktok.com/@rachelsmithpb073260",
       "platform": "tiktok",
       "views": 0,
-      "views_source": "из базы",
-      "views_checked_at": null,
+      "views_source": "по ссылке",
+      "views_checked_at": 1795275096.1620972,
       "published_at": 1795054945.1207867,
       "url": "https://www.tiktok.com/@rachelsmithpb073260/video/7709702073419336983",
       "has_video_id": true,
-      "evidence": "распознан текст на кадре"
+      "evidence": "распознан текст на кадре",
+      "source_tracked": false
     },
     {
       "person": "ДЕНИС РЯБЦЕВ",
@@ -2402,13 +2633,14 @@
       "account": "work67",
       "account_url": "",
       "platform": "instagram",
-      "views": 0,
-      "views_source": "из базы",
+      "views": null,
+      "views_source": "нет проверенных данных",
       "views_checked_at": null,
       "published_at": 1795054805.981668,
       "url": "",
       "has_video_id": false,
-      "evidence": "распознан текст на кадре"
+      "evidence": "распознан текст на кадре",
+      "source_tracked": false
     },
     {
       "person": "ДЕНИС РЯБЦЕВ",
@@ -2416,13 +2648,14 @@
       "account": "work16",
       "account_url": "",
       "platform": "instagram",
-      "views": 0,
-      "views_source": "из базы",
+      "views": null,
+      "views_source": "нет проверенных данных",
       "views_checked_at": null,
       "published_at": 1795054775.8529358,
       "url": "",
       "has_video_id": false,
-      "evidence": "распознан текст на кадре"
+      "evidence": "распознан текст на кадре",
+      "source_tracked": false
     },
     {
       "person": "ДЕНИС РЯБЦЕВ",
@@ -2430,13 +2663,14 @@
       "account": "work67",
       "account_url": "",
       "platform": "instagram",
-      "views": 0,
-      "views_source": "из базы",
+      "views": null,
+      "views_source": "нет проверенных данных",
       "views_checked_at": null,
       "published_at": 1795050179.5224333,
       "url": "",
       "has_video_id": false,
-      "evidence": "распознан текст на кадре"
+      "evidence": "распознан текст на кадре",
+      "source_tracked": false
     },
     {
       "person": "ДЕНИС РЯБЦЕВ",
@@ -2445,12 +2679,13 @@
       "account_url": "https://www.youtube.com/channel/UCJTYinMD1TNKQh2sW0GCLzA",
       "platform": "youtube",
       "views": 0,
-      "views_source": "из базы",
-      "views_checked_at": null,
+      "views_source": "по ссылке",
+      "views_checked_at": 1795275096.1620972,
       "published_at": 1795049648.7703233,
       "url": "https://www.youtube.com/shorts/X90sjMEOT1o",
       "has_video_id": true,
-      "evidence": "распознан текст на кадре"
+      "evidence": "распознан текст на кадре",
+      "source_tracked": false
     },
     {
       "person": "ДЕНИС РЯБЦЕВ",
@@ -2460,11 +2695,12 @@
       "platform": "youtube",
       "views": 5,
       "views_source": "по ссылке",
-      "views_checked_at": 1795260152.3011587,
+      "views_checked_at": 1795275096.1620972,
       "published_at": 1795049623.6032836,
       "url": "https://www.youtube.com/shorts/eh3utaD1bjs",
       "has_video_id": true,
-      "evidence": "распознан текст на кадре"
+      "evidence": "распознан текст на кадре",
+      "source_tracked": false
     },
     {
       "person": "ДЕНИС РЯБЦЕВ",
@@ -2473,12 +2709,13 @@
       "account_url": "https://www.tiktok.com/@melissahunton354530",
       "platform": "tiktok",
       "views": 0,
-      "views_source": "из базы",
-      "views_checked_at": null,
+      "views_source": "по ссылке",
+      "views_checked_at": 1795275096.1620972,
       "published_at": 1795049568.4246747,
       "url": "https://www.tiktok.com/@melissahunton354530/video/7709679002079874326",
       "has_video_id": true,
-      "evidence": "распознан текст на кадре"
+      "evidence": "распознан текст на кадре",
+      "source_tracked": false
     },
     {
       "person": "ДЕНИС РЯБЦЕВ",
@@ -2487,12 +2724,13 @@
       "account_url": "https://www.youtube.com/channel/UCYN9iaBt8AKZ52Dscal_adw",
       "platform": "youtube",
       "views": 0,
-      "views_source": "из базы",
-      "views_checked_at": null,
+      "views_source": "по ссылке",
+      "views_checked_at": 1795275096.1620972,
       "published_at": 1795049553.3192916,
       "url": "https://www.youtube.com/shorts/wLynzBYwXEA",
       "has_video_id": true,
-      "evidence": "распознан текст на кадре"
+      "evidence": "распознан текст на кадре",
+      "source_tracked": false
     },
     {
       "person": "ДЕНИС РЯБЦЕВ",
@@ -2501,12 +2739,13 @@
       "account_url": "https://www.youtube.com/channel/UCJTYinMD1TNKQh2sW0GCLzA",
       "platform": "youtube",
       "views": 0,
-      "views_source": "из базы",
-      "views_checked_at": null,
+      "views_source": "по ссылке",
+      "views_checked_at": 1795275096.1620972,
       "published_at": 1795049049.6335232,
       "url": "https://www.youtube.com/shorts/4Mm9hlPGXB8",
       "has_video_id": true,
-      "evidence": "распознан текст на кадре"
+      "evidence": "распознан текст на кадре",
+      "source_tracked": false
     },
     {
       "person": "ДЕНИС РЯБЦЕВ",
@@ -2515,12 +2754,13 @@
       "account_url": "https://www.tiktok.com/@cynthiamyersf070289",
       "platform": "tiktok",
       "views": 0,
-      "views_source": "из базы",
-      "views_checked_at": null,
+      "views_source": "по ссылке",
+      "views_checked_at": 1795275096.1620972,
       "published_at": 1795043319.5652192,
       "url": "https://www.tiktok.com/@cynthiamyersf070289/video/7709652282995903766",
       "has_video_id": true,
-      "evidence": "распознан текст на кадре"
+      "evidence": "распознан текст на кадре",
+      "source_tracked": false
     },
     {
       "person": "ДЕНИС РЯБЦЕВ",
@@ -2528,13 +2768,14 @@
       "account": "@michelleconleybb1395910",
       "account_url": "https://www.tiktok.com/@michelleconleybb1395910",
       "platform": "tiktok",
-      "views": 0,
-      "views_source": "из базы",
-      "views_checked_at": null,
+      "views": 20,
+      "views_source": "по ссылке",
+      "views_checked_at": 1795275096.1620972,
       "published_at": 1795043239.3977053,
       "url": "https://www.tiktok.com/@michelleconleybb1395910/video/7709651926488452374",
       "has_video_id": true,
-      "evidence": "распознан текст на кадре"
+      "evidence": "распознан текст на кадре",
+      "source_tracked": false
     },
     {
       "person": "ДЕНИС РЯБЦЕВ",
@@ -2543,12 +2784,13 @@
       "account_url": "https://www.tiktok.com/@victoriameyern6918441",
       "platform": "tiktok",
       "views": 0,
-      "views_source": "из базы",
-      "views_checked_at": null,
+      "views_source": "по ссылке",
+      "views_checked_at": 1795275096.1620972,
       "published_at": 1795043209.2507832,
       "url": "https://www.tiktok.com/@victoriameyern6918441/video/7709651768170253590",
       "has_video_id": true,
-      "evidence": "распознан текст на кадре"
+      "evidence": "распознан текст на кадре",
+      "source_tracked": false
     },
     {
       "person": "ДЕНИС РЯБЦЕВ",
@@ -2557,12 +2799,13 @@
       "account_url": "https://www.tiktok.com/@michellemccallvx2849213",
       "platform": "tiktok",
       "views": 0,
-      "views_source": "из базы",
-      "views_checked_at": null,
+      "views_source": "по ссылке",
+      "views_checked_at": 1795275096.1620972,
       "published_at": 1795042917.7114727,
       "url": "https://www.tiktok.com/@michellemccallvx2849213/video/7709650565390716163",
       "has_video_id": true,
-      "evidence": "по имени файла · требуется проверка"
+      "evidence": "по имени файла · требуется проверка",
+      "source_tracked": false
     },
     {
       "person": "ДЕНИС РЯБЦЕВ",
@@ -2571,12 +2814,13 @@
       "account_url": "https://www.tiktok.com/@tracysheltonjk0085586",
       "platform": "tiktok",
       "views": 0,
-      "views_source": "из базы",
-      "views_checked_at": null,
+      "views_source": "по ссылке",
+      "views_checked_at": 1795275096.1620972,
       "published_at": 1795042042.0692217,
       "url": "https://www.tiktok.com/@tracysheltonjk0085586/video/7709646759491882262",
       "has_video_id": true,
-      "evidence": "распознан текст на кадре"
+      "evidence": "распознан текст на кадре",
+      "source_tracked": false
     },
     {
       "person": "ДЕНИС РЯБЦЕВ",
@@ -2585,12 +2829,13 @@
       "account_url": "https://www.tiktok.com/@rachelsmithpb073260",
       "platform": "tiktok",
       "views": 0,
-      "views_source": "из базы",
-      "views_checked_at": null,
+      "views_source": "по ссылке",
+      "views_checked_at": 1795275096.1620972,
       "published_at": 1795041936.8945014,
       "url": "https://www.tiktok.com/@rachelsmithpb073260/video/7709646313645755670",
       "has_video_id": true,
-      "evidence": "распознан текст на кадре"
+      "evidence": "распознан текст на кадре",
+      "source_tracked": false
     },
     {
       "person": "ДЕНИС РЯБЦЕВ",
@@ -2598,13 +2843,14 @@
       "account": "Ден Ряба | Клипы",
       "account_url": "https://www.youtube.com/channel/UCihLZLylVm5Y3p-CJn8wPsw",
       "platform": "youtube",
-      "views": 1336,
+      "views": 1341,
       "views_source": "по ссылке",
-      "views_checked_at": 1795260153.979919,
+      "views_checked_at": 1795275096.1620972,
       "published_at": 1795036545.9420698,
       "url": "https://www.youtube.com/shorts/O5j_jYzswFg",
       "has_video_id": true,
-      "evidence": "распознан текст на кадре"
+      "evidence": "распознан текст на кадре",
+      "source_tracked": false
     },
     {
       "person": "ДЕНИС РЯБЦЕВ",
@@ -2613,12 +2859,13 @@
       "account_url": "https://www.tiktok.com/@michaelfrankliwo33777259",
       "platform": "tiktok",
       "views": 0,
-      "views_source": "из базы",
-      "views_checked_at": null,
+      "views_source": "по ссылке",
+      "views_checked_at": 1795275096.1620972,
       "published_at": 1795036515.7753322,
       "url": "https://www.tiktok.com/@michaelfrankliwo33777259/video/7709623050634808598",
       "has_video_id": true,
-      "evidence": "распознан текст на кадре"
+      "evidence": "распознан текст на кадре",
+      "source_tracked": false
     },
     {
       "person": "ДЕНИС РЯБЦЕВ",
@@ -2627,12 +2874,13 @@
       "account_url": "https://www.tiktok.com/@charlenecooperud640864",
       "platform": "tiktok",
       "views": 0,
-      "views_source": "из базы",
-      "views_checked_at": null,
+      "views_source": "по ссылке",
+      "views_checked_at": 1795275096.1620972,
       "published_at": 1795026774.7400434,
       "url": "https://www.tiktok.com/@charlenecooperud640864/video/7709581249806912790",
       "has_video_id": true,
-      "evidence": "распознан текст на кадре"
+      "evidence": "распознан текст на кадре",
+      "source_tracked": false
     },
     {
       "person": "ДЕНИС РЯБЦЕВ",
@@ -2641,12 +2889,13 @@
       "account_url": "https://www.tiktok.com/@thomasmorenobx13261183",
       "platform": "tiktok",
       "views": 0,
-      "views_source": "из базы",
-      "views_checked_at": null,
+      "views_source": "по ссылке",
+      "views_checked_at": 1795275096.1620972,
       "published_at": 1795026683.0594745,
       "url": "https://www.tiktok.com/@thomasmorenobx13261183/video/7709580834054966550",
       "has_video_id": true,
-      "evidence": "распознан текст на кадре"
+      "evidence": "распознан текст на кадре",
+      "source_tracked": false
     },
     {
       "person": "ДЕНИС РЯБЦЕВ",
@@ -2655,12 +2904,13 @@
       "account_url": "https://www.tiktok.com/@matthewjonesg836824",
       "platform": "tiktok",
       "views": 0,
-      "views_source": "из базы",
-      "views_checked_at": null,
+      "views_source": "по ссылке",
+      "views_checked_at": 1795275096.1620972,
       "published_at": 1795026522.8301764,
       "url": "https://www.tiktok.com/@matthewjonesg836824/video/7709580150140095766",
       "has_video_id": true,
-      "evidence": "распознан текст на кадре"
+      "evidence": "распознан текст на кадре",
+      "source_tracked": false
     },
     {
       "person": "ДЕНИС РЯБЦЕВ",
@@ -2669,12 +2919,13 @@
       "account_url": "https://www.tiktok.com/@ashleywilliamsp61599188",
       "platform": "tiktok",
       "views": 0,
-      "views_source": "из базы",
-      "views_checked_at": null,
+      "views_source": "по ссылке",
+      "views_checked_at": 1795275096.1620972,
       "published_at": 1795025822.4741642,
       "url": "https://www.tiktok.com/@ashleywilliamsp61599188/video/7709577132804001046",
       "has_video_id": true,
-      "evidence": "распознан текст на кадре"
+      "evidence": "распознан текст на кадре",
+      "source_tracked": false
     },
     {
       "person": "ДЕНИС РЯБЦЕВ",
@@ -2683,12 +2934,13 @@
       "account_url": "https://www.tiktok.com/@alyssajenningsk99556710",
       "platform": "tiktok",
       "views": 0,
-      "views_source": "из базы",
-      "views_checked_at": null,
+      "views_source": "по ссылке",
+      "views_checked_at": 1795275096.1620972,
       "published_at": 1795025704.3114805,
       "url": "https://www.tiktok.com/@alyssajenningsk99556710/video/7709576636303297814",
       "has_video_id": true,
-      "evidence": "распознан текст на кадре"
+      "evidence": "распознан текст на кадре",
+      "source_tracked": false
     },
     {
       "person": "ДЕНИС РЯБЦЕВ",
@@ -2697,12 +2949,13 @@
       "account_url": "https://www.tiktok.com/@joshuaharveys8308280",
       "platform": "tiktok",
       "views": 0,
-      "views_source": "из базы",
-      "views_checked_at": null,
+      "views_source": "по ссылке",
+      "views_checked_at": 1795275096.1620972,
       "published_at": 1795025539.1394048,
       "url": "https://www.tiktok.com/@joshuaharveys8308280/video/7709575926178204950",
       "has_video_id": true,
-      "evidence": "распознан текст на кадре"
+      "evidence": "распознан текст на кадре",
+      "source_tracked": false
     },
     {
       "person": "ДЕНИС РЯБЦЕВ",
@@ -2711,12 +2964,13 @@
       "account_url": "https://www.tiktok.com/@thomasbutlerm39360264",
       "platform": "tiktok",
       "views": 0,
-      "views_source": "из базы",
-      "views_checked_at": null,
+      "views_source": "по ссылке",
+      "views_checked_at": 1795275096.1620972,
       "published_at": 1795024863.7297513,
       "url": "https://www.tiktok.com/@thomasbutlerm39360264/video/7709573020708277526",
       "has_video_id": true,
-      "evidence": "распознан текст на кадре"
+      "evidence": "распознан текст на кадре",
+      "source_tracked": false
     },
     {
       "person": "ДЕНИС РЯБЦЕВ",
@@ -2725,12 +2979,13 @@
       "account_url": "https://www.tiktok.com/@emilyowenn197695",
       "platform": "tiktok",
       "views": 0,
-      "views_source": "из базы",
-      "views_checked_at": null,
+      "views_source": "по ссылке",
+      "views_checked_at": 1795275096.1620972,
       "published_at": 1795024643.5074093,
       "url": "https://www.tiktok.com/@emilyowenn197695/video/7709572075668770070",
       "has_video_id": true,
-      "evidence": "распознан текст на кадре"
+      "evidence": "распознан текст на кадре",
+      "source_tracked": false
     },
     {
       "person": "ДЕНИС РЯБЦЕВ",
@@ -2739,12 +2994,13 @@
       "account_url": "https://www.youtube.com/channel/UCw72xO70DDbopQid0N9zDuQ",
       "platform": "youtube",
       "views": 0,
-      "views_source": "из базы",
-      "views_checked_at": null,
+      "views_source": "по ссылке",
+      "views_checked_at": 1795275096.1620972,
       "published_at": 1795024523.329805,
       "url": "https://www.youtube.com/shorts/3voD5u1jq54",
       "has_video_id": true,
-      "evidence": "распознан текст на кадре"
+      "evidence": "распознан текст на кадре",
+      "source_tracked": false
     },
     {
       "person": "ДЕНИС РЯБЦЕВ",
@@ -2753,12 +3009,13 @@
       "account_url": "https://www.tiktok.com/@matthewlyncha9815456",
       "platform": "tiktok",
       "views": 0,
-      "views_source": "из базы",
-      "views_checked_at": null,
+      "views_source": "по ссылке",
+      "views_checked_at": 1795275096.1620972,
       "published_at": 1795024188.0008848,
       "url": "https://www.tiktok.com/@matthewlyncha9815456/video/7709570121475378454",
       "has_video_id": true,
-      "evidence": "распознан текст на кадре"
+      "evidence": "распознан текст на кадре",
+      "source_tracked": false
     },
     {
       "person": "ДЕНИС РЯБЦЕВ",
@@ -2767,12 +3024,13 @@
       "account_url": "https://www.tiktok.com/@deniska_vibes_live",
       "platform": "tiktok",
       "views": 0,
-      "views_source": "из базы",
-      "views_checked_at": null,
+      "views_source": "по ссылке",
+      "views_checked_at": 1795275096.1620972,
       "published_at": 1795024092.8396735,
       "url": "https://www.tiktok.com/@deniska_vibes_live/video/7709569706717433110",
       "has_video_id": true,
-      "evidence": "распознан текст на кадре"
+      "evidence": "распознан текст на кадре",
+      "source_tracked": false
     },
     {
       "person": "ДЕНИС РЯБЦЕВ",
@@ -2781,12 +3039,13 @@
       "account_url": "https://www.tiktok.com/@crystalwalshgr689907",
       "platform": "tiktok",
       "views": 0,
-      "views_source": "из базы",
-      "views_checked_at": null,
+      "views_source": "по ссылке",
+      "views_checked_at": 1795275096.1620972,
       "published_at": 1795023409.2035322,
       "url": "https://www.tiktok.com/@crystalwalshgr689907/video/7709566790174510358",
       "has_video_id": true,
-      "evidence": "распознан текст на кадре"
+      "evidence": "распознан текст на кадре",
+      "source_tracked": false
     },
     {
       "person": "ДЕНИС РЯБЦЕВ",
@@ -2795,12 +3054,13 @@
       "account_url": "https://www.youtube.com/channel/UCCs8AJdeF-I7J4BFjX3KDgw",
       "platform": "youtube",
       "views": 0,
-      "views_source": "из базы",
-      "views_checked_at": null,
+      "views_source": "по ссылке",
+      "views_checked_at": 1795275096.1620972,
       "published_at": 1795023304.0493472,
       "url": "https://www.youtube.com/shorts/XFzGH_NyFYk",
       "has_video_id": true,
-      "evidence": "распознан текст на кадре"
+      "evidence": "распознан текст на кадре",
+      "source_tracked": false
     },
     {
       "person": "ДЕНИС РЯБЦЕВ",
@@ -2809,12 +3069,13 @@
       "account_url": "https://www.tiktok.com/@jeremymcmillanq918810",
       "platform": "tiktok",
       "views": 0,
-      "views_source": "из базы",
-      "views_checked_at": null,
+      "views_source": "по ссылке",
+      "views_checked_at": 1795275096.1620972,
       "published_at": 1795022453.523121,
       "url": "https://www.tiktok.com/@jeremymcmillanq918810/video/7709562676871040278",
       "has_video_id": true,
-      "evidence": "распознан текст на кадре"
+      "evidence": "распознан текст на кадре",
+      "source_tracked": false
     },
     {
       "person": "ДЕНИС РЯБЦЕВ",
@@ -2823,12 +3084,13 @@
       "account_url": "https://www.tiktok.com/@ashleybutleral76989147",
       "platform": "tiktok",
       "views": 0,
-      "views_source": "из базы",
-      "views_checked_at": null,
+      "views_source": "по ссылке",
+      "views_checked_at": 1795275096.1620972,
       "published_at": 1795022378.4138465,
       "url": "https://www.tiktok.com/@ashleybutleral76989147/video/7709562339653192982",
       "has_video_id": true,
-      "evidence": "распознан текст на кадре"
+      "evidence": "распознан текст на кадре",
+      "source_tracked": false
     },
     {
       "person": "ДЕНИС РЯБЦЕВ",
@@ -2838,11 +3100,12 @@
       "platform": "youtube",
       "views": 2,
       "views_source": "по ссылке",
-      "views_checked_at": 1795260157.4556813,
+      "views_checked_at": 1795275096.1620972,
       "published_at": 1795022338.2879186,
       "url": "https://www.youtube.com/shorts/NlMnBbEPA_w",
       "has_video_id": true,
-      "evidence": "распознан текст на кадре"
+      "evidence": "распознан текст на кадре",
+      "source_tracked": false
     },
     {
       "person": "ДЕНИС РЯБЦЕВ",
@@ -2852,11 +3115,12 @@
       "platform": "youtube",
       "views": 1,
       "views_source": "по ссылке",
-      "views_checked_at": 1795260157.2444296,
+      "views_checked_at": 1795275096.1620972,
       "published_at": 1795022263.108138,
       "url": "https://www.youtube.com/shorts/sAipEbpFnQ4",
       "has_video_id": true,
-      "evidence": "распознан текст на кадре"
+      "evidence": "распознан текст на кадре",
+      "source_tracked": false
     },
     {
       "person": "ДЕНИС РЯБЦЕВ",
@@ -2865,12 +3129,13 @@
       "account_url": "https://www.tiktok.com/@justinbaileyuj701873",
       "platform": "tiktok",
       "views": 0,
-      "views_source": "из базы",
-      "views_checked_at": null,
+      "views_source": "по ссылке",
+      "views_checked_at": 1795275096.1620972,
       "published_at": 1795022062.9077365,
       "url": "https://www.tiktok.com/@justinbaileyuj701873/video/7709560996314107158",
       "has_video_id": true,
-      "evidence": "распознан текст на кадре"
+      "evidence": "распознан текст на кадре",
+      "source_tracked": false
     },
     {
       "person": "ДЕНИС РЯБЦЕВ",
@@ -2879,12 +3144,13 @@
       "account_url": "https://www.tiktok.com/@jeffreymillertl5058149",
       "platform": "tiktok",
       "views": 0,
-      "views_source": "из базы",
-      "views_checked_at": null,
+      "views_source": "по ссылке",
+      "views_checked_at": 1795275096.1620972,
       "published_at": 1795021692.6396103,
       "url": "https://www.tiktok.com/@jeffreymillertl5058149/video/7709559386800278806",
       "has_video_id": true,
-      "evidence": "распознан текст на кадре"
+      "evidence": "распознан текст на кадре",
+      "source_tracked": false
     },
     {
       "person": "ДЕНИС РЯБЦЕВ",
@@ -2893,12 +3159,13 @@
       "account_url": "https://www.tiktok.com/@laurenricewu281953",
       "platform": "tiktok",
       "views": 0,
-      "views_source": "из базы",
-      "views_checked_at": null,
+      "views_source": "по ссылке",
+      "views_checked_at": 1795275096.1620972,
       "published_at": 1795021602.466401,
       "url": "https://www.tiktok.com/@laurenricewu281953/video/7709559012076965142",
       "has_video_id": true,
-      "evidence": "распознан текст на кадре"
+      "evidence": "распознан текст на кадре",
+      "source_tracked": false
     },
     {
       "person": "ДЕНИС РЯБЦЕВ",
@@ -2907,12 +3174,13 @@
       "account_url": "https://www.tiktok.com/@pemokidag774",
       "platform": "tiktok",
       "views": 0,
-      "views_source": "из базы",
-      "views_checked_at": null,
+      "views_source": "по ссылке",
+      "views_checked_at": 1795275096.1620972,
       "published_at": 1795021492.2788386,
       "url": "https://www.tiktok.com/@pemokidag774/video/7709558528565890326",
       "has_video_id": true,
-      "evidence": "распознан текст на кадре"
+      "evidence": "распознан текст на кадре",
+      "source_tracked": false
     },
     {
       "person": "ДЕНИС РЯБЦЕВ",
@@ -2921,12 +3189,13 @@
       "account_url": "https://www.tiktok.com/@andrewandersonp3470239",
       "platform": "tiktok",
       "views": 0,
-      "views_source": "из базы",
-      "views_checked_at": null,
+      "views_source": "по ссылке",
+      "views_checked_at": 1795275096.1620972,
       "published_at": 1795021342.106742,
       "url": "https://www.tiktok.com/@andrewandersonp3470239/video/7709557913148214550",
       "has_video_id": true,
-      "evidence": "распознан текст на кадре"
+      "evidence": "распознан текст на кадре",
+      "source_tracked": false
     },
     {
       "person": "ДЕНИС РЯБЦЕВ",
@@ -2935,12 +3204,13 @@
       "account_url": "https://www.tiktok.com/@austinromeroir0175249",
       "platform": "tiktok",
       "views": 0,
-      "views_source": "из базы",
-      "views_checked_at": null,
+      "views_source": "по ссылке",
+      "views_checked_at": 1795275096.1620972,
       "published_at": 1795021076.8446012,
       "url": "https://www.tiktok.com/@austinromeroir0175249/video/7709556764336721174",
       "has_video_id": true,
-      "evidence": "распознан текст на кадре"
+      "evidence": "распознан текст на кадре",
+      "source_tracked": false
     },
     {
       "person": "ДЕНИС РЯБЦЕВ",
@@ -2949,12 +3219,13 @@
       "account_url": "https://www.tiktok.com/@user8278593368309",
       "platform": "tiktok",
       "views": 0,
-      "views_source": "из базы",
-      "views_checked_at": null,
+      "views_source": "по ссылке",
+      "views_checked_at": 1795275096.1620972,
       "published_at": 1795020986.6371956,
       "url": "https://www.tiktok.com/@user8278593368309/video/7709556375243869462",
       "has_video_id": true,
-      "evidence": "распознан текст на кадре"
+      "evidence": "распознан текст на кадре",
+      "source_tracked": false
     },
     {
       "person": "ДЕНИС РЯБЦЕВ",
@@ -2963,12 +3234,13 @@
       "account_url": "https://www.tiktok.com/@carldaviss071217",
       "platform": "tiktok",
       "views": 0,
-      "views_source": "из базы",
-      "views_checked_at": null,
+      "views_source": "по ссылке",
+      "views_checked_at": 1795275096.1620972,
       "published_at": 1795020371.2344012,
       "url": "https://www.tiktok.com/@carldaviss071217/video/7709553728684035350",
       "has_video_id": true,
-      "evidence": "распознан текст на кадре"
+      "evidence": "распознан текст на кадре",
+      "source_tracked": false
     },
     {
       "person": "ДЕНИС РЯБЦЕВ",
@@ -2977,12 +3249,13 @@
       "account_url": "https://www.tiktok.com/@unairodero5",
       "platform": "tiktok",
       "views": 0,
-      "views_source": "из базы",
-      "views_checked_at": null,
+      "views_source": "по ссылке",
+      "views_checked_at": 1795275096.1620972,
       "published_at": 1795020271.1110697,
       "url": "https://www.tiktok.com/@unairodero5/video/7709553133457771789",
       "has_video_id": true,
-      "evidence": "распознан текст на кадре"
+      "evidence": "распознан текст на кадре",
+      "source_tracked": false
     },
     {
       "person": "ДЕНИС РЯБЦЕВ",
@@ -2991,12 +3264,13 @@
       "account_url": "https://www.tiktok.com/@aropokzeropo",
       "platform": "tiktok",
       "views": 0,
-      "views_source": "из базы",
-      "views_checked_at": null,
+      "views_source": "по ссылке",
+      "views_checked_at": 1795275096.1620972,
       "published_at": 1795019995.8601983,
       "url": "https://www.tiktok.com/@aropokzeropo/video/7709551985602628895",
       "has_video_id": true,
-      "evidence": "распознан текст на кадре"
+      "evidence": "распознан текст на кадре",
+      "source_tracked": false
     },
     {
       "person": "ДЕНИС РЯБЦЕВ",
@@ -3004,13 +3278,14 @@
       "account": "work16",
       "account_url": "",
       "platform": "instagram",
-      "views": 0,
-      "views_source": "из базы",
+      "views": null,
+      "views_source": "нет проверенных данных",
       "views_checked_at": null,
       "published_at": 1795019880.7160468,
       "url": "",
       "has_video_id": false,
-      "evidence": "распознан текст на кадре"
+      "evidence": "распознан текст на кадре",
+      "source_tracked": false
     },
     {
       "person": "ДЕНИС РЯБЦЕВ",
@@ -3018,13 +3293,14 @@
       "account": "Ден Ряба | Стримы",
       "account_url": "https://www.youtube.com/channel/UC17TunByvdjZnP9hFUHvTBg",
       "platform": "youtube",
-      "views": 1077,
+      "views": 1080,
       "views_source": "по ссылке",
-      "views_checked_at": 1795260158.3159292,
+      "views_checked_at": 1795275096.1620972,
       "published_at": 1795019860.5599935,
       "url": "https://www.youtube.com/shorts/OO0_VBQF-E8",
       "has_video_id": true,
-      "evidence": "распознан текст на кадре"
+      "evidence": "распознан текст на кадре",
+      "source_tracked": false
     },
     {
       "person": "ДЕНИС РЯБЦЕВ",
@@ -3033,12 +3309,13 @@
       "account_url": "https://www.tiktok.com/@dotadva218",
       "platform": "tiktok",
       "views": 0,
-      "views_source": "из базы",
-      "views_checked_at": null,
+      "views_source": "по ссылке",
+      "views_checked_at": 1795275096.1620972,
       "published_at": 1795019745.3730958,
       "url": "https://www.tiktok.com/@dotadva218/video/7709550988088102174",
       "has_video_id": true,
-      "evidence": "распознан текст на кадре"
+      "evidence": "распознан текст на кадре",
+      "source_tracked": false
     },
     {
       "person": "ДЕНИС РЯБЦЕВ",
@@ -3046,13 +3323,14 @@
       "account": "work15",
       "account_url": "",
       "platform": "instagram",
-      "views": 0,
-      "views_source": "из базы",
+      "views": null,
+      "views_source": "нет проверенных данных",
       "views_checked_at": null,
       "published_at": 1795019625.162097,
       "url": "",
       "has_video_id": false,
-      "evidence": "распознан текст на кадре"
+      "evidence": "распознан текст на кадре",
+      "source_tracked": false
     },
     {
       "person": "ДЕНИС РЯБЦЕВ",
@@ -3062,11 +3340,12 @@
       "platform": "youtube",
       "views": 2,
       "views_source": "по ссылке",
-      "views_checked_at": 1795260158.7709045,
+      "views_checked_at": 1795275096.1620972,
       "published_at": 1795019550.0317369,
       "url": "https://www.youtube.com/shorts/VL4QveEMb24",
       "has_video_id": true,
-      "evidence": "распознан текст на кадре"
+      "evidence": "распознан текст на кадре",
+      "source_tracked": false
     },
     {
       "person": "ДЕНИС РЯБЦЕВ",
@@ -3074,13 +3353,14 @@
       "account": "@lauralewisr46484288",
       "account_url": "https://www.tiktok.com/@lauralewisr46484288",
       "platform": "tiktok",
-      "views": 0,
-      "views_source": "из базы",
+      "views": null,
+      "views_source": "нет проверенных данных",
       "views_checked_at": null,
       "published_at": 1795019239.6254802,
       "url": "https://www.tiktok.com/@lauralewisr46484288/video/7709548850373053718",
       "has_video_id": true,
-      "evidence": "распознан текст на кадре"
+      "evidence": "распознан текст на кадре",
+      "source_tracked": false
     },
     {
       "person": "ДЕНИС РЯБЦЕВ",
@@ -3088,13 +3368,14 @@
       "account": "Ден Ряба | Лучшее",
       "account_url": "https://www.youtube.com/channel/UCly8awoC69ZLSRZ3CnYNm_Q",
       "platform": "youtube",
-      "views": 1,
+      "views": 3,
       "views_source": "по ссылке",
-      "views_checked_at": 1795260159.0801957,
+      "views_checked_at": 1795275096.1620972,
       "published_at": 1795019234.4208734,
       "url": "https://www.youtube.com/shorts/LxfbbjM8a_A",
       "has_video_id": true,
-      "evidence": "распознан текст на кадре"
+      "evidence": "распознан текст на кадре",
+      "source_tracked": false
     },
     {
       "person": "ДЕНИС РЯБЦЕВ",
@@ -3103,12 +3384,13 @@
       "account_url": "https://www.youtube.com/channel/UCw72xO70DDbopQid0N9zDuQ",
       "platform": "youtube",
       "views": 0,
-      "views_source": "из базы",
-      "views_checked_at": null,
+      "views_source": "по ссылке",
+      "views_checked_at": 1795275096.1620972,
       "published_at": 1795016864.0686324,
       "url": "https://www.youtube.com/shorts/qcl0oE4VvVE",
       "has_video_id": true,
-      "evidence": "распознан текст на кадре"
+      "evidence": "распознан текст на кадре",
+      "source_tracked": false
     },
     {
       "person": "ДЕНИС РЯБЦЕВ",
@@ -3117,12 +3399,13 @@
       "account_url": "https://www.tiktok.com/@andrewandersonp3470239",
       "platform": "tiktok",
       "views": 0,
-      "views_source": "из базы",
-      "views_checked_at": null,
+      "views_source": "по ссылке",
+      "views_checked_at": 1795275096.1620972,
       "published_at": 1795014877.106129,
       "url": "https://www.tiktok.com/@andrewandersonp3470239/video/7709530136214818070",
       "has_video_id": true,
-      "evidence": "распознан текст на кадре"
+      "evidence": "распознан текст на кадре",
+      "source_tracked": false
     },
     {
       "person": "ДЕНИС РЯБЦЕВ",
@@ -3131,12 +3414,13 @@
       "account_url": "https://www.tiktok.com/@user8278593368309",
       "platform": "tiktok",
       "views": 0,
-      "views_source": "из базы",
-      "views_checked_at": null,
+      "views_source": "по ссылке",
+      "views_checked_at": 1795275096.1620972,
       "published_at": 1795014701.8502848,
       "url": "https://www.tiktok.com/@user8278593368309/video/7709529360197324054",
       "has_video_id": true,
-      "evidence": "распознан текст на кадре"
+      "evidence": "распознан текст на кадре",
+      "source_tracked": false
     },
     {
       "person": "ДЕНИС РЯБЦЕВ",
@@ -3145,12 +3429,13 @@
       "account_url": "https://www.tiktok.com/@austinromeroir0175249",
       "platform": "tiktok",
       "views": 0,
-      "views_source": "из базы",
-      "views_checked_at": null,
+      "views_source": "по ссылке",
+      "views_checked_at": 1795275096.1620972,
       "published_at": 1795014591.2527502,
       "url": "https://www.tiktok.com/@austinromeroir0175249/video/7709528914359504150",
       "has_video_id": true,
-      "evidence": "распознан текст на кадре"
+      "evidence": "распознан текст на кадре",
+      "source_tracked": false
     },
     {
       "person": "ДЕНИС РЯБЦЕВ",
@@ -3159,12 +3444,13 @@
       "account_url": "https://www.tiktok.com/@unairodero5",
       "platform": "tiktok",
       "views": 0,
-      "views_source": "из базы",
-      "views_checked_at": null,
+      "views_source": "по ссылке",
+      "views_checked_at": 1795275096.1620972,
       "published_at": 1795013895.7195842,
       "url": "https://www.tiktok.com/@unairodero5/video/7709525704689339661",
       "has_video_id": true,
-      "evidence": "распознан текст на кадре"
+      "evidence": "распознан текст на кадре",
+      "source_tracked": false
     },
     {
       "person": "ДЕНИС РЯБЦЕВ",
@@ -3174,11 +3460,12 @@
       "platform": "youtube",
       "views": 1,
       "views_source": "по ссылке",
-      "views_checked_at": 1795260160.8595169,
+      "views_checked_at": 1795275096.1620972,
       "published_at": 1795013530.3423686,
       "url": "https://www.youtube.com/shorts/TvcU1Mlzxj4",
       "has_video_id": true,
-      "evidence": "распознан текст на кадре"
+      "evidence": "распознан текст на кадре",
+      "source_tracked": false
     },
     {
       "person": "ДЕНИС РЯБЦЕВ",
@@ -3187,12 +3474,13 @@
       "account_url": "https://www.tiktok.com/@dotadva218",
       "platform": "tiktok",
       "views": 0,
-      "views_source": "из базы",
-      "views_checked_at": null,
+      "views_source": "по ссылке",
+      "views_checked_at": 1795275096.1620972,
       "published_at": 1795013394.8056302,
       "url": "https://www.tiktok.com/@dotadva218/video/7709523671903227167",
       "has_video_id": true,
-      "evidence": "распознан текст на кадре"
+      "evidence": "распознан текст на кадре",
+      "source_tracked": false
     },
     {
       "person": "ДЕНИС РЯБЦЕВ",
@@ -3200,13 +3488,14 @@
       "account": "work15",
       "account_url": "",
       "platform": "instagram",
-      "views": 0,
-      "views_source": "из базы",
+      "views": null,
+      "views_source": "нет проверенных данных",
       "views_checked_at": null,
       "published_at": 1795013304.6138124,
       "url": "",
       "has_video_id": false,
-      "evidence": "распознан текст на кадре"
+      "evidence": "распознан текст на кадре",
+      "source_tracked": false
     },
     {
       "person": "ДЕНИС РЯБЦЕВ",
@@ -3214,13 +3503,14 @@
       "account": "Ден Ряба | Лучшее",
       "account_url": "https://www.youtube.com/channel/UCly8awoC69ZLSRZ3CnYNm_Q",
       "platform": "youtube",
-      "views": 1,
+      "views": 4,
       "views_source": "по ссылке",
-      "views_checked_at": 1795260161.6655586,
+      "views_checked_at": 1795275096.1620972,
       "published_at": 1795012984.284026,
       "url": "https://www.youtube.com/shorts/SpgErxT2PPw",
       "has_video_id": true,
-      "evidence": "распознан текст на кадре"
+      "evidence": "распознан текст на кадре",
+      "source_tracked": false
     },
     {
       "person": "ДЕНИС РЯБЦЕВ",
@@ -3229,12 +3519,13 @@
       "account_url": "https://www.tiktok.com/@thomasmorenobx13261183",
       "platform": "tiktok",
       "views": 0,
-      "views_source": "из базы",
-      "views_checked_at": null,
+      "views_source": "по ссылке",
+      "views_checked_at": 1795275096.1620972,
       "published_at": 1795009477.574241,
       "url": "https://www.tiktok.com/@thomasmorenobx13261183/video/7709506870100135190",
       "has_video_id": true,
-      "evidence": "распознан текст на кадре"
+      "evidence": "распознан текст на кадре",
+      "source_tracked": false
     },
     {
       "person": "ДЕНИС РЯБЦЕВ",
@@ -3243,12 +3534,13 @@
       "account_url": "https://www.tiktok.com/@charlenecooperud640864",
       "platform": "tiktok",
       "views": 0,
-      "views_source": "из базы",
-      "views_checked_at": null,
+      "views_source": "по ссылке",
+      "views_checked_at": 1795275096.1620972,
       "published_at": 1795008949.6630273,
       "url": "https://www.tiktok.com/@charlenecooperud640864/video/7709504643411365142",
       "has_video_id": true,
-      "evidence": "распознан текст на кадре"
+      "evidence": "распознан текст на кадре",
+      "source_tracked": false
     },
     {
       "person": "ДЕНИС РЯБЦЕВ",
@@ -3257,12 +3549,13 @@
       "account_url": "https://www.tiktok.com/@alyssajenningsk99556710",
       "platform": "tiktok",
       "views": 0,
-      "views_source": "из базы",
-      "views_checked_at": null,
+      "views_source": "по ссылке",
+      "views_checked_at": 1795275096.1620972,
       "published_at": 1795008904.4600604,
       "url": "https://www.tiktok.com/@alyssajenningsk99556710/video/7709504439022882050",
       "has_video_id": true,
-      "evidence": "распознан текст на кадре"
+      "evidence": "распознан текст на кадре",
+      "source_tracked": false
     },
     {
       "person": "ДЕНИС РЯБЦЕВ",
@@ -3271,12 +3564,13 @@
       "account_url": "https://www.tiktok.com/@priscillacalhocb97105718",
       "platform": "tiktok",
       "views": 0,
-      "views_source": "из базы",
-      "views_checked_at": null,
+      "views_source": "по ссылке",
+      "views_checked_at": 1795275096.1620972,
       "published_at": 1795008723.9780784,
       "url": "https://www.tiktok.com/@priscillacalhocb97105718/video/7709503674766101762",
       "has_video_id": true,
-      "evidence": "распознан текст на кадре"
+      "evidence": "распознан текст на кадре",
+      "source_tracked": false
     },
     {
       "person": "ДЕНИС РЯБЦЕВ",
@@ -3285,12 +3579,13 @@
       "account_url": "https://www.tiktok.com/@matthewjonesg836824",
       "platform": "tiktok",
       "views": 0,
-      "views_source": "из базы",
-      "views_checked_at": null,
+      "views_source": "по ссылке",
+      "views_checked_at": 1795275096.1620972,
       "published_at": 1795008713.6593666,
       "url": "https://www.tiktok.com/@matthewjonesg836824/video/7709503651391311106",
       "has_video_id": true,
-      "evidence": "распознан текст на кадре"
+      "evidence": "распознан текст на кадре",
+      "source_tracked": false
     },
     {
       "person": "ДЕНИС РЯБЦЕВ",
@@ -3299,12 +3594,13 @@
       "account_url": "https://www.tiktok.com/@ashleywilliamsp61599188",
       "platform": "tiktok",
       "views": 0,
-      "views_source": "из базы",
-      "views_checked_at": null,
+      "views_source": "по ссылке",
+      "views_checked_at": 1795275096.1620972,
       "published_at": 1795008648.2594945,
       "url": "https://www.tiktok.com/@ashleywilliamsp61599188/video/7709503372851858691",
       "has_video_id": true,
-      "evidence": "распознан текст на кадре"
+      "evidence": "распознан текст на кадре",
+      "source_tracked": false
     },
     {
       "person": "ДЕНИС РЯБЦЕВ",
@@ -3313,12 +3609,13 @@
       "account_url": "https://www.tiktok.com/@emilyowenn197695",
       "platform": "tiktok",
       "views": 0,
-      "views_source": "из базы",
-      "views_checked_at": null,
+      "views_source": "по ссылке",
+      "views_checked_at": 1795275096.1620972,
       "published_at": 1795008392.5364492,
       "url": "https://www.tiktok.com/@emilyowenn197695/video/7709502258387422486",
       "has_video_id": true,
-      "evidence": "распознан текст на кадре"
+      "evidence": "распознан текст на кадре",
+      "source_tracked": false
     },
     {
       "person": "ДЕНИС РЯБЦЕВ",
@@ -3327,12 +3624,13 @@
       "account_url": "https://www.tiktok.com/@thomasbutlerm39360264",
       "platform": "tiktok",
       "views": 0,
-      "views_source": "из базы",
-      "views_checked_at": null,
+      "views_source": "по ссылке",
+      "views_checked_at": 1795275096.1620972,
       "published_at": 1795008312.339138,
       "url": "https://www.tiktok.com/@thomasbutlerm39360264/video/7709501902395837718",
       "has_video_id": true,
-      "evidence": "распознан текст на кадре"
+      "evidence": "распознан текст на кадре",
+      "source_tracked": false
     },
     {
       "person": "ДЕНИС РЯБЦЕВ",
@@ -3341,12 +3639,13 @@
       "account_url": "https://www.tiktok.com/@joshuaharveys8308280",
       "platform": "tiktok",
       "views": 0,
-      "views_source": "из базы",
-      "views_checked_at": null,
+      "views_source": "по ссылке",
+      "views_checked_at": 1795275096.1620972,
       "published_at": 1795008272.0302806,
       "url": "https://www.tiktok.com/@joshuaharveys8308280/video/7709501725295578390",
       "has_video_id": true,
-      "evidence": "распознан текст на кадре"
+      "evidence": "распознан текст на кадре",
+      "source_tracked": false
     },
     {
       "person": "ДЕНИС РЯБЦЕВ",
@@ -3355,12 +3654,13 @@
       "account_url": "https://www.tiktok.com/@matthewlyncha9815456",
       "platform": "tiktok",
       "views": 0,
-      "views_source": "из базы",
-      "views_checked_at": null,
+      "views_source": "по ссылке",
+      "views_checked_at": 1795275096.1620972,
       "published_at": 1795007828.2722433,
       "url": "https://www.tiktok.com/@matthewlyncha9815456/video/7709499831923920150",
       "has_video_id": true,
-      "evidence": "распознан текст на кадре"
+      "evidence": "распознан текст на кадре",
+      "source_tracked": false
     },
     {
       "person": "ДЕНИС РЯБЦЕВ",
@@ -3369,12 +3669,13 @@
       "account_url": "https://www.tiktok.com/@deniska_vibes_live",
       "platform": "tiktok",
       "views": 0,
-      "views_source": "из базы",
-      "views_checked_at": null,
+      "views_source": "по ссылке",
+      "views_checked_at": 1795275096.1620972,
       "published_at": 1795007828.1754198,
       "url": "https://www.tiktok.com/@deniska_vibes_live/video/7709499832951508246",
       "has_video_id": true,
-      "evidence": "распознан текст на кадре"
+      "evidence": "распознан текст на кадре",
+      "source_tracked": false
     },
     {
       "person": "ДЕНИС РЯБЦЕВ",
@@ -3383,12 +3684,13 @@
       "account_url": "https://www.tiktok.com/@jenniferedwardya65272069",
       "platform": "tiktok",
       "views": 0,
-      "views_source": "из базы",
-      "views_checked_at": null,
+      "views_source": "по ссылке",
+      "views_checked_at": 1795275096.1620972,
       "published_at": 1795007807.4821541,
       "url": "https://www.tiktok.com/@jenniferedwardya65272069/video/7709499768052976918",
       "has_video_id": true,
-      "evidence": "распознан текст на кадре"
+      "evidence": "распознан текст на кадре",
+      "source_tracked": false
     },
     {
       "person": "ДЕНИС РЯБЦЕВ",
@@ -3397,12 +3699,13 @@
       "account_url": "https://www.tiktok.com/@crystalwalshgr689907",
       "platform": "tiktok",
       "views": 0,
-      "views_source": "из базы",
-      "views_checked_at": null,
+      "views_source": "по ссылке",
+      "views_checked_at": 1795275096.1620972,
       "published_at": 1795006704.152968,
       "url": "https://www.tiktok.com/@crystalwalshgr689907/video/7709495006217850115",
       "has_video_id": true,
-      "evidence": "распознан текст на кадре"
+      "evidence": "распознан текст на кадре",
+      "source_tracked": false
     },
     {
       "person": "ДЕНИС РЯБЦЕВ",
@@ -3411,12 +3714,13 @@
       "account_url": "https://www.youtube.com/channel/UCCs8AJdeF-I7J4BFjX3KDgw",
       "platform": "youtube",
       "views": 0,
-      "views_source": "из базы",
-      "views_checked_at": null,
+      "views_source": "по ссылке",
+      "views_checked_at": 1795275096.1620972,
       "published_at": 1795006589.0015464,
       "url": "https://www.youtube.com/shorts/8ZA7UZ85r2Q",
       "has_video_id": true,
-      "evidence": "распознан текст на кадре"
+      "evidence": "распознан текст на кадре",
+      "source_tracked": false
     },
     {
       "person": "ДЕНИС РЯБЦЕВ",
@@ -3425,12 +3729,13 @@
       "account_url": "https://www.tiktok.com/@allisondayk389916",
       "platform": "tiktok",
       "views": 0,
-      "views_source": "из базы",
-      "views_checked_at": null,
+      "views_source": "по ссылке",
+      "views_checked_at": 1795275096.1620972,
       "published_at": 1795005738.6456013,
       "url": "https://www.tiktok.com/@allisondayk389916/video/7709490860861361410",
       "has_video_id": true,
-      "evidence": "распознан текст на кадре"
+      "evidence": "распознан текст на кадре",
+      "source_tracked": false
     },
     {
       "person": "ДЕНИС РЯБЦЕВ",
@@ -3439,12 +3744,13 @@
       "account_url": "https://www.tiktok.com/@jeremymcmillanq918810",
       "platform": "tiktok",
       "views": 0,
-      "views_source": "из базы",
-      "views_checked_at": null,
+      "views_source": "по ссылке",
+      "views_checked_at": 1795275096.1620972,
       "published_at": 1795005113.3808355,
       "url": "https://www.tiktok.com/@jeremymcmillanq918810/video/7709488160215960854",
       "has_video_id": true,
-      "evidence": "распознан текст на кадре"
+      "evidence": "распознан текст на кадре",
+      "source_tracked": false
     },
     {
       "person": "ДЕНИС РЯБЦЕВ",
@@ -3454,11 +3760,12 @@
       "platform": "youtube",
       "views": 1,
       "views_source": "по ссылке",
-      "views_checked_at": 1795260163.3675618,
+      "views_checked_at": 1795275096.1620972,
       "published_at": 1795005018.2688649,
       "url": "https://www.youtube.com/shorts/4hLc7-UvC6Q",
       "has_video_id": true,
-      "evidence": "распознан текст на кадре"
+      "evidence": "распознан текст на кадре",
+      "source_tracked": false
     },
     {
       "person": "ДЕНИС РЯБЦЕВ",
@@ -3467,12 +3774,13 @@
       "account_url": "https://www.tiktok.com/@ashleybutleral76989147",
       "platform": "tiktok",
       "views": 0,
-      "views_source": "из базы",
-      "views_checked_at": null,
+      "views_source": "по ссылке",
+      "views_checked_at": 1795275096.1620972,
       "published_at": 1795004823.115161,
       "url": "https://www.tiktok.com/@ashleybutleral76989147/video/7709486943691722006",
       "has_video_id": true,
-      "evidence": "распознан текст на кадре"
+      "evidence": "распознан текст на кадре",
+      "source_tracked": false
     },
     {
       "person": "ДЕНИС РЯБЦЕВ",
@@ -3482,11 +3790,12 @@
       "platform": "youtube",
       "views": 1115,
       "views_source": "по ссылке",
-      "views_checked_at": 1795260164.6709957,
+      "views_checked_at": 1795275096.1620972,
       "published_at": 1795004707.9866564,
       "url": "https://www.youtube.com/shorts/JQYSl_uD7-w",
       "has_video_id": true,
-      "evidence": "распознан текст на кадре"
+      "evidence": "распознан текст на кадре",
+      "source_tracked": false
     },
     {
       "person": "ДЕНИС РЯБЦЕВ",
@@ -3495,12 +3804,13 @@
       "account_url": "https://www.tiktok.com/@justinbaileyuj701873",
       "platform": "tiktok",
       "views": 0,
-      "views_source": "из базы",
-      "views_checked_at": null,
+      "views_source": "по ссылке",
+      "views_checked_at": 1795275096.1620972,
       "published_at": 1795004362.769049,
       "url": "https://www.tiktok.com/@justinbaileyuj701873/video/7709484967838911766",
       "has_video_id": true,
-      "evidence": "распознан текст на кадре"
+      "evidence": "распознан текст на кадре",
+      "source_tracked": false
     },
     {
       "person": "ДЕНИС РЯБЦЕВ",
@@ -3509,12 +3819,13 @@
       "account_url": "https://www.tiktok.com/@jeffreymillertl5058149",
       "platform": "tiktok",
       "views": 0,
-      "views_source": "из базы",
-      "views_checked_at": null,
+      "views_source": "по ссылке",
+      "views_checked_at": 1795275096.1620972,
       "published_at": 1795003832.525174,
       "url": "https://www.tiktok.com/@jeffreymillertl5058149/video/7709482674393550102",
       "has_video_id": true,
-      "evidence": "распознан текст на кадре"
+      "evidence": "распознан текст на кадре",
+      "source_tracked": false
     },
     {
       "person": "ДЕНИС РЯБЦЕВ",
@@ -3523,12 +3834,13 @@
       "account_url": "https://www.tiktok.com/@laurenricewu281953",
       "platform": "tiktok",
       "views": 0,
-      "views_source": "из базы",
-      "views_checked_at": null,
+      "views_source": "по ссылке",
+      "views_checked_at": 1795275096.1620972,
       "published_at": 1795003732.4268236,
       "url": "https://www.tiktok.com/@laurenricewu281953/video/7709482229004602646",
       "has_video_id": true,
-      "evidence": "распознан текст на кадре"
+      "evidence": "распознан текст на кадре",
+      "source_tracked": false
     },
     {
       "person": "ДЕНИС РЯБЦЕВ",
@@ -3537,12 +3849,13 @@
       "account_url": "https://www.tiktok.com/@pemokidag774",
       "platform": "tiktok",
       "views": 0,
-      "views_source": "из базы",
-      "views_checked_at": null,
+      "views_source": "по ссылке",
+      "views_checked_at": 1795275096.1620972,
       "published_at": 1795002226.9194086,
       "url": "https://www.tiktok.com/@pemokidag774/video/7709475776231460118",
       "has_video_id": true,
-      "evidence": "распознан текст на кадре"
+      "evidence": "распознан текст на кадре",
+      "source_tracked": false
     },
     {
       "person": "ДЕНИС РЯБЦЕВ",
@@ -3551,12 +3864,13 @@
       "account_url": "https://www.tiktok.com/@carldaviss071217",
       "platform": "tiktok",
       "views": 0,
-      "views_source": "из базы",
-      "views_checked_at": null,
+      "views_source": "по ссылке",
+      "views_checked_at": 1795275096.1620972,
       "published_at": 1795001321.5559673,
       "url": "https://www.tiktok.com/@carldaviss071217/video/7709471896441457942",
       "has_video_id": true,
-      "evidence": "распознан текст на кадре"
+      "evidence": "распознан текст на кадре",
+      "source_tracked": false
     },
     {
       "person": "ДЕНИС РЯБЦЕВ",
@@ -3565,12 +3879,13 @@
       "account_url": "https://www.tiktok.com/@aropokzeropo",
       "platform": "tiktok",
       "views": 0,
-      "views_source": "из базы",
-      "views_checked_at": null,
+      "views_source": "по ссылке",
+      "views_checked_at": 1795275096.1620972,
       "published_at": 1794999726.0229957,
       "url": "https://www.tiktok.com/@aropokzeropo/video/7709464980801817886",
       "has_video_id": true,
-      "evidence": "распознан текст на кадре"
+      "evidence": "распознан текст на кадре",
+      "source_tracked": false
     },
     {
       "person": "ДЕНИС РЯБЦЕВ",
@@ -3580,11 +3895,12 @@
       "platform": "youtube",
       "views": 1282,
       "views_source": "по ссылке",
-      "views_checked_at": 1795260163.9575307,
+      "views_checked_at": 1795275096.1620972,
       "published_at": 1794999077.4526596,
       "url": "https://www.youtube.com/shorts/elyeZlLeMBA",
       "has_video_id": true,
-      "evidence": "распознан текст на кадре"
+      "evidence": "распознан текст на кадре",
+      "source_tracked": false
     },
     {
       "person": "ДЕНИС РЯБЦЕВ",
@@ -3592,13 +3908,14 @@
       "account": "@lauralewisr46484288",
       "account_url": "https://www.tiktok.com/@lauralewisr46484288",
       "platform": "tiktok",
-      "views": 0,
-      "views_source": "из базы",
+      "views": null,
+      "views_source": "нет проверенных данных",
       "views_checked_at": null,
       "published_at": 1794997641.7926178,
       "url": "https://www.tiktok.com/@lauralewisr46484288/video/7709456089720409366",
       "has_video_id": true,
-      "evidence": "распознан текст на кадре"
+      "evidence": "распознан текст на кадре",
+      "source_tracked": false
     }
   ]
 }
