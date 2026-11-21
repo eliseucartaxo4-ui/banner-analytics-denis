@@ -23,7 +23,7 @@
     const accountCount = new Set(rows.map(p => `${p.person}\0${p.platform}\0${p.profile}`)).size;
     $("metrics").innerHTML = [["ПРОСМОТРЫ · ПРЕДВАРИТЕЛЬНО",shownViews(rows),"сумма доступных значений, требует проверки"],["ПУБЛИКАЦИИ",number(rows.length),"отдельно на каждой площадке"],["АККАУНТЫ",number(accountCount),"которые публиковали эти ролики"],["НЕТ ДАННЫХ ИЛИ 0",number(unknown),"требуется обновление статистики"]].map(([a,b,c]) => `<div class="metric"><div class="metric-label">${a}</div><div class="metric-value">${b}</div><div class="metric-note">${c}</div></div>`).join("");
     const names = [...new Set(rows.map(p => p.banner))].sort();
-    $("cards").innerHTML = names.length ? names.map(b => { const r = rows.filter(p => p.banner === b); return `<div class="banner-card" data-banner="${esc(b)}"><span class="tag">РЕКЛАМНАЯ ПЛАШКА</span><p class="big">${esc(b)}</p><div class="metric-value">${shownViews(r)}</div><div class="muted">просмотров в базе · ${number(r.length)} публикаций</div></div>`; }).join("") : '<div class="empty">Публикации с баннерами по выбранным фильтрам не найдены.</div>';
+    $("cards").innerHTML = names.length ? names.map(b => { const r = rows.filter(p => p.banner === b); return `<div class="banner-card" data-banner="${esc(b)}"><span class="tag">РЕКЛАМНАЯ ПЛАШКА</span><p class="big">${esc(b)}</p><div class="metric-value">${shownViews(r)}</div><div class="muted">учтено просмотров · ${number(r.length)} публикаций</div></div>`; }).join("") : '<div class="empty">Публикации с баннерами по выбранным фильтрам не найдены.</div>';
     const accounts = new Map();
     rows.forEach(p => { const key = `${p.person}\0${p.platform}\0${p.profile}`; if (!accounts.has(key)) accounts.set(key, {person:p.person, account:p.account, profile:p.profile, platform:p.platform, videos:[], url:p.account_url}); accounts.get(key).videos.push(p); });
     const groups = [...accounts.values()].sort((a,b) => sum(b.videos)-sum(a.videos));
@@ -38,7 +38,7 @@
   }
   async function load() {
     try {
-      const result = await readJson(isPublic ? "banner-data.json" : "/api/banner-analytics");
+      const result = await readJson(isPublic ? `banner-data.json?t=${Date.now()}` : "/api/banner-analytics");
       data = result;
       if (isPublic) data.publications.forEach(p => { p.banner = result.banner; });
       const rows = data.publications || [];
