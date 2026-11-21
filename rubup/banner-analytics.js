@@ -5,12 +5,13 @@
   if (isPublic) document.body.classList.add("public");
   let data = null, shareInfo = {}, apiBase = "";
   const number = n => new Intl.NumberFormat("ru-RU").format(n || 0);
-  const shownViews = rows => rows.some(p => Number(p.views) > 0) ? number(sum(rows)) : "—";
+  const hasChecked = p => p.views !== null && p.views !== undefined;
+  const shownViews = rows => rows.some(hasChecked) ? number(sum(rows)) : "—";
   const esc = x => String(x ?? "").replace(/[&<>"']/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
   const platformName = x => ({youtube:"YouTube", tiktok:"TikTok", instagram:"Instagram"}[String(x || "").toLowerCase()] || x || "—");
   const date = x => { const d = new Date(Number(x) * 1000); return Number.isFinite(d.getTime()) && Number(x) > 0 ? d.toLocaleDateString("ru-RU") : "—"; };
   const readJson = async (url, options) => { const isApi = url.startsWith("/api/banner-analytics"); let res = await fetch((isApi ? apiBase : "") + url, options); if (isApi && !apiBase && res.status === 404) { apiBase = "http://127.0.0.1:8769"; res = await fetch(apiBase + url, options); } if (!res.ok) { const error = await res.json().catch(() => ({})); throw new Error(error.detail || `Ошибка ${res.status}`); } return res.json(); };
-  const viewsBadge = n => n > 50 ? `<span class="state ok">${number(n)} просмотров</span>` : n > 0 ? `<span class="state low">${number(n)} просмотров</span>` : '<span class="state unknown">Нет данных или 0</span>';
+  const viewsBadge = n => (n === null || n === undefined) ? '<span class="state unknown">Нет проверенных данных</span>' : n > 50 ? `<span class="state ok">${number(n)} просмотров</span>` : `<span class="state low">${number(n)} просмотров</span>`;
   const options = (select, values, empty) => { const old = select.value; select.innerHTML = `<option value="">${empty}</option>` + values.map(v => `<option value="${esc(v)}">${esc(v)}</option>`).join(""); if (values.includes(old)) select.value = old; };
 
   function filtered() {
@@ -19,17 +20,17 @@
   }
   function sum(rows) { return rows.reduce((s,p) => s + (Number(p.views) || 0), 0); }
   function render() {
-    const rows = filtered(), views = sum(rows), unknown = rows.filter(p => !(Number(p.views) > 0)).length;
+    const rows = filtered(), views = sum(rows), unknown = rows.filter(p => !hasChecked(p)).length;
     const accountCount = new Set(rows.map(p => `${p.person}\0${p.platform}\0${p.profile}`)).size;
-    $("metrics").innerHTML = [["ПРОСМОТРЫ · ПРЕДВАРИТЕЛЬНО",shownViews(rows),"сумма доступных значений, требует проверки"],["ПУБЛИКАЦИИ",number(rows.length),"отдельно на каждой площадке"],["АККАУНТЫ",number(accountCount),"которые публиковали эти ролики"],["НЕТ ДАННЫХ ИЛИ 0",number(unknown),"требуется обновление статистики"]].map(([a,b,c]) => `<div class="metric"><div class="metric-label">${a}</div><div class="metric-value">${b}</div><div class="metric-note">${c}</div></div>`).join("");
+    $("metrics").innerHTML = [["ПРОСМОТРЫ · ПРОВЕРЕНО",shownViews(rows),"реальная сумма по прямым ссылкам (автообновление каждые 5 ч)"],["ПУБЛИКАЦИИ",number(rows.length),"отдельно на каждой площадке"],["АККАУНТЫ",number(accountCount),"которые публиковали эти ролики"],["БЕЗ ССЫЛКИ / УДАЛЕНО",number(unknown),"ролики без публичного ID или скрытые аккаунты"]].map(([a,b,c]) => `<div class="metric"><div class="metric-label">${a}</div><div class="metric-value">${b}</div><div class="metric-note">${c}</div></div>`).join("");
     const names = [...new Set(rows.map(p => p.banner))].sort();
     $("cards").innerHTML = names.length ? names.map(b => { const r = rows.filter(p => p.banner === b); return `<div class="banner-card" data-banner="${esc(b)}"><span class="tag">РЕКЛАМНАЯ ПЛАШКА</span><p class="big">${esc(b)}</p><div class="metric-value">${shownViews(r)}</div><div class="muted">учтено просмотров · ${number(r.length)} публикаций</div></div>`; }).join("") : '<div class="empty">Публикации с баннерами по выбранным фильтрам не найдены.</div>';
     const accounts = new Map();
     rows.forEach(p => { const key = `${p.person}\0${p.platform}\0${p.profile}`; if (!accounts.has(key)) accounts.set(key, {person:p.person, account:p.account, profile:p.profile, platform:p.platform, videos:[], url:p.account_url}); accounts.get(key).videos.push(p); });
     const groups = [...accounts.values()].sort((a,b) => sum(b.videos)-sum(a.videos));
-    $("accounts").innerHTML = groups.length ? `<div class="table-wrap"><table><thead><tr><th>Аккаунт</th><th>Клиент</th><th>Площадка</th><th>Публикаций</th><th>Просмотры</th><th>Нет данных или 0</th></tr></thead><tbody>${groups.map(a => `<tr><td>${a.url ? `<a href="${esc(a.url)}" target="_blank" rel="noopener noreferrer">${esc(a.account)} ↗</a>` : esc(a.account)}<small>${esc(a.profile)}</small></td><td>${esc(a.person)}</td><td>${esc(platformName(a.platform))}</td><td>${number(a.videos.length)}</td><td>${shownViews(a.videos)}</td><td>${number(a.videos.filter(p => !(Number(p.views)>0)).length)}</td></tr>`).join("")}</tbody></table></div>` : '<div class="empty">Пока нет аккаунтов по выбранным условиям.</div>';
+    $("accounts").innerHTML = groups.length ? `<div class="table-wrap"><table><thead><tr><th>Аккаунт</th><th>Клиент</th><th>Площадка</th><th>Публикаций</th><th>Просмотры</th><th>Без данных</th></tr></thead><tbody>${groups.map(a => `<tr><td>${a.url ? `<a href="${esc(a.url)}" target="_blank" rel="noopener noreferrer">${esc(a.account)} ↗</a>` : esc(a.account)}<small>${esc(a.profile)}</small></td><td>${esc(a.person)}</td><td>${esc(platformName(a.platform))}</td><td>${number(a.videos.length)}</td><td>${shownViews(a.videos)}</td><td>${number(a.videos.filter(p => !hasChecked(p)).length)}</td></tr>`).join("")}</tbody></table></div>` : '<div class="empty">Пока нет аккаунтов по выбранным условиям.</div>';
     const vf = $("view-filter").value;
-    const filteredRows = rows.filter(p => vf === "all" || (vf === "low" ? p.views > 0 && p.views <= 50 : !(p.views > 0)));
+    const filteredRows = rows.filter(p => vf === "all" || (vf === "low" ? hasChecked(p) && p.views <= 50 : !hasChecked(p)));
     $("publications").innerHTML = filteredRows.length ? `<div class="table-wrap"><table><thead><tr><th>Баннер</th><th>Клиент / аккаунт</th><th>Площадка</th><th>Дата</th><th>Просмотры</th><th>Ссылка</th>${isPublic ? "" : "<th></th>"}</tr></thead><tbody>${filteredRows.slice(0,1000).map(p => `<tr><td>${esc(p.banner)}<small>${esc(p.evidence || "")}</small></td><td>${esc(p.person)}<small>${esc(p.account)} · ${esc(p.profile)}</small></td><td>${esc(platformName(p.platform))}</td><td>${date(p.published_at)}</td><td>${viewsBadge(p.views)}<small>${esc(p.views_source || "из базы")}${p.views_checked_at ? ` · ${date(p.views_checked_at)}` : ""}</small></td><td>${p.url ? `<a href="${esc(p.url)}" target="_blank" rel="noopener noreferrer">${p.has_video_id ? "Открыть ролик ↗" : "Открыть профиль ↗"}</a>` : "—"}</td>${isPublic ? "" : `<td><button class="text-button" data-assign="${p.id}">Изменить</button><br><button class="text-button" data-remove="${p.id}">Убрать из отчёта</button></td>`}</tr>`).join("")}</tbody></table></div>` : '<div class="empty">Нет публикаций по выбранным условиям.</div>';
     if (!isPublic) {
       const unmatched = (data.unassigned || []).filter(p => !$("person").value || p.person === $("person").value).filter(p => !$("search").value || `${p.person} ${p.profile} ${p.filename}`.toLowerCase().includes($("search").value.toLowerCase()));
