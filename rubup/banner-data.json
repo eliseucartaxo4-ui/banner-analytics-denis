@@ -1,7 +1,21 @@
 {
   "banner": "RubUP",
-  "generated_at": 1795260748.3914094,
+  "generated_at": 1795272011.850662,
   "publications": [
+    {
+      "person": "ДЕНИС РЯБЦЕВ",
+      "profile": "work74",
+      "account": "Ден Ряба Live",
+      "account_url": "https://www.youtube.com/channel/UCrd_PQUk65fhbOjyZFK14iA",
+      "platform": "youtube",
+      "views": 0,
+      "views_source": "из базы",
+      "views_checked_at": null,
+      "published_at": 1795271822.0,
+      "url": "https://www.youtube.com/shorts/ZqtqqXrvQMg",
+      "has_video_id": true,
+      "evidence": "по имени файла · требуется проверка"
+    },
     {
       "person": "ДЕНИС РЯБЦЕВ",
       "profile": "work642",
