@@ -1,6 +1,6 @@
 {
   "banner": "RubUP",
-  "generated_at": 1795260278.4983478,
+  "generated_at": 1795260748.3914094,
   "publications": [
     {
       "person": "ДЕНИС РЯБЦЕВ",
@@ -42,7 +42,7 @@
       "published_at": 1795251958.4394598,
       "url": "https://www.tiktok.com/@angelagarcias74562976/video/7710548355914517782",
       "has_video_id": false,
-      "evidence": "по имени файла · требуется проверка"
+      "evidence": "распознан текст на кадре"
     },
     {
       "person": "ДЕНИС РЯБЦЕВ",
@@ -98,7 +98,7 @@
       "published_at": 1795251697.984367,
       "url": "",
       "has_video_id": false,
-      "evidence": "по имени файла · требуется проверка"
+      "evidence": "распознан текст на кадре"
     },
     {
       "person": "ДЕНИС РЯБЦЕВ",
@@ -224,7 +224,7 @@
       "published_at": 1795076669.8928535,
       "url": "https://www.tiktok.com/@patriciagilberti152524/video/7709795508117589270",
       "has_video_id": false,
-      "evidence": "по имени файла · требуется проверка"
+      "evidence": "распознан текст на кадре"
     },
     {
       "person": "ДЕНИС РЯБЦЕВ",
@@ -462,7 +462,7 @@
       "published_at": 1795009133.8351278,
       "url": "https://www.tiktok.com/@lucasyamassato607/video/7709505461594131733",
       "has_video_id": false,
-      "evidence": "по имени файла · требуется проверка"
+      "evidence": "распознан текст на кадре"
     },
     {
       "person": "ДЕНИС РЯБЦЕВ",
@@ -490,7 +490,7 @@
       "published_at": 1795009010.0851264,
       "url": "https://www.youtube.com/shorts/BybSuRTYBRU",
       "has_video_id": true,
-      "evidence": "по имени файла · требуется проверка"
+      "evidence": "распознан текст на кадре"
     }
   ]
 }
