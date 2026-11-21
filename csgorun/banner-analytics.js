@@ -3,12 +3,12 @@
   const $ = id => document.getElementById(id);
   const isPublic = !["localhost", "127.0.0.1"].includes(location.hostname);
   if (isPublic) document.body.classList.add("public");
-  let data = null, shareInfo = {};
+  let data = null, shareInfo = {}, apiBase = "";
   const number = n => new Intl.NumberFormat("ru-RU").format(n || 0);
   const esc = x => String(x ?? "").replace(/[&<>"']/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
   const platformName = x => ({youtube:"YouTube", tiktok:"TikTok", instagram:"Instagram"}[String(x || "").toLowerCase()] || x || "—");
   const date = x => { const d = new Date(Number(x) * 1000); return Number.isFinite(d.getTime()) && Number(x) > 0 ? d.toLocaleDateString("ru-RU") : "—"; };
-  const readJson = async (url, options) => { const res = await fetch(url, options); if (!res.ok) { const error = await res.json().catch(() => ({})); throw new Error(error.detail || `Ошибка ${res.status}`); } return res.json(); };
+  const readJson = async (url, options) => { const isApi = url.startsWith("/api/banner-analytics"); let res = await fetch((isApi ? apiBase : "") + url, options); if (isApi && !apiBase && res.status === 404) { apiBase = "http://127.0.0.1:8769"; res = await fetch(apiBase + url, options); } if (!res.ok) { const error = await res.json().catch(() => ({})); throw new Error(error.detail || `Ошибка ${res.status}`); } return res.json(); };
   const viewsBadge = n => n > 50 ? `<span class="state ok">${number(n)} просмотров</span>` : n > 0 ? `<span class="state low">${number(n)} просмотров</span>` : '<span class="state unknown">Нет данных или 0</span>';
   const options = (select, values, empty) => { const old = select.value; select.innerHTML = `<option value="">${empty}</option>` + values.map(v => `<option value="${esc(v)}">${esc(v)}</option>`).join(""); if (values.includes(old)) select.value = old; };
 
