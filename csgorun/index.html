@@ -4,7 +4,7 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>Аналитика рекламных баннеров</title>
-  <link rel="stylesheet" href="banner-analytics.css?v=20261121-4">
+  <link rel="stylesheet" href="banner-analytics.css?v=20261121-5">
 </head>
 <body>
   <main class="shell">
@@ -20,14 +20,14 @@
       <label>Поиск <input id="search" placeholder="Клиент или аккаунт"></label>
     </section>
     <section class="metrics" id="metrics"></section>
-    <p class="explanation">Это предварительная оценка по данным базы, а не подтверждённый охват. Часть баннеров определена по имени файла. В существующей системе некоторые записи YouTube могут содержать показатели предыдущего ролика; ссылки и просмотры требуют проверки. Значение 0 может означать как ноль, так и отсутствие данных.</p>
-    <p class="explanation local-only">Пока панель работает, программа периодически ищет известные плашки в доступных видео и раз в шесть часов проверяет просмотры по доступным ссылкам. Площадка может не вернуть счётчик; распознавание новых названий можно дополнить вручную.</p>
+    <p class="explanation">Сумма включает только доступные счётчики, полученные по ссылкам на конкретные ролики. Если счётчик недоступен, показано «Нет проверенных данных». Старые привязки роликов к баннерам и определения по имени файла могут требовать ручной проверки.</p>
+    <p class="explanation local-only">Новые копии сохраняют связь с исходным видео. Программа распознаёт известные плашки CSGORUN и RubUP; спорные случаи можно указать вручную. Просмотры обновляются по доступным ссылкам, пока панель работает.</p>
     <section><div class="section-head"><div><span class="eyebrow">ОБЗОР</span><h2>Баннеры</h2></div></div><div class="banner-cards" id="cards"></div></section>
     <section><div class="section-head"><div><span class="eyebrow">ДЕТАЛИ</span><h2>Аккаунты</h2></div><span class="muted">Низкие просмотры: от 1 до 50</span></div><div id="accounts"></div></section>
-    <section><div class="section-head"><div><span class="eyebrow">ИСТОРИЯ</span><h2>Публикации</h2></div><select id="view-filter" aria-label="Фильтр просмотров"><option value="all">Все публикации</option><option value="low">Мало просмотров</option><option value="unknown">Нет данных или 0</option></select></div><div id="publications"></div></section>
+    <section><div class="section-head"><div><span class="eyebrow">ИСТОРИЯ</span><h2>Публикации</h2></div><select id="view-filter" aria-label="Фильтр просмотров"><option value="all">Все публикации</option><option value="low">Мало просмотров</option><option value="unknown">Нет данных</option></select></div><div id="publications"></div></section>
     <section class="local-only"><div class="section-head"><div><span class="eyebrow">ПРОВЕРКА</span><h2>Неопределённые публикации</h2><p>Можно вручную указать баннер. Показаны последние 500 записей с именем файла.</p></div><button class="button ghost" id="toggle-unassigned">Показать</button></div><div id="unassigned" hidden></div></section>
     <footer>Статистика по рекламным плашкам · Не является измерением уникальных зрителей</footer>
   </main>
-  <script src="banner-analytics.js?v=20261121-4"></script>
+  <script src="banner-analytics.js?v=20261121-5"></script>
 </body>
 </html>
