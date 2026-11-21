@@ -1,5 +1,5 @@
 {
-  "generated_at": 1795275534.4620862,
+  "generated_at": 1795275642.2298338,
   "banners": [
     "CSGORUN",
     "RubUP"
@@ -7,18 +7,47 @@
   "publications": [
     {
       "person": "ДЕНИС РЯБЦЕВ",
+      "profile": "work49",
+      "account": "@laurenricewu281953",
+      "account_url": "https://www.tiktok.com/@laurenricewu281953",
+      "platform": "tiktok",
+      "views": 0,
+      "views_source": "из базы",
+      "views_checked_at": null,
+      "published_at": 1795275572.1114264,
+      "url": "https://www.tiktok.com/@laurenricewu281953/video/7710649811380309270",
+      "has_video_id": false,
+      "evidence": "распознан текст на кадре",
+      "banner": "CSGORUN"
+    },
+    {
+      "person": "ДЕНИС РЯБЦЕВ",
+      "profile": "work48",
+      "account": "@rachelsmithpb073260",
+      "account_url": "https://www.tiktok.com/@rachelsmithpb073260",
+      "platform": "tiktok",
+      "views": 0,
+      "views_source": "из базы",
+      "views_checked_at": null,
+      "published_at": 1795275572.0311913,
+      "url": "https://www.tiktok.com/@rachelsmithpb073260/video/7710649817969511702",
+      "has_video_id": false,
+      "evidence": "распознан текст на кадре",
+      "banner": "CSGORUN"
+    },
+    {
+      "person": "ДЕНИС РЯБЦЕВ",
       "profile": "work48",
       "account": "Denis Ryabcev Cuts",
       "account_url": "https://www.youtube.com/channel/UCHZAR2hOSeSvlDooVyLVQVw",
       "platform": "youtube",
-      "views": null,
-      "views_source": "нет проверенных данных",
+      "views": 0,
+      "views_source": "из базы",
       "views_checked_at": null,
       "published_at": 1795275471.8332846,
       "url": "https://www.youtube.com/shorts/F2VlXCou5IQ",
       "has_video_id": true,
-      "evidence": "по имени файла · требуется проверка",
-      "source_tracked": true,
+      "evidence": "распознан текст на кадре",
       "banner": "CSGORUN"
     },
     {
@@ -27,14 +56,13 @@
       "account": "@andrewandersonp3470239",
       "account_url": "https://www.tiktok.com/@andrewandersonp3470239",
       "platform": "tiktok",
-      "views": null,
-      "views_source": "нет проверенных данных",
+      "views": 0,
+      "views_source": "из базы",
       "views_checked_at": null,
       "published_at": 1795275466.6679826,
       "url": "https://www.tiktok.com/@andrewandersonp3470239/video/7710649344331894019",
-      "has_video_id": true,
+      "has_video_id": false,
       "evidence": "распознан текст на кадре",
-      "source_tracked": false,
       "banner": "CSGORUN"
     },
     {
@@ -43,14 +71,13 @@
       "account": "@pemokidag774",
       "account_url": "https://www.tiktok.com/@pemokidag774",
       "platform": "tiktok",
-      "views": null,
-      "views_source": "нет проверенных данных",
+      "views": 0,
+      "views_source": "из базы",
       "views_checked_at": null,
       "published_at": 1795275386.5318782,
       "url": "https://www.tiktok.com/@pemokidag774/video/7710648765048360215",
-      "has_video_id": true,
+      "has_video_id": false,
       "evidence": "распознан текст на кадре",
-      "source_tracked": false,
       "banner": "CSGORUN"
     },
     {
@@ -59,14 +86,13 @@
       "account": "@austinromeroir0175249",
       "account_url": "https://www.tiktok.com/@austinromeroir0175249",
       "platform": "tiktok",
-      "views": null,
-      "views_source": "нет проверенных данных",
+      "views": 0,
+      "views_source": "из базы",
       "views_checked_at": null,
       "published_at": 1795275381.0184307,
       "url": "https://www.tiktok.com/@austinromeroir0175249/video/7710648772216245526",
-      "has_video_id": true,
+      "has_video_id": false,
       "evidence": "распознан текст на кадре",
-      "source_tracked": false,
       "banner": "CSGORUN"
     },
     {
@@ -82,7 +108,6 @@
       "url": "https://www.instagram.com/pemokidag774/reel/DgAj2Z5SE0m/",
       "has_video_id": true,
       "evidence": "распознан текст на кадре",
-      "source_tracked": false,
       "banner": "CSGORUN"
     },
     {
@@ -91,14 +116,13 @@
       "account": "@user8278593368309",
       "account_url": "https://www.tiktok.com/@user8278593368309",
       "platform": "tiktok",
-      "views": null,
-      "views_source": "нет проверенных данных",
+      "views": 0,
+      "views_source": "из базы",
       "views_checked_at": null,
       "published_at": 1795275229.823689,
       "url": "https://www.tiktok.com/@user8278593368309/video/7710648028767456534",
-      "has_video_id": true,
+      "has_video_id": false,
       "evidence": "распознан текст на кадре",
-      "source_tracked": false,
       "banner": "CSGORUN"
     },
     {
@@ -114,7 +138,6 @@
       "url": "https://www.youtube.com/shorts/rWirYJhddmE",
       "has_video_id": true,
       "evidence": "распознан текст на кадре",
-      "source_tracked": false,
       "banner": "CSGORUN"
     },
     {
@@ -130,7 +153,6 @@
       "url": "https://www.tiktok.com/@unairodero5/video/7710647363454471438",
       "has_video_id": true,
       "evidence": "распознан текст на кадре",
-      "source_tracked": false,
       "banner": "CSGORUN"
     },
     {
@@ -146,7 +168,6 @@
       "url": "https://www.tiktok.com/@carldaviss071217/video/7710647112031128854",
       "has_video_id": true,
       "evidence": "распознан текст на кадре",
-      "source_tracked": false,
       "banner": "CSGORUN"
     },
     {
@@ -161,8 +182,7 @@
       "published_at": 1795274940.665892,
       "url": "https://www.youtube.com/shorts/rIAXJmAN3v8",
       "has_video_id": true,
-      "evidence": "по имени файла · требуется проверка",
-      "source_tracked": true,
+      "evidence": "распознан текст на кадре",
       "banner": "CSGORUN"
     },
     {
@@ -178,7 +198,6 @@
       "url": "https://www.tiktok.com/@aropokzeropo/video/7710646659390213389",
       "has_video_id": true,
       "evidence": "распознан текст на кадре",
-      "source_tracked": false,
       "banner": "CSGORUN"
     },
     {
@@ -194,7 +213,6 @@
       "url": "https://www.youtube.com/shorts/-eLmSx9K-jw",
       "has_video_id": true,
       "evidence": "распознан текст на кадре",
-      "source_tracked": false,
       "banner": "CSGORUN"
     },
     {
@@ -210,7 +228,6 @@
       "url": "https://www.youtube.com/shorts/PQTh6lDYSZw",
       "has_video_id": true,
       "evidence": "распознан текст на кадре",
-      "source_tracked": false,
       "banner": "CSGORUN"
     },
     {
@@ -219,14 +236,13 @@
       "account": "@dotadva218",
       "account_url": "https://www.tiktok.com/@dotadva218",
       "platform": "tiktok",
-      "views": null,
-      "views_source": "нет проверенных данных",
+      "views": 0,
+      "views_source": "из базы",
       "views_checked_at": null,
       "published_at": 1795274679.8850951,
       "url": "https://www.tiktok.com/@dotadva218/video/7710645913387109646",
       "has_video_id": true,
       "evidence": "распознан текст на кадре",
-      "source_tracked": false,
       "banner": "CSGORUN"
     },
     {
@@ -242,7 +258,6 @@
       "url": "https://www.youtube.com/shorts/J_q-I5_Mw-Y",
       "has_video_id": true,
       "evidence": "распознан текст на кадре",
-      "source_tracked": false,
       "banner": "CSGORUN"
     },
     {
@@ -258,7 +273,6 @@
       "url": "https://www.youtube.com/shorts/1OsJj-nXTP4",
       "has_video_id": true,
       "evidence": "распознан текст на кадре",
-      "source_tracked": false,
       "banner": "CSGORUN"
     },
     {
@@ -274,7 +288,6 @@
       "url": "https://www.youtube.com/shorts/P73QKIIdn8k",
       "has_video_id": true,
       "evidence": "распознан текст на кадре",
-      "source_tracked": false,
       "banner": "CSGORUN"
     },
     {
@@ -283,14 +296,13 @@
       "account": "@lauralewisr46484288",
       "account_url": "https://www.tiktok.com/@lauralewisr46484288",
       "platform": "tiktok",
-      "views": null,
-      "views_source": "нет проверенных данных",
+      "views": 0,
+      "views_source": "из базы",
       "views_checked_at": null,
       "published_at": 1795274463.481667,
       "url": "https://www.tiktok.com/@lauralewisr46484288/video/7710645049280711958",
       "has_video_id": true,
       "evidence": "распознан текст на кадре",
-      "source_tracked": false,
       "banner": "CSGORUN"
     },
     {
@@ -306,7 +318,6 @@
       "url": "https://www.youtube.com/shorts/UuBOlKgFqAA",
       "has_video_id": true,
       "evidence": "распознан текст на кадре",
-      "source_tracked": false,
       "banner": "CSGORUN"
     },
     {
@@ -322,7 +333,6 @@
       "url": "https://www.youtube.com/shorts/-m-hCjOr5yg",
       "has_video_id": true,
       "evidence": "распознан текст на кадре",
-      "source_tracked": false,
       "banner": "CSGORUN"
     },
     {
@@ -338,7 +348,6 @@
       "url": "https://www.youtube.com/shorts/hS-KN1OW_zQ",
       "has_video_id": true,
       "evidence": "распознан текст на кадре",
-      "source_tracked": false,
       "banner": "CSGORUN"
     },
     {
@@ -354,7 +363,6 @@
       "url": "https://www.youtube.com/shorts/0vAtqKmGmPw",
       "has_video_id": true,
       "evidence": "распознан текст на кадре",
-      "source_tracked": false,
       "banner": "CSGORUN"
     },
     {
@@ -370,7 +378,6 @@
       "url": "https://www.youtube.com/shorts/BDk_RB0q-0E",
       "has_video_id": true,
       "evidence": "распознан текст на кадре",
-      "source_tracked": false,
       "banner": "CSGORUN"
     },
     {
@@ -386,7 +393,6 @@
       "url": "https://www.youtube.com/shorts/uMr-do-SSAY",
       "has_video_id": true,
       "evidence": "распознан текст на кадре",
-      "source_tracked": false,
       "banner": "CSGORUN"
     },
     {
@@ -402,7 +408,6 @@
       "url": "https://www.tiktok.com/@priscillacalhocb97105718/video/7710546365755034902",
       "has_video_id": true,
       "evidence": "распознан текст на кадре",
-      "source_tracked": false,
       "banner": "CSGORUN"
     },
     {
@@ -418,7 +423,6 @@
       "url": "https://www.tiktok.com/@thomasmorenobx13261183/video/7710546331432996118",
       "has_video_id": true,
       "evidence": "распознан текст на кадре",
-      "source_tracked": false,
       "banner": "CSGORUN"
     },
     {
@@ -434,7 +438,6 @@
       "url": "https://www.tiktok.com/@joshuaharveys8308280/video/7710545937646538006",
       "has_video_id": true,
       "evidence": "распознан текст на кадре",
-      "source_tracked": false,
       "banner": "CSGORUN"
     },
     {
@@ -450,7 +453,6 @@
       "url": "https://www.tiktok.com/@ashleywilliamsp61599188/video/7710545889185762562",
       "has_video_id": true,
       "evidence": "распознан текст на кадре",
-      "source_tracked": false,
       "banner": "CSGORUN"
     },
     {
@@ -466,7 +468,6 @@
       "url": "https://www.tiktok.com/@alyssajenningsk99556710/video/7710545538265009430",
       "has_video_id": true,
       "evidence": "распознан текст на кадре",
-      "source_tracked": false,
       "banner": "CSGORUN"
     },
     {
@@ -482,7 +483,6 @@
       "url": "https://www.tiktok.com/@melissahunton354530/video/7710545547022585110",
       "has_video_id": true,
       "evidence": "распознан текст на кадре",
-      "source_tracked": false,
       "banner": "CSGORUN"
     },
     {
@@ -498,7 +498,6 @@
       "url": "https://www.tiktok.com/@emilyowenn197695/video/7710545226628254979",
       "has_video_id": true,
       "evidence": "распознан текст на кадре",
-      "source_tracked": false,
       "banner": "CSGORUN"
     },
     {
@@ -514,7 +513,6 @@
       "url": "https://www.tiktok.com/@thomasbutlerm39360264/video/7710545219892022550",
       "has_video_id": true,
       "evidence": "распознан текст на кадре",
-      "source_tracked": false,
       "banner": "CSGORUN"
     },
     {
@@ -530,7 +528,6 @@
       "url": "https://www.tiktok.com/@jenniferedwardya65272069/video/7710544833017892118",
       "has_video_id": true,
       "evidence": "распознан текст на кадре",
-      "source_tracked": false,
       "banner": "CSGORUN"
     },
     {
@@ -546,7 +543,6 @@
       "url": "https://www.youtube.com/shorts/qYZmlLevvVU",
       "has_video_id": true,
       "evidence": "распознан текст на кадре",
-      "source_tracked": false,
       "banner": "CSGORUN"
     },
     {
@@ -562,7 +558,6 @@
       "url": "https://www.tiktok.com/@cynthiamyersf070289/video/7710544472005709078",
       "has_video_id": true,
       "evidence": "распознан текст на кадре",
-      "source_tracked": false,
       "banner": "CSGORUN"
     },
     {
@@ -578,7 +573,6 @@
       "url": "https://www.tiktok.com/@matthewlyncha9815456/video/7710544447662050582",
       "has_video_id": true,
       "evidence": "распознан текст на кадре",
-      "source_tracked": false,
       "banner": "CSGORUN"
     },
     {
@@ -594,7 +588,6 @@
       "url": "https://www.tiktok.com/@deniska_vibes_live/video/7710544107688692994",
       "has_video_id": true,
       "evidence": "распознан текст на кадре",
-      "source_tracked": false,
       "banner": "CSGORUN"
     },
     {
@@ -610,7 +603,6 @@
       "url": "https://www.tiktok.com/@victoriameyern6918441/video/7710544078009683222",
       "has_video_id": true,
       "evidence": "распознан текст на кадре",
-      "source_tracked": false,
       "banner": "CSGORUN"
     },
     {
@@ -626,7 +618,6 @@
       "url": "https://www.tiktok.com/@michellemccallvx2849213/video/7710543759141834006",
       "has_video_id": true,
       "evidence": "распознан текст на кадре",
-      "source_tracked": false,
       "banner": "CSGORUN"
     },
     {
@@ -642,7 +633,6 @@
       "url": "https://www.tiktok.com/@crystalwalshgr689907/video/7710543716322151702",
       "has_video_id": true,
       "evidence": "распознан текст на кадре",
-      "source_tracked": false,
       "banner": "CSGORUN"
     },
     {
@@ -658,7 +648,6 @@
       "url": "https://www.youtube.com/shorts/QVtDSLkK1FY",
       "has_video_id": true,
       "evidence": "распознан текст на кадре",
-      "source_tracked": false,
       "banner": "CSGORUN"
     },
     {
@@ -674,7 +663,6 @@
       "url": "https://www.tiktok.com/@michelleconleybb1395910/video/7710543313643834646",
       "has_video_id": true,
       "evidence": "по имени файла · требуется проверка",
-      "source_tracked": false,
       "banner": "CSGORUN"
     },
     {
@@ -690,7 +678,6 @@
       "url": "https://www.tiktok.com/@allisondayk389916/video/7710543012341845270",
       "has_video_id": true,
       "evidence": "распознан текст на кадре",
-      "source_tracked": false,
       "banner": "CSGORUN"
     },
     {
@@ -706,7 +693,6 @@
       "url": "https://www.tiktok.com/@tracysheltonjk0085586/video/7710542922130771222",
       "has_video_id": true,
       "evidence": "распознан текст на кадре",
-      "source_tracked": false,
       "banner": "CSGORUN"
     },
     {
@@ -722,7 +708,6 @@
       "url": "https://www.tiktok.com/@jeremymcmillanq918810/video/7710542645726104854",
       "has_video_id": true,
       "evidence": "распознан текст на кадре",
-      "source_tracked": false,
       "banner": "CSGORUN"
     },
     {
@@ -738,7 +723,6 @@
       "url": "https://www.tiktok.com/@ashleybutleral76989147/video/7710542532979051798",
       "has_video_id": true,
       "evidence": "распознан текст на кадре",
-      "source_tracked": false,
       "banner": "CSGORUN"
     },
     {
@@ -754,7 +738,6 @@
       "url": "https://www.youtube.com/shorts/eYnS5toJ1y8",
       "has_video_id": true,
       "evidence": "распознан текст на кадре",
-      "source_tracked": false,
       "banner": "CSGORUN"
     },
     {
@@ -770,7 +753,6 @@
       "url": "https://www.youtube.com/shorts/T4f5qkwKRwk",
       "has_video_id": true,
       "evidence": "распознан текст на кадре",
-      "source_tracked": false,
       "banner": "CSGORUN"
     },
     {
@@ -786,7 +768,6 @@
       "url": "https://www.tiktok.com/@justinbaileyuj701873/video/7710541816155720982",
       "has_video_id": true,
       "evidence": "распознан текст на кадре",
-      "source_tracked": false,
       "banner": "CSGORUN"
     },
     {
@@ -802,7 +783,6 @@
       "url": "https://www.tiktok.com/@michaelfrankliwo33777259/video/7710541802234826006",
       "has_video_id": true,
       "evidence": "распознан текст на кадре",
-      "source_tracked": false,
       "banner": "CSGORUN"
     },
     {
@@ -818,7 +798,6 @@
       "url": "https://www.tiktok.com/@jeffreymillertl5058149/video/7710541412063923478",
       "has_video_id": true,
       "evidence": "распознан текст на кадре",
-      "source_tracked": false,
       "banner": "CSGORUN"
     },
     {
@@ -834,7 +813,6 @@
       "url": "https://www.tiktok.com/@laurenricewu281953/video/7710541295726513430",
       "has_video_id": true,
       "evidence": "распознан текст на кадре",
-      "source_tracked": false,
       "banner": "CSGORUN"
     },
     {
@@ -850,7 +828,6 @@
       "url": "https://www.tiktok.com/@rachelsmithpb073260/video/7710541055925456150",
       "has_video_id": true,
       "evidence": "распознан текст на кадре",
-      "source_tracked": false,
       "banner": "CSGORUN"
     },
     {
@@ -866,7 +843,6 @@
       "url": "https://www.tiktok.com/@andrewandersonp3470239/video/7710541014376746262",
       "has_video_id": true,
       "evidence": "распознан текст на кадре",
-      "source_tracked": false,
       "banner": "CSGORUN"
     },
     {
@@ -882,7 +858,6 @@
       "url": "https://www.tiktok.com/@austinromeroir0175249/video/7710540762680708374",
       "has_video_id": true,
       "evidence": "распознан текст на кадре",
-      "source_tracked": false,
       "banner": "CSGORUN"
     },
     {
@@ -898,7 +873,6 @@
       "url": "https://www.tiktok.com/@pemokidag774/video/7710540547349417238",
       "has_video_id": true,
       "evidence": "распознан текст на кадре",
-      "source_tracked": false,
       "banner": "CSGORUN"
     },
     {
@@ -914,7 +888,6 @@
       "url": "https://www.tiktok.com/@user8278593368309/video/7710540399609203990",
       "has_video_id": true,
       "evidence": "распознан текст на кадре",
-      "source_tracked": false,
       "banner": "CSGORUN"
     },
     {
@@ -930,7 +903,6 @@
       "url": "https://www.instagram.com/pemokidag774/reel/Df_z6TpyWtB/",
       "has_video_id": true,
       "evidence": "распознан текст на кадре",
-      "source_tracked": false,
       "banner": "CSGORUN"
     },
     {
@@ -946,7 +918,6 @@
       "url": "https://www.youtube.com/shorts/j_0jsAfEvbk",
       "has_video_id": true,
       "evidence": "распознан текст на кадре",
-      "source_tracked": false,
       "banner": "CSGORUN"
     },
     {
@@ -962,7 +933,6 @@
       "url": "https://www.tiktok.com/@carldaviss071217/video/7710539575281585430",
       "has_video_id": true,
       "evidence": "распознан текст на кадре",
-      "source_tracked": false,
       "banner": "CSGORUN"
     },
     {
@@ -971,14 +941,13 @@
       "account": "@unairodero5",
       "account_url": "https://www.tiktok.com/@unairodero5",
       "platform": "tiktok",
-      "views": null,
-      "views_source": "нет проверенных данных",
+      "views": 0,
+      "views_source": "из базы",
       "views_checked_at": null,
       "published_at": 1795249915.025915,
       "url": "https://www.tiktok.com/@unairodero5/video/7710539358486498573",
       "has_video_id": true,
       "evidence": "распознан текст на кадре",
-      "source_tracked": false,
       "banner": "CSGORUN"
     },
     {
@@ -994,7 +963,6 @@
       "url": "https://www.youtube.com/shorts/plTy7BZ_WJM",
       "has_video_id": true,
       "evidence": "распознан текст на кадре",
-      "source_tracked": false,
       "banner": "CSGORUN"
     },
     {
@@ -1010,7 +978,6 @@
       "url": "https://www.tiktok.com/@aropokzeropo/video/7710539030059945229",
       "has_video_id": true,
       "evidence": "распознан текст на кадре",
-      "source_tracked": false,
       "banner": "CSGORUN"
     },
     {
@@ -1026,7 +993,6 @@
       "url": "https://www.youtube.com/shorts/GnqRBf6IgWI",
       "has_video_id": true,
       "evidence": "распознан текст на кадре",
-      "source_tracked": false,
       "banner": "CSGORUN"
     },
     {
@@ -1042,7 +1008,6 @@
       "url": "https://www.youtube.com/shorts/5CIABO4xAZQ",
       "has_video_id": true,
       "evidence": "распознан текст на кадре",
-      "source_tracked": false,
       "banner": "CSGORUN"
     },
     {
@@ -1051,14 +1016,13 @@
       "account": "@dotadva218",
       "account_url": "https://www.tiktok.com/@dotadva218",
       "platform": "tiktok",
-      "views": null,
-      "views_source": "нет проверенных данных",
+      "views": 0,
+      "views_source": "из базы",
       "views_checked_at": null,
       "published_at": 1795249676.3420289,
       "url": "https://www.tiktok.com/@dotadva218/video/7710538381821889822",
       "has_video_id": true,
       "evidence": "распознан текст на кадре",
-      "source_tracked": false,
       "banner": "CSGORUN"
     },
     {
@@ -1074,7 +1038,6 @@
       "url": "https://www.youtube.com/shorts/qecIMOwXR7A",
       "has_video_id": true,
       "evidence": "распознан текст на кадре",
-      "source_tracked": false,
       "banner": "CSGORUN"
     },
     {
@@ -1090,7 +1053,6 @@
       "url": "https://www.youtube.com/shorts/USKiunpuO5o",
       "has_video_id": true,
       "evidence": "распознан текст на кадре",
-      "source_tracked": false,
       "banner": "CSGORUN"
     },
     {
@@ -1099,14 +1061,13 @@
       "account": "@lauralewisr46484288",
       "account_url": "https://www.tiktok.com/@lauralewisr46484288",
       "platform": "tiktok",
-      "views": null,
-      "views_source": "нет проверенных данных",
+      "views": 0,
+      "views_source": "из базы",
       "views_checked_at": null,
       "published_at": 1795249492.9026976,
       "url": "https://www.tiktok.com/@lauralewisr46484288/video/7710537769721826582",
       "has_video_id": true,
       "evidence": "распознан текст на кадре",
-      "source_tracked": false,
       "banner": "CSGORUN"
     },
     {
@@ -1122,7 +1083,6 @@
       "url": "https://www.tiktok.com/@priscillacalhocb97105718/video/7709926118383471894",
       "has_video_id": true,
       "evidence": "распознан текст на кадре",
-      "source_tracked": false,
       "banner": "CSGORUN"
     },
     {
@@ -1138,7 +1098,6 @@
       "url": "https://www.tiktok.com/@matthewjonesg836824/video/7709926099253333270",
       "has_video_id": true,
       "evidence": "распознан текст на кадре",
-      "source_tracked": false,
       "banner": "CSGORUN"
     },
     {
@@ -1154,7 +1113,6 @@
       "url": "https://www.tiktok.com/@thomasmorenobx13261183/video/7709925724748008726",
       "has_video_id": true,
       "evidence": "распознан текст на кадре",
-      "source_tracked": false,
       "banner": "CSGORUN"
     },
     {
@@ -1170,7 +1128,6 @@
       "url": "https://www.tiktok.com/@ashleywilliamsp61599188/video/7709925652648037654",
       "has_video_id": true,
       "evidence": "распознан текст на кадре",
-      "source_tracked": false,
       "banner": "CSGORUN"
     },
     {
@@ -1186,7 +1143,6 @@
       "url": "https://www.tiktok.com/@joshuaharveys8308280/video/7709925344203230486",
       "has_video_id": true,
       "evidence": "распознан текст на кадре",
-      "source_tracked": false,
       "banner": "CSGORUN"
     },
     {
@@ -1202,7 +1158,6 @@
       "url": "https://www.tiktok.com/@melissahunton354530/video/7709925303086320918",
       "has_video_id": true,
       "evidence": "распознан текст на кадре",
-      "source_tracked": false,
       "banner": "CSGORUN"
     },
     {
@@ -1218,7 +1173,6 @@
       "url": "https://www.tiktok.com/@alyssajenningsk99556710/video/7709924983560015126",
       "has_video_id": true,
       "evidence": "распознан текст на кадре",
-      "source_tracked": false,
       "banner": "CSGORUN"
     },
     {
@@ -1234,7 +1188,6 @@
       "url": "https://www.tiktok.com/@emilyowenn197695/video/7709924809387363606",
       "has_video_id": true,
       "evidence": "распознан текст на кадре",
-      "source_tracked": false,
       "banner": "CSGORUN"
     },
     {
@@ -1250,7 +1203,6 @@
       "url": "https://www.tiktok.com/@thomasbutlerm39360264/video/7709924512761941270",
       "has_video_id": true,
       "evidence": "распознан текст на кадре",
-      "source_tracked": false,
       "banner": "CSGORUN"
     },
     {
@@ -1266,7 +1218,6 @@
       "url": "https://www.youtube.com/shorts/562hmmM1xRs",
       "has_video_id": true,
       "evidence": "распознан текст на кадре",
-      "source_tracked": false,
       "banner": "CSGORUN"
     },
     {
@@ -1282,7 +1233,6 @@
       "url": "https://www.tiktok.com/@matthewlyncha9815456/video/7709924146435738902",
       "has_video_id": true,
       "evidence": "распознан текст на кадре",
-      "source_tracked": false,
       "banner": "CSGORUN"
     },
     {
@@ -1298,7 +1248,6 @@
       "url": "https://www.tiktok.com/@jenniferedwardya65272069/video/7709924102764760342",
       "has_video_id": true,
       "evidence": "распознан текст на кадре",
-      "source_tracked": false,
       "banner": "CSGORUN"
     },
     {
@@ -1314,7 +1263,6 @@
       "url": "https://www.tiktok.com/@cynthiamyersf070289/video/7709923734177549590",
       "has_video_id": true,
       "evidence": "распознан текст на кадре",
-      "source_tracked": false,
       "banner": "CSGORUN"
     },
     {
@@ -1330,7 +1278,6 @@
       "url": "https://www.tiktok.com/@deniska_vibes_live/video/7709923740494089494",
       "has_video_id": true,
       "evidence": "распознан текст на кадре",
-      "source_tracked": false,
       "banner": "CSGORUN"
     },
     {
@@ -1346,7 +1293,6 @@
       "url": "https://www.tiktok.com/@victoriameyern6918441/video/7709923341053807875",
       "has_video_id": true,
       "evidence": "распознан текст на кадре",
-      "source_tracked": false,
       "banner": "CSGORUN"
     },
     {
@@ -1362,7 +1308,6 @@
       "url": "https://www.tiktok.com/@michellemccallvx2849213/video/7709923346426678550",
       "has_video_id": true,
       "evidence": "распознан текст на кадре",
-      "source_tracked": false,
       "banner": "CSGORUN"
     },
     {
@@ -1378,7 +1323,6 @@
       "url": "https://www.tiktok.com/@crystalwalshgr689907/video/7709922954129214742",
       "has_video_id": true,
       "evidence": "распознан текст на кадре",
-      "source_tracked": false,
       "banner": "CSGORUN"
     },
     {
@@ -1394,7 +1338,6 @@
       "url": "https://www.youtube.com/shorts/gXCV8ZuVTNc",
       "has_video_id": true,
       "evidence": "распознан текст на кадре",
-      "source_tracked": false,
       "banner": "CSGORUN"
     },
     {
@@ -1410,7 +1353,6 @@
       "url": "https://www.tiktok.com/@michelleconleybb1395910/video/7709922249750449431",
       "has_video_id": true,
       "evidence": "распознан текст на кадре",
-      "source_tracked": false,
       "banner": "CSGORUN"
     },
     {
@@ -1426,7 +1368,6 @@
       "url": "https://www.tiktok.com/@allisondayk389916/video/7709921885181496598",
       "has_video_id": true,
       "evidence": "распознан текст на кадре",
-      "source_tracked": false,
       "banner": "CSGORUN"
     },
     {
@@ -1442,7 +1383,6 @@
       "url": "https://www.tiktok.com/@tracysheltonjk0085586/video/7709921464203365654",
       "has_video_id": true,
       "evidence": "распознан текст на кадре",
-      "source_tracked": false,
       "banner": "CSGORUN"
     },
     {
@@ -1458,7 +1398,6 @@
       "url": "https://www.tiktok.com/@jeremymcmillanq918810/video/7709921100603378966",
       "has_video_id": true,
       "evidence": "распознан текст на кадре",
-      "source_tracked": false,
       "banner": "CSGORUN"
     },
     {
@@ -1474,7 +1413,6 @@
       "url": "https://www.youtube.com/shorts/bEFN5C5ePHc",
       "has_video_id": true,
       "evidence": "распознан текст на кадре",
-      "source_tracked": false,
       "banner": "CSGORUN"
     },
     {
@@ -1490,7 +1428,6 @@
       "url": "https://www.tiktok.com/@ashleybutleral76989147/video/7709920337693035798",
       "has_video_id": true,
       "evidence": "распознан текст на кадре",
-      "source_tracked": false,
       "banner": "CSGORUN"
     },
     {
@@ -1506,7 +1443,6 @@
       "url": "https://www.youtube.com/shorts/PXJ4MExzqPI",
       "has_video_id": true,
       "evidence": "распознан текст на кадре",
-      "source_tracked": false,
       "banner": "CSGORUN"
     },
     {
@@ -1522,7 +1458,6 @@
       "url": "https://www.tiktok.com/@justinbaileyuj701873/video/7709919152873540886",
       "has_video_id": true,
       "evidence": "распознан текст на кадре",
-      "source_tracked": false,
       "banner": "CSGORUN"
     },
     {
@@ -1538,7 +1473,6 @@
       "url": "https://www.tiktok.com/@michaelfrankliwo33777259/video/7709918789160209686",
       "has_video_id": true,
       "evidence": "распознан текст на кадре",
-      "source_tracked": false,
       "banner": "CSGORUN"
     },
     {
@@ -1554,7 +1488,6 @@
       "url": "https://www.tiktok.com/@jeffreymillertl5058149/video/7709918381113134358",
       "has_video_id": true,
       "evidence": "распознан текст на кадре",
-      "source_tracked": false,
       "banner": "CSGORUN"
     },
     {
@@ -1570,7 +1503,6 @@
       "url": "https://www.tiktok.com/@laurenricewu281953/video/7709917950614015254",
       "has_video_id": true,
       "evidence": "распознан текст на кадре",
-      "source_tracked": false,
       "banner": "CSGORUN"
     },
     {
@@ -1586,7 +1518,6 @@
       "url": "https://www.tiktok.com/@rachelsmithpb073260/video/7709917565815885078",
       "has_video_id": true,
       "evidence": "распознан текст на кадре",
-      "source_tracked": false,
       "banner": "CSGORUN"
     },
     {
@@ -1602,7 +1533,6 @@
       "url": "https://www.tiktok.com/@andrewandersonp3470239/video/7709917160386120963",
       "has_video_id": true,
       "evidence": "распознан текст на кадре",
-      "source_tracked": false,
       "banner": "CSGORUN"
     },
     {
@@ -1618,7 +1548,6 @@
       "url": "https://www.tiktok.com/@austinromeroir0175249/video/7709916764598963478",
       "has_video_id": true,
       "evidence": "распознан текст на кадре",
-      "source_tracked": false,
       "banner": "CSGORUN"
     },
     {
@@ -1627,14 +1556,13 @@
       "account": "@pemokidag774",
       "account_url": "https://www.tiktok.com/@pemokidag774",
       "platform": "tiktok",
-      "views": null,
-      "views_source": "нет проверенных данных",
+      "views": 0,
+      "views_source": "из базы",
       "views_checked_at": null,
       "published_at": 1795104758.0482752,
       "url": "https://www.tiktok.com/@pemokidag774/video/7709916145750461718",
       "has_video_id": true,
       "evidence": "распознан текст на кадре",
-      "source_tracked": false,
       "banner": "CSGORUN"
     },
     {
@@ -1650,7 +1578,6 @@
       "url": "https://www.youtube.com/shorts/5Db88A9Zcyw",
       "has_video_id": true,
       "evidence": "распознан текст на кадре",
-      "source_tracked": false,
       "banner": "CSGORUN"
     },
     {
@@ -1666,7 +1593,6 @@
       "url": "https://www.tiktok.com/@carldaviss071217/video/7709915143500500246",
       "has_video_id": true,
       "evidence": "распознан текст на кадре",
-      "source_tracked": false,
       "banner": "CSGORUN"
     },
     {
@@ -1682,7 +1608,6 @@
       "url": "https://www.tiktok.com/@unairodero5/video/7709914783104945421",
       "has_video_id": true,
       "evidence": "распознан текст на кадре",
-      "source_tracked": false,
       "banner": "CSGORUN"
     },
     {
@@ -1698,7 +1623,6 @@
       "url": "https://www.youtube.com/shorts/JY2B8TXWONA",
       "has_video_id": true,
       "evidence": "распознан текст на кадре",
-      "source_tracked": false,
       "banner": "CSGORUN"
     },
     {
@@ -1714,7 +1638,6 @@
       "url": "https://www.tiktok.com/@aropokzeropo/video/7709914296234331423",
       "has_video_id": true,
       "evidence": "распознан текст на кадре",
-      "source_tracked": false,
       "banner": "CSGORUN"
     },
     {
@@ -1723,14 +1646,13 @@
       "account": "work16",
       "account_url": "",
       "platform": "instagram",
-      "views": null,
-      "views_source": "нет проверенных данных",
+      "views": 0,
+      "views_source": "из базы",
       "views_checked_at": null,
       "published_at": 1795104282.170504,
       "url": "",
       "has_video_id": false,
       "evidence": "распознан текст на кадре",
-      "source_tracked": false,
       "banner": "CSGORUN"
     },
     {
@@ -1746,7 +1668,6 @@
       "url": "https://www.youtube.com/shorts/xL2xrQWeiok",
       "has_video_id": true,
       "evidence": "распознан текст на кадре",
-      "source_tracked": false,
       "banner": "CSGORUN"
     },
     {
@@ -1762,7 +1683,6 @@
       "url": "https://www.youtube.com/shorts/Tv8FkySizj0",
       "has_video_id": true,
       "evidence": "распознан текст на кадре",
-      "source_tracked": false,
       "banner": "CSGORUN"
     },
     {
@@ -1778,7 +1698,6 @@
       "url": "https://www.tiktok.com/@dotadva218/video/7709913417871559966",
       "has_video_id": true,
       "evidence": "распознан текст на кадре",
-      "source_tracked": false,
       "banner": "CSGORUN"
     },
     {
@@ -1794,7 +1713,6 @@
       "url": "https://www.youtube.com/shorts/qydnj13fwS0",
       "has_video_id": true,
       "evidence": "распознан текст на кадре",
-      "source_tracked": false,
       "banner": "CSGORUN"
     },
     {
@@ -1810,7 +1728,6 @@
       "url": "https://www.youtube.com/shorts/V3hLdS4jfS8",
       "has_video_id": true,
       "evidence": "распознан текст на кадре",
-      "source_tracked": false,
       "banner": "CSGORUN"
     },
     {
@@ -1819,14 +1736,13 @@
       "account": "@lauralewisr46484288",
       "account_url": "https://www.tiktok.com/@lauralewisr46484288",
       "platform": "tiktok",
-      "views": null,
-      "views_source": "нет проверенных данных",
+      "views": 0,
+      "views_source": "из базы",
       "views_checked_at": null,
       "published_at": 1795103918.2658527,
       "url": "https://www.tiktok.com/@lauralewisr46484288/video/7709912566469889302",
       "has_video_id": true,
       "evidence": "распознан текст на кадре",
-      "source_tracked": false,
       "banner": "CSGORUN"
     },
     {
@@ -1842,7 +1758,6 @@
       "url": "https://www.tiktok.com/@matthewjonesg836824/video/7709793903947435286",
       "has_video_id": true,
       "evidence": "распознан текст на кадре",
-      "source_tracked": false,
       "banner": "CSGORUN"
     },
     {
@@ -1851,14 +1766,13 @@
       "account": "@priscillacalhocb97105718",
       "account_url": "https://www.tiktok.com/@priscillacalhocb97105718",
       "platform": "tiktok",
-      "views": null,
-      "views_source": "нет проверенных данных",
+      "views": 0,
+      "views_source": "из базы",
       "views_checked_at": null,
       "published_at": 1795076289.1734803,
       "url": "https://www.tiktok.com/@priscillacalhocb97105718/video/7709793874427792662",
       "has_video_id": true,
       "evidence": "распознан текст на кадре",
-      "source_tracked": false,
       "banner": "CSGORUN"
     },
     {
@@ -1874,7 +1788,6 @@
       "url": "https://www.tiktok.com/@thomasmorenobx13261183/video/7709793518549486870",
       "has_video_id": true,
       "evidence": "распознан текст на кадре",
-      "source_tracked": false,
       "banner": "CSGORUN"
     },
     {
@@ -1890,7 +1803,6 @@
       "url": "https://www.tiktok.com/@ashleywilliamsp61599188/video/7709793473221659926",
       "has_video_id": true,
       "evidence": "распознан текст на кадре",
-      "source_tracked": false,
       "banner": "CSGORUN"
     },
     {
@@ -1906,7 +1818,6 @@
       "url": "https://www.tiktok.com/@joshuaharveys8308280/video/7709793104995421462",
       "has_video_id": true,
       "evidence": "распознан текст на кадре",
-      "source_tracked": false,
       "banner": "CSGORUN"
     },
     {
@@ -1922,7 +1833,6 @@
       "url": "https://www.tiktok.com/@melissahunton354530/video/7709793070035832086",
       "has_video_id": true,
       "evidence": "распознан текст на кадре",
-      "source_tracked": false,
       "banner": "CSGORUN"
     },
     {
@@ -1938,7 +1848,6 @@
       "url": "https://www.tiktok.com/@alyssajenningsk99556710/video/7709792760810851606",
       "has_video_id": true,
       "evidence": "распознан текст на кадре",
-      "source_tracked": false,
       "banner": "CSGORUN"
     },
     {
@@ -1954,7 +1863,6 @@
       "url": "https://www.tiktok.com/@emilyowenn197695/video/7709792651293248790",
       "has_video_id": true,
       "evidence": "распознан текст на кадре",
-      "source_tracked": false,
       "banner": "CSGORUN"
     },
     {
@@ -1970,7 +1878,6 @@
       "url": "https://www.tiktok.com/@thomasbutlerm39360264/video/7709792331775429910",
       "has_video_id": true,
       "evidence": "распознан текст на кадре",
-      "source_tracked": false,
       "banner": "CSGORUN"
     },
     {
@@ -1986,7 +1893,6 @@
       "url": "https://www.youtube.com/shorts/NeT-27CO_1I",
       "has_video_id": true,
       "evidence": "распознан текст на кадре",
-      "source_tracked": false,
       "banner": "CSGORUN"
     },
     {
@@ -2002,7 +1908,6 @@
       "url": "https://www.tiktok.com/@jenniferedwardya65272069/video/7709791959845473558",
       "has_video_id": true,
       "evidence": "распознан текст на кадре",
-      "source_tracked": false,
       "banner": "CSGORUN"
     },
     {
@@ -2018,7 +1923,6 @@
       "url": "https://www.tiktok.com/@matthewlyncha9815456/video/7709791909434182934",
       "has_video_id": true,
       "evidence": "распознан текст на кадре",
-      "source_tracked": false,
       "banner": "CSGORUN"
     },
     {
@@ -2034,7 +1938,6 @@
       "url": "https://www.tiktok.com/@cynthiamyersf070289/video/7709791576851025174",
       "has_video_id": true,
       "evidence": "распознан текст на кадре",
-      "source_tracked": false,
       "banner": "CSGORUN"
     },
     {
@@ -2050,7 +1953,6 @@
       "url": "https://www.tiktok.com/@deniska_vibes_live/video/7709791467950132502",
       "has_video_id": true,
       "evidence": "распознан текст на кадре",
-      "source_tracked": false,
       "banner": "CSGORUN"
     },
     {
@@ -2066,7 +1968,6 @@
       "url": "https://www.tiktok.com/@crystalwalshgr689907/video/7709791173673569558",
       "has_video_id": true,
       "evidence": "по имени файла · требуется проверка",
-      "source_tracked": false,
       "banner": "CSGORUN"
     },
     {
@@ -2082,7 +1983,6 @@
       "url": "https://www.tiktok.com/@victoriameyern6918441/video/7709791082258631938",
       "has_video_id": true,
       "evidence": "распознан текст на кадре",
-      "source_tracked": false,
       "banner": "CSGORUN"
     },
     {
@@ -2098,7 +1998,6 @@
       "url": "https://www.youtube.com/shorts/HtBqbFNt20k",
       "has_video_id": true,
       "evidence": "по имени файла · требуется проверка",
-      "source_tracked": false,
       "banner": "CSGORUN"
     },
     {
@@ -2114,7 +2013,6 @@
       "url": "https://www.tiktok.com/@michellemccallvx2849213/video/7709790679446179094",
       "has_video_id": true,
       "evidence": "распознан текст на кадре",
-      "source_tracked": false,
       "banner": "CSGORUN"
     },
     {
@@ -2130,7 +2028,6 @@
       "url": "https://www.tiktok.com/@michelleconleybb1395910/video/7709790316806638850",
       "has_video_id": true,
       "evidence": "распознан текст на кадре",
-      "source_tracked": false,
       "banner": "CSGORUN"
     },
     {
@@ -2146,7 +2043,6 @@
       "url": "https://www.tiktok.com/@allisondayk389916/video/7709790017433931030",
       "has_video_id": true,
       "evidence": "распознан текст на кадре",
-      "source_tracked": false,
       "banner": "CSGORUN"
     },
     {
@@ -2162,7 +2058,6 @@
       "url": "https://www.tiktok.com/@tracysheltonjk0085586/video/7709789945598053654",
       "has_video_id": true,
       "evidence": "распознан текст на кадре",
-      "source_tracked": false,
       "banner": "CSGORUN"
     },
     {
@@ -2178,7 +2073,6 @@
       "url": "https://www.tiktok.com/@ashleybutleral76989147/video/7709789627518881046",
       "has_video_id": true,
       "evidence": "распознан текст на кадре",
-      "source_tracked": false,
       "banner": "CSGORUN"
     },
     {
@@ -2194,7 +2088,6 @@
       "url": "https://www.tiktok.com/@jeremymcmillanq918810/video/7709789537039387926",
       "has_video_id": true,
       "evidence": "распознан текст на кадре",
-      "source_tracked": false,
       "banner": "CSGORUN"
     },
     {
@@ -2210,7 +2103,6 @@
       "url": "https://www.youtube.com/shorts/X_PCOng4Cko",
       "has_video_id": true,
       "evidence": "распознан текст на кадре",
-      "source_tracked": false,
       "banner": "CSGORUN"
     },
     {
@@ -2226,7 +2118,6 @@
       "url": "https://www.youtube.com/shorts/o0PnKCKu_mc",
       "has_video_id": true,
       "evidence": "распознан текст на кадре",
-      "source_tracked": false,
       "banner": "CSGORUN"
     },
     {
@@ -2242,7 +2133,6 @@
       "url": "https://www.tiktok.com/@justinbaileyuj701873/video/7709788677362240790",
       "has_video_id": true,
       "evidence": "распознан текст на кадре",
-      "source_tracked": false,
       "banner": "CSGORUN"
     },
     {
@@ -2258,7 +2148,6 @@
       "url": "https://www.tiktok.com/@michaelfrankliwo33777259/video/7709788511796301078",
       "has_video_id": true,
       "evidence": "распознан текст на кадре",
-      "source_tracked": false,
       "banner": "CSGORUN"
     },
     {
@@ -2274,7 +2163,6 @@
       "url": "https://www.tiktok.com/@jeffreymillertl5058149/video/7709788185550753046",
       "has_video_id": true,
       "evidence": "распознан текст на кадре",
-      "source_tracked": false,
       "banner": "CSGORUN"
     },
     {
@@ -2290,7 +2178,6 @@
       "url": "https://www.tiktok.com/@laurenricewu281953/video/7709788041233075478",
       "has_video_id": true,
       "evidence": "распознан текст на кадре",
-      "source_tracked": false,
       "banner": "CSGORUN"
     },
     {
@@ -2306,7 +2193,6 @@
       "url": "https://www.tiktok.com/@rachelsmithpb073260/video/7709787779458206999",
       "has_video_id": true,
       "evidence": "распознан текст на кадре",
-      "source_tracked": false,
       "banner": "CSGORUN"
     },
     {
@@ -2322,7 +2208,6 @@
       "url": "https://www.tiktok.com/@andrewandersonp3470239/video/7709787672457350422",
       "has_video_id": true,
       "evidence": "распознан текст на кадре",
-      "source_tracked": false,
       "banner": "CSGORUN"
     },
     {
@@ -2338,7 +2223,6 @@
       "url": "https://www.tiktok.com/@pemokidag774/video/7709787356378696982",
       "has_video_id": true,
       "evidence": "распознан текст на кадре",
-      "source_tracked": false,
       "banner": "CSGORUN"
     },
     {
@@ -2354,7 +2238,6 @@
       "url": "https://www.tiktok.com/@austinromeroir0175249/video/7709787288238034198",
       "has_video_id": true,
       "evidence": "распознан текст на кадре",
-      "source_tracked": false,
       "banner": "CSGORUN"
     },
     {
@@ -2370,7 +2253,6 @@
       "url": "https://www.instagram.com/pemokidag774/reel/Df6lW0xyAfO/",
       "has_video_id": true,
       "evidence": "распознан текст на кадре",
-      "source_tracked": false,
       "banner": "CSGORUN"
     },
     {
@@ -2386,7 +2268,6 @@
       "url": "https://www.tiktok.com/@user8278593368309/video/7709786830345948438",
       "has_video_id": true,
       "evidence": "распознан текст на кадре",
-      "source_tracked": false,
       "banner": "CSGORUN"
     },
     {
@@ -2402,7 +2283,6 @@
       "url": "https://www.youtube.com/shorts/l7DYvB98Uxo",
       "has_video_id": true,
       "evidence": "распознан текст на кадре",
-      "source_tracked": false,
       "banner": "CSGORUN"
     },
     {
@@ -2418,7 +2298,6 @@
       "url": "https://www.tiktok.com/@carldaviss071217/video/7709786200713858326",
       "has_video_id": true,
       "evidence": "распознан текст на кадре",
-      "source_tracked": false,
       "banner": "CSGORUN"
     },
     {
@@ -2434,7 +2313,6 @@
       "url": "https://www.tiktok.com/@unairodero5/video/7709785809615867149",
       "has_video_id": true,
       "evidence": "распознан текст на кадре",
-      "source_tracked": false,
       "banner": "CSGORUN"
     },
     {
@@ -2450,7 +2328,6 @@
       "url": "https://www.youtube.com/shorts/tPTaL613mGg",
       "has_video_id": true,
       "evidence": "распознан текст на кадре",
-      "source_tracked": false,
       "banner": "CSGORUN"
     },
     {
@@ -2466,7 +2343,6 @@
       "url": "https://www.tiktok.com/@aropokzeropo/video/7709785430765391134",
       "has_video_id": true,
       "evidence": "распознан текст на кадре",
-      "source_tracked": false,
       "banner": "CSGORUN"
     },
     {
@@ -2482,7 +2358,6 @@
       "url": "https://www.youtube.com/shorts/kUZQYWA7JQA",
       "has_video_id": true,
       "evidence": "распознан текст на кадре",
-      "source_tracked": false,
       "banner": "CSGORUN"
     },
     {
@@ -2491,14 +2366,13 @@
       "account": "work16",
       "account_url": "",
       "platform": "instagram",
-      "views": null,
-      "views_source": "нет проверенных данных",
+      "views": 0,
+      "views_source": "из базы",
       "views_checked_at": null,
       "published_at": 1795074276.3460362,
       "url": "",
       "has_video_id": false,
       "evidence": "распознан текст на кадре",
-      "source_tracked": false,
       "banner": "CSGORUN"
     },
     {
@@ -2514,7 +2388,6 @@
       "url": "https://www.tiktok.com/@dotadva218/video/7709784683202039071",
       "has_video_id": true,
       "evidence": "распознан текст на кадре",
-      "source_tracked": false,
       "banner": "CSGORUN"
     },
     {
@@ -2530,7 +2403,6 @@
       "url": "https://www.youtube.com/shorts/ZoisGq8laJE",
       "has_video_id": true,
       "evidence": "распознан текст на кадре",
-      "source_tracked": false,
       "banner": "CSGORUN"
     },
     {
@@ -2546,7 +2418,6 @@
       "url": "https://www.youtube.com/shorts/iNsynQWhK68",
       "has_video_id": true,
       "evidence": "распознан текст на кадре",
-      "source_tracked": false,
       "banner": "CSGORUN"
     },
     {
@@ -2555,14 +2426,13 @@
       "account": "@lauralewisr46484288",
       "account_url": "https://www.tiktok.com/@lauralewisr46484288",
       "platform": "tiktok",
-      "views": null,
-      "views_source": "нет проверенных данных",
+      "views": 0,
+      "views_source": "из базы",
       "views_checked_at": null,
       "published_at": 1795073990.5924137,
       "url": "https://www.tiktok.com/@lauralewisr46484288/video/7709783968790351126",
       "has_video_id": true,
       "evidence": "распознан текст на кадре",
-      "source_tracked": false,
       "banner": "CSGORUN"
     },
     {
@@ -2578,7 +2448,6 @@
       "url": "https://www.youtube.com/shorts/44MwxO8K_kY",
       "has_video_id": true,
       "evidence": "распознан текст на кадре",
-      "source_tracked": false,
       "banner": "CSGORUN"
     },
     {
@@ -2594,7 +2463,6 @@
       "url": "https://www.instagram.com/pemokidag774/reel/Df6OfvkSzck/",
       "has_video_id": true,
       "evidence": "распознан текст на кадре",
-      "source_tracked": false,
       "banner": "CSGORUN"
     },
     {
@@ -2610,7 +2478,6 @@
       "url": "https://www.instagram.com/pemokidag774/reel/Df6OLjBywCU/",
       "has_video_id": true,
       "evidence": "распознан текст на кадре",
-      "source_tracked": false,
       "banner": "CSGORUN"
     },
     {
@@ -2619,14 +2486,13 @@
       "account": "Ден Ряба | Движ",
       "account_url": "https://www.youtube.com/channel/UCYN9iaBt8AKZ52Dscal_adw",
       "platform": "youtube",
-      "views": null,
-      "views_source": "нет проверенных данных",
+      "views": 0,
+      "views_source": "из базы",
       "views_checked_at": null,
       "published_at": 1795055466.7275612,
       "url": "https://www.youtube.com/@user-work19/shorts",
       "has_video_id": false,
       "evidence": "распознан текст на кадре",
-      "source_tracked": false,
       "banner": "CSGORUN"
     },
     {
@@ -2642,7 +2508,6 @@
       "url": "https://www.tiktok.com/@priscillacalhocb97105718/video/7709704294471077143",
       "has_video_id": true,
       "evidence": "распознан текст на кадре",
-      "source_tracked": false,
       "banner": "CSGORUN"
     },
     {
@@ -2658,7 +2523,6 @@
       "url": "https://www.tiktok.com/@melissahunton354530/video/7709704130838744342",
       "has_video_id": true,
       "evidence": "распознан текст на кадре",
-      "source_tracked": false,
       "banner": "CSGORUN"
     },
     {
@@ -2674,7 +2538,6 @@
       "url": "https://www.tiktok.com/@jenniferedwardya65272069/video/7709703952006139158",
       "has_video_id": true,
       "evidence": "распознан текст на кадре",
-      "source_tracked": false,
       "banner": "CSGORUN"
     },
     {
@@ -2690,7 +2553,6 @@
       "url": "https://www.tiktok.com/@cynthiamyersf070289/video/7709703898918817046",
       "has_video_id": true,
       "evidence": "распознан текст на кадре",
-      "source_tracked": false,
       "banner": "CSGORUN"
     },
     {
@@ -2706,7 +2568,6 @@
       "url": "https://www.tiktok.com/@victoriameyern6918441/video/7709703581443656982",
       "has_video_id": true,
       "evidence": "распознан текст на кадре",
-      "source_tracked": false,
       "banner": "CSGORUN"
     },
     {
@@ -2722,7 +2583,6 @@
       "url": "https://www.tiktok.com/@michellemccallvx2849213/video/7709703555854142742",
       "has_video_id": true,
       "evidence": "распознан текст на кадре",
-      "source_tracked": false,
       "banner": "CSGORUN"
     },
     {
@@ -2738,7 +2598,6 @@
       "url": "https://www.tiktok.com/@michelleconleybb1395910/video/7709703287234186518",
       "has_video_id": true,
       "evidence": "распознан текст на кадре",
-      "source_tracked": false,
       "banner": "CSGORUN"
     },
     {
@@ -2754,7 +2613,6 @@
       "url": "https://www.tiktok.com/@allisondayk389916/video/7709702942059777283",
       "has_video_id": true,
       "evidence": "распознан текст на кадре",
-      "source_tracked": false,
       "banner": "CSGORUN"
     },
     {
@@ -2770,7 +2628,6 @@
       "url": "https://www.tiktok.com/@tracysheltonjk0085586/video/7709702824715668758",
       "has_video_id": true,
       "evidence": "распознан текст на кадре",
-      "source_tracked": false,
       "banner": "CSGORUN"
     },
     {
@@ -2786,7 +2643,6 @@
       "url": "https://www.tiktok.com/@michaelfrankliwo33777259/video/7709702606423166230",
       "has_video_id": true,
       "evidence": "распознан текст на кадре",
-      "source_tracked": false,
       "banner": "CSGORUN"
     },
     {
@@ -2802,7 +2658,6 @@
       "url": "https://www.tiktok.com/@rachelsmithpb073260/video/7709702073419336983",
       "has_video_id": true,
       "evidence": "распознан текст на кадре",
-      "source_tracked": false,
       "banner": "CSGORUN"
     },
     {
@@ -2811,14 +2666,13 @@
       "account": "work67",
       "account_url": "",
       "platform": "instagram",
-      "views": null,
-      "views_source": "нет проверенных данных",
+      "views": 0,
+      "views_source": "из базы",
       "views_checked_at": null,
       "published_at": 1795054805.981668,
       "url": "",
       "has_video_id": false,
       "evidence": "распознан текст на кадре",
-      "source_tracked": false,
       "banner": "CSGORUN"
     },
     {
@@ -2827,14 +2681,13 @@
       "account": "work16",
       "account_url": "",
       "platform": "instagram",
-      "views": null,
-      "views_source": "нет проверенных данных",
+      "views": 0,
+      "views_source": "из базы",
       "views_checked_at": null,
       "published_at": 1795054775.8529358,
       "url": "",
       "has_video_id": false,
       "evidence": "распознан текст на кадре",
-      "source_tracked": false,
       "banner": "CSGORUN"
     },
     {
@@ -2843,14 +2696,13 @@
       "account": "work67",
       "account_url": "",
       "platform": "instagram",
-      "views": null,
-      "views_source": "нет проверенных данных",
+      "views": 0,
+      "views_source": "из базы",
       "views_checked_at": null,
       "published_at": 1795050179.5224333,
       "url": "",
       "has_video_id": false,
       "evidence": "распознан текст на кадре",
-      "source_tracked": false,
       "banner": "CSGORUN"
     },
     {
@@ -2866,7 +2718,6 @@
       "url": "https://www.youtube.com/shorts/X90sjMEOT1o",
       "has_video_id": true,
       "evidence": "распознан текст на кадре",
-      "source_tracked": false,
       "banner": "CSGORUN"
     },
     {
@@ -2882,7 +2733,6 @@
       "url": "https://www.youtube.com/shorts/eh3utaD1bjs",
       "has_video_id": true,
       "evidence": "распознан текст на кадре",
-      "source_tracked": false,
       "banner": "CSGORUN"
     },
     {
@@ -2898,7 +2748,6 @@
       "url": "https://www.tiktok.com/@melissahunton354530/video/7709679002079874326",
       "has_video_id": true,
       "evidence": "распознан текст на кадре",
-      "source_tracked": false,
       "banner": "CSGORUN"
     },
     {
@@ -2914,7 +2763,6 @@
       "url": "https://www.youtube.com/shorts/wLynzBYwXEA",
       "has_video_id": true,
       "evidence": "распознан текст на кадре",
-      "source_tracked": false,
       "banner": "CSGORUN"
     },
     {
@@ -2930,7 +2778,6 @@
       "url": "https://www.youtube.com/shorts/4Mm9hlPGXB8",
       "has_video_id": true,
       "evidence": "распознан текст на кадре",
-      "source_tracked": false,
       "banner": "CSGORUN"
     },
     {
@@ -2946,7 +2793,6 @@
       "url": "https://www.tiktok.com/@cynthiamyersf070289/video/7709652282995903766",
       "has_video_id": true,
       "evidence": "распознан текст на кадре",
-      "source_tracked": false,
       "banner": "CSGORUN"
     },
     {
@@ -2962,7 +2808,6 @@
       "url": "https://www.tiktok.com/@michelleconleybb1395910/video/7709651926488452374",
       "has_video_id": true,
       "evidence": "распознан текст на кадре",
-      "source_tracked": false,
       "banner": "CSGORUN"
     },
     {
@@ -2978,7 +2823,6 @@
       "url": "https://www.tiktok.com/@victoriameyern6918441/video/7709651768170253590",
       "has_video_id": true,
       "evidence": "распознан текст на кадре",
-      "source_tracked": false,
       "banner": "CSGORUN"
     },
     {
@@ -2994,7 +2838,6 @@
       "url": "https://www.tiktok.com/@michellemccallvx2849213/video/7709650565390716163",
       "has_video_id": true,
       "evidence": "по имени файла · требуется проверка",
-      "source_tracked": false,
       "banner": "CSGORUN"
     },
     {
@@ -3010,7 +2853,6 @@
       "url": "https://www.tiktok.com/@tracysheltonjk0085586/video/7709646759491882262",
       "has_video_id": true,
       "evidence": "распознан текст на кадре",
-      "source_tracked": false,
       "banner": "CSGORUN"
     },
     {
@@ -3026,7 +2868,6 @@
       "url": "https://www.tiktok.com/@rachelsmithpb073260/video/7709646313645755670",
       "has_video_id": true,
       "evidence": "распознан текст на кадре",
-      "source_tracked": false,
       "banner": "CSGORUN"
     },
     {
@@ -3042,7 +2883,6 @@
       "url": "https://www.youtube.com/shorts/O5j_jYzswFg",
       "has_video_id": true,
       "evidence": "распознан текст на кадре",
-      "source_tracked": false,
       "banner": "CSGORUN"
     },
     {
@@ -3058,7 +2898,6 @@
       "url": "https://www.tiktok.com/@michaelfrankliwo33777259/video/7709623050634808598",
       "has_video_id": true,
       "evidence": "распознан текст на кадре",
-      "source_tracked": false,
       "banner": "CSGORUN"
     },
     {
@@ -3074,7 +2913,6 @@
       "url": "https://www.tiktok.com/@charlenecooperud640864/video/7709581249806912790",
       "has_video_id": true,
       "evidence": "распознан текст на кадре",
-      "source_tracked": false,
       "banner": "CSGORUN"
     },
     {
@@ -3090,7 +2928,6 @@
       "url": "https://www.tiktok.com/@thomasmorenobx13261183/video/7709580834054966550",
       "has_video_id": true,
       "evidence": "распознан текст на кадре",
-      "source_tracked": false,
       "banner": "CSGORUN"
     },
     {
@@ -3106,7 +2943,6 @@
       "url": "https://www.tiktok.com/@matthewjonesg836824/video/7709580150140095766",
       "has_video_id": true,
       "evidence": "распознан текст на кадре",
-      "source_tracked": false,
       "banner": "CSGORUN"
     },
     {
@@ -3122,7 +2958,6 @@
       "url": "https://www.tiktok.com/@ashleywilliamsp61599188/video/7709577132804001046",
       "has_video_id": true,
       "evidence": "распознан текст на кадре",
-      "source_tracked": false,
       "banner": "CSGORUN"
     },
     {
@@ -3138,7 +2973,6 @@
       "url": "https://www.tiktok.com/@alyssajenningsk99556710/video/7709576636303297814",
       "has_video_id": true,
       "evidence": "распознан текст на кадре",
-      "source_tracked": false,
       "banner": "CSGORUN"
     },
     {
@@ -3154,7 +2988,6 @@
       "url": "https://www.tiktok.com/@joshuaharveys8308280/video/7709575926178204950",
       "has_video_id": true,
       "evidence": "распознан текст на кадре",
-      "source_tracked": false,
       "banner": "CSGORUN"
     },
     {
@@ -3170,7 +3003,6 @@
       "url": "https://www.tiktok.com/@thomasbutlerm39360264/video/7709573020708277526",
       "has_video_id": true,
       "evidence": "распознан текст на кадре",
-      "source_tracked": false,
       "banner": "CSGORUN"
     },
     {
@@ -3186,7 +3018,6 @@
       "url": "https://www.tiktok.com/@emilyowenn197695/video/7709572075668770070",
       "has_video_id": true,
       "evidence": "распознан текст на кадре",
-      "source_tracked": false,
       "banner": "CSGORUN"
     },
     {
@@ -3202,7 +3033,6 @@
       "url": "https://www.youtube.com/shorts/3voD5u1jq54",
       "has_video_id": true,
       "evidence": "распознан текст на кадре",
-      "source_tracked": false,
       "banner": "CSGORUN"
     },
     {
@@ -3218,7 +3048,6 @@
       "url": "https://www.tiktok.com/@matthewlyncha9815456/video/7709570121475378454",
       "has_video_id": true,
       "evidence": "распознан текст на кадре",
-      "source_tracked": false,
       "banner": "CSGORUN"
     },
     {
@@ -3234,7 +3063,6 @@
       "url": "https://www.tiktok.com/@deniska_vibes_live/video/7709569706717433110",
       "has_video_id": true,
       "evidence": "распознан текст на кадре",
-      "source_tracked": false,
       "banner": "CSGORUN"
     },
     {
@@ -3250,7 +3078,6 @@
       "url": "https://www.tiktok.com/@crystalwalshgr689907/video/7709566790174510358",
       "has_video_id": true,
       "evidence": "распознан текст на кадре",
-      "source_tracked": false,
       "banner": "CSGORUN"
     },
     {
@@ -3266,7 +3093,6 @@
       "url": "https://www.youtube.com/shorts/XFzGH_NyFYk",
       "has_video_id": true,
       "evidence": "распознан текст на кадре",
-      "source_tracked": false,
       "banner": "CSGORUN"
     },
     {
@@ -3282,7 +3108,6 @@
       "url": "https://www.tiktok.com/@jeremymcmillanq918810/video/7709562676871040278",
       "has_video_id": true,
       "evidence": "распознан текст на кадре",
-      "source_tracked": false,
       "banner": "CSGORUN"
     },
     {
@@ -3298,7 +3123,6 @@
       "url": "https://www.tiktok.com/@ashleybutleral76989147/video/7709562339653192982",
       "has_video_id": true,
       "evidence": "распознан текст на кадре",
-      "source_tracked": false,
       "banner": "CSGORUN"
     },
     {
@@ -3314,7 +3138,6 @@
       "url": "https://www.youtube.com/shorts/NlMnBbEPA_w",
       "has_video_id": true,
       "evidence": "распознан текст на кадре",
-      "source_tracked": false,
       "banner": "CSGORUN"
     },
     {
@@ -3330,7 +3153,6 @@
       "url": "https://www.youtube.com/shorts/sAipEbpFnQ4",
       "has_video_id": true,
       "evidence": "распознан текст на кадре",
-      "source_tracked": false,
       "banner": "CSGORUN"
     },
     {
@@ -3346,7 +3168,6 @@
       "url": "https://www.tiktok.com/@justinbaileyuj701873/video/7709560996314107158",
       "has_video_id": true,
       "evidence": "распознан текст на кадре",
-      "source_tracked": false,
       "banner": "CSGORUN"
     },
     {
@@ -3362,7 +3183,6 @@
       "url": "https://www.tiktok.com/@jeffreymillertl5058149/video/7709559386800278806",
       "has_video_id": true,
       "evidence": "распознан текст на кадре",
-      "source_tracked": false,
       "banner": "CSGORUN"
     },
     {
@@ -3378,7 +3198,6 @@
       "url": "https://www.tiktok.com/@laurenricewu281953/video/7709559012076965142",
       "has_video_id": true,
       "evidence": "распознан текст на кадре",
-      "source_tracked": false,
       "banner": "CSGORUN"
     },
     {
@@ -3394,7 +3213,6 @@
       "url": "https://www.tiktok.com/@pemokidag774/video/7709558528565890326",
       "has_video_id": true,
       "evidence": "распознан текст на кадре",
-      "source_tracked": false,
       "banner": "CSGORUN"
     },
     {
@@ -3410,7 +3228,6 @@
       "url": "https://www.tiktok.com/@andrewandersonp3470239/video/7709557913148214550",
       "has_video_id": true,
       "evidence": "распознан текст на кадре",
-      "source_tracked": false,
       "banner": "CSGORUN"
     },
     {
@@ -3426,7 +3243,6 @@
       "url": "https://www.tiktok.com/@austinromeroir0175249/video/7709556764336721174",
       "has_video_id": true,
       "evidence": "распознан текст на кадре",
-      "source_tracked": false,
       "banner": "CSGORUN"
     },
     {
@@ -3442,7 +3258,6 @@
       "url": "https://www.tiktok.com/@user8278593368309/video/7709556375243869462",
       "has_video_id": true,
       "evidence": "распознан текст на кадре",
-      "source_tracked": false,
       "banner": "CSGORUN"
     },
     {
@@ -3458,7 +3273,6 @@
       "url": "https://www.tiktok.com/@carldaviss071217/video/7709553728684035350",
       "has_video_id": true,
       "evidence": "распознан текст на кадре",
-      "source_tracked": false,
       "banner": "CSGORUN"
     },
     {
@@ -3474,7 +3288,6 @@
       "url": "https://www.tiktok.com/@unairodero5/video/7709553133457771789",
       "has_video_id": true,
       "evidence": "распознан текст на кадре",
-      "source_tracked": false,
       "banner": "CSGORUN"
     },
     {
@@ -3490,7 +3303,6 @@
       "url": "https://www.tiktok.com/@aropokzeropo/video/7709551985602628895",
       "has_video_id": true,
       "evidence": "распознан текст на кадре",
-      "source_tracked": false,
       "banner": "CSGORUN"
     },
     {
@@ -3499,14 +3311,13 @@
       "account": "work16",
       "account_url": "",
       "platform": "instagram",
-      "views": null,
-      "views_source": "нет проверенных данных",
+      "views": 0,
+      "views_source": "из базы",
       "views_checked_at": null,
       "published_at": 1795019880.7160468,
       "url": "",
       "has_video_id": false,
       "evidence": "распознан текст на кадре",
-      "source_tracked": false,
       "banner": "CSGORUN"
     },
     {
@@ -3522,7 +3333,6 @@
       "url": "https://www.youtube.com/shorts/OO0_VBQF-E8",
       "has_video_id": true,
       "evidence": "распознан текст на кадре",
-      "source_tracked": false,
       "banner": "CSGORUN"
     },
     {
@@ -3538,7 +3348,6 @@
       "url": "https://www.tiktok.com/@dotadva218/video/7709550988088102174",
       "has_video_id": true,
       "evidence": "распознан текст на кадре",
-      "source_tracked": false,
       "banner": "CSGORUN"
     },
     {
@@ -3547,14 +3356,13 @@
       "account": "work15",
       "account_url": "",
       "platform": "instagram",
-      "views": null,
-      "views_source": "нет проверенных данных",
+      "views": 0,
+      "views_source": "из базы",
       "views_checked_at": null,
       "published_at": 1795019625.162097,
       "url": "",
       "has_video_id": false,
       "evidence": "распознан текст на кадре",
-      "source_tracked": false,
       "banner": "CSGORUN"
     },
     {
@@ -3570,7 +3378,6 @@
       "url": "https://www.youtube.com/shorts/VL4QveEMb24",
       "has_video_id": true,
       "evidence": "распознан текст на кадре",
-      "source_tracked": false,
       "banner": "CSGORUN"
     },
     {
@@ -3579,14 +3386,13 @@
       "account": "@lauralewisr46484288",
       "account_url": "https://www.tiktok.com/@lauralewisr46484288",
       "platform": "tiktok",
-      "views": null,
-      "views_source": "нет проверенных данных",
+      "views": 0,
+      "views_source": "из базы",
       "views_checked_at": null,
       "published_at": 1795019239.6254802,
       "url": "https://www.tiktok.com/@lauralewisr46484288/video/7709548850373053718",
       "has_video_id": true,
       "evidence": "распознан текст на кадре",
-      "source_tracked": false,
       "banner": "CSGORUN"
     },
     {
@@ -3602,7 +3408,6 @@
       "url": "https://www.youtube.com/shorts/LxfbbjM8a_A",
       "has_video_id": true,
       "evidence": "распознан текст на кадре",
-      "source_tracked": false,
       "banner": "CSGORUN"
     },
     {
@@ -3618,7 +3423,6 @@
       "url": "https://www.youtube.com/shorts/qcl0oE4VvVE",
       "has_video_id": true,
       "evidence": "распознан текст на кадре",
-      "source_tracked": false,
       "banner": "CSGORUN"
     },
     {
@@ -3634,7 +3438,6 @@
       "url": "https://www.tiktok.com/@andrewandersonp3470239/video/7709530136214818070",
       "has_video_id": true,
       "evidence": "распознан текст на кадре",
-      "source_tracked": false,
       "banner": "CSGORUN"
     },
     {
@@ -3650,7 +3453,6 @@
       "url": "https://www.tiktok.com/@user8278593368309/video/7709529360197324054",
       "has_video_id": true,
       "evidence": "распознан текст на кадре",
-      "source_tracked": false,
       "banner": "CSGORUN"
     },
     {
@@ -3666,7 +3468,6 @@
       "url": "https://www.tiktok.com/@austinromeroir0175249/video/7709528914359504150",
       "has_video_id": true,
       "evidence": "распознан текст на кадре",
-      "source_tracked": false,
       "banner": "CSGORUN"
     },
     {
@@ -3682,7 +3483,6 @@
       "url": "https://www.tiktok.com/@unairodero5/video/7709525704689339661",
       "has_video_id": true,
       "evidence": "распознан текст на кадре",
-      "source_tracked": false,
       "banner": "CSGORUN"
     },
     {
@@ -3698,7 +3498,6 @@
       "url": "https://www.youtube.com/shorts/TvcU1Mlzxj4",
       "has_video_id": true,
       "evidence": "распознан текст на кадре",
-      "source_tracked": false,
       "banner": "CSGORUN"
     },
     {
@@ -3714,7 +3513,6 @@
       "url": "https://www.tiktok.com/@dotadva218/video/7709523671903227167",
       "has_video_id": true,
       "evidence": "распознан текст на кадре",
-      "source_tracked": false,
       "banner": "CSGORUN"
     },
     {
@@ -3723,14 +3521,13 @@
       "account": "work15",
       "account_url": "",
       "platform": "instagram",
-      "views": null,
-      "views_source": "нет проверенных данных",
+      "views": 0,
+      "views_source": "из базы",
       "views_checked_at": null,
       "published_at": 1795013304.6138124,
       "url": "",
       "has_video_id": false,
       "evidence": "распознан текст на кадре",
-      "source_tracked": false,
       "banner": "CSGORUN"
     },
     {
@@ -3746,7 +3543,6 @@
       "url": "https://www.youtube.com/shorts/SpgErxT2PPw",
       "has_video_id": true,
       "evidence": "распознан текст на кадре",
-      "source_tracked": false,
       "banner": "CSGORUN"
     },
     {
@@ -3762,7 +3558,6 @@
       "url": "https://www.tiktok.com/@thomasmorenobx13261183/video/7709506870100135190",
       "has_video_id": true,
       "evidence": "распознан текст на кадре",
-      "source_tracked": false,
       "banner": "CSGORUN"
     },
     {
@@ -3778,7 +3573,6 @@
       "url": "https://www.tiktok.com/@charlenecooperud640864/video/7709504643411365142",
       "has_video_id": true,
       "evidence": "распознан текст на кадре",
-      "source_tracked": false,
       "banner": "CSGORUN"
     },
     {
@@ -3794,7 +3588,6 @@
       "url": "https://www.tiktok.com/@alyssajenningsk99556710/video/7709504439022882050",
       "has_video_id": true,
       "evidence": "распознан текст на кадре",
-      "source_tracked": false,
       "banner": "CSGORUN"
     },
     {
@@ -3810,7 +3603,6 @@
       "url": "https://www.tiktok.com/@priscillacalhocb97105718/video/7709503674766101762",
       "has_video_id": true,
       "evidence": "распознан текст на кадре",
-      "source_tracked": false,
       "banner": "CSGORUN"
     },
     {
@@ -3826,7 +3618,6 @@
       "url": "https://www.tiktok.com/@matthewjonesg836824/video/7709503651391311106",
       "has_video_id": true,
       "evidence": "распознан текст на кадре",
-      "source_tracked": false,
       "banner": "CSGORUN"
     },
     {
@@ -3842,7 +3633,6 @@
       "url": "https://www.tiktok.com/@ashleywilliamsp61599188/video/7709503372851858691",
       "has_video_id": true,
       "evidence": "распознан текст на кадре",
-      "source_tracked": false,
       "banner": "CSGORUN"
     },
     {
@@ -3858,7 +3648,6 @@
       "url": "https://www.tiktok.com/@emilyowenn197695/video/7709502258387422486",
       "has_video_id": true,
       "evidence": "распознан текст на кадре",
-      "source_tracked": false,
       "banner": "CSGORUN"
     },
     {
@@ -3874,7 +3663,6 @@
       "url": "https://www.tiktok.com/@thomasbutlerm39360264/video/7709501902395837718",
       "has_video_id": true,
       "evidence": "распознан текст на кадре",
-      "source_tracked": false,
       "banner": "CSGORUN"
     },
     {
@@ -3890,7 +3678,6 @@
       "url": "https://www.tiktok.com/@joshuaharveys8308280/video/7709501725295578390",
       "has_video_id": true,
       "evidence": "распознан текст на кадре",
-      "source_tracked": false,
       "banner": "CSGORUN"
     },
     {
@@ -3906,7 +3693,6 @@
       "url": "https://www.tiktok.com/@matthewlyncha9815456/video/7709499831923920150",
       "has_video_id": true,
       "evidence": "распознан текст на кадре",
-      "source_tracked": false,
       "banner": "CSGORUN"
     },
     {
@@ -3922,7 +3708,6 @@
       "url": "https://www.tiktok.com/@deniska_vibes_live/video/7709499832951508246",
       "has_video_id": true,
       "evidence": "распознан текст на кадре",
-      "source_tracked": false,
       "banner": "CSGORUN"
     },
     {
@@ -3938,7 +3723,6 @@
       "url": "https://www.tiktok.com/@jenniferedwardya65272069/video/7709499768052976918",
       "has_video_id": true,
       "evidence": "распознан текст на кадре",
-      "source_tracked": false,
       "banner": "CSGORUN"
     },
     {
@@ -3954,7 +3738,6 @@
       "url": "https://www.tiktok.com/@crystalwalshgr689907/video/7709495006217850115",
       "has_video_id": true,
       "evidence": "распознан текст на кадре",
-      "source_tracked": false,
       "banner": "CSGORUN"
     },
     {
@@ -3970,7 +3753,6 @@
       "url": "https://www.youtube.com/shorts/8ZA7UZ85r2Q",
       "has_video_id": true,
       "evidence": "распознан текст на кадре",
-      "source_tracked": false,
       "banner": "CSGORUN"
     },
     {
@@ -3986,7 +3768,6 @@
       "url": "https://www.tiktok.com/@allisondayk389916/video/7709490860861361410",
       "has_video_id": true,
       "evidence": "распознан текст на кадре",
-      "source_tracked": false,
       "banner": "CSGORUN"
     },
     {
@@ -4002,7 +3783,6 @@
       "url": "https://www.tiktok.com/@jeremymcmillanq918810/video/7709488160215960854",
       "has_video_id": true,
       "evidence": "распознан текст на кадре",
-      "source_tracked": false,
       "banner": "CSGORUN"
     },
     {
@@ -4018,7 +3798,6 @@
       "url": "https://www.youtube.com/shorts/4hLc7-UvC6Q",
       "has_video_id": true,
       "evidence": "распознан текст на кадре",
-      "source_tracked": false,
       "banner": "CSGORUN"
     },
     {
@@ -4034,7 +3813,6 @@
       "url": "https://www.tiktok.com/@ashleybutleral76989147/video/7709486943691722006",
       "has_video_id": true,
       "evidence": "распознан текст на кадре",
-      "source_tracked": false,
       "banner": "CSGORUN"
     },
     {
@@ -4050,7 +3828,6 @@
       "url": "https://www.youtube.com/shorts/JQYSl_uD7-w",
       "has_video_id": true,
       "evidence": "распознан текст на кадре",
-      "source_tracked": false,
       "banner": "CSGORUN"
     },
     {
@@ -4066,7 +3843,6 @@
       "url": "https://www.tiktok.com/@justinbaileyuj701873/video/7709484967838911766",
       "has_video_id": true,
       "evidence": "распознан текст на кадре",
-      "source_tracked": false,
       "banner": "CSGORUN"
     },
     {
@@ -4082,7 +3858,6 @@
       "url": "https://www.tiktok.com/@jeffreymillertl5058149/video/7709482674393550102",
       "has_video_id": true,
       "evidence": "распознан текст на кадре",
-      "source_tracked": false,
       "banner": "CSGORUN"
     },
     {
@@ -4098,7 +3873,6 @@
       "url": "https://www.tiktok.com/@laurenricewu281953/video/7709482229004602646",
       "has_video_id": true,
       "evidence": "распознан текст на кадре",
-      "source_tracked": false,
       "banner": "CSGORUN"
     },
     {
@@ -4114,7 +3888,6 @@
       "url": "https://www.tiktok.com/@pemokidag774/video/7709475776231460118",
       "has_video_id": true,
       "evidence": "распознан текст на кадре",
-      "source_tracked": false,
       "banner": "CSGORUN"
     },
     {
@@ -4130,7 +3903,6 @@
       "url": "https://www.tiktok.com/@carldaviss071217/video/7709471896441457942",
       "has_video_id": true,
       "evidence": "распознан текст на кадре",
-      "source_tracked": false,
       "banner": "CSGORUN"
     },
     {
@@ -4146,7 +3918,6 @@
       "url": "https://www.tiktok.com/@aropokzeropo/video/7709464980801817886",
       "has_video_id": true,
       "evidence": "распознан текст на кадре",
-      "source_tracked": false,
       "banner": "CSGORUN"
     },
     {
@@ -4162,7 +3933,6 @@
       "url": "https://www.youtube.com/shorts/elyeZlLeMBA",
       "has_video_id": true,
       "evidence": "распознан текст на кадре",
-      "source_tracked": false,
       "banner": "CSGORUN"
     },
     {
@@ -4171,14 +3941,13 @@
       "account": "@lauralewisr46484288",
       "account_url": "https://www.tiktok.com/@lauralewisr46484288",
       "platform": "tiktok",
-      "views": null,
-      "views_source": "нет проверенных данных",
+      "views": 0,
+      "views_source": "из базы",
       "views_checked_at": null,
       "published_at": 1794997641.7926178,
       "url": "https://www.tiktok.com/@lauralewisr46484288/video/7709456089720409366",
       "has_video_id": true,
       "evidence": "распознан текст на кадре",
-      "source_tracked": false,
       "banner": "CSGORUN"
     },
     {
@@ -4194,7 +3963,6 @@
       "url": "https://www.youtube.com/shorts/ZqtqqXrvQMg",
       "has_video_id": true,
       "evidence": "по имени файла · требуется проверка",
-      "source_tracked": false,
       "banner": "RubUP"
     },
     {
@@ -4210,7 +3978,6 @@
       "url": "https://www.tiktok.com/@lucasyamassato607/video/7710548923999423764",
       "has_video_id": true,
       "evidence": "по имени файла · требуется проверка",
-      "source_tracked": false,
       "banner": "RubUP"
     },
     {
@@ -4226,7 +3993,6 @@
       "url": "https://www.youtube.com/shorts/NAZOlSlfcFA",
       "has_video_id": true,
       "evidence": "по имени файла · требуется проверка",
-      "source_tracked": false,
       "banner": "RubUP"
     },
     {
@@ -4242,7 +4008,6 @@
       "url": "https://www.tiktok.com/@angelagarcias74562976/video/7710548355914517782",
       "has_video_id": true,
       "evidence": "распознан текст на кадре",
-      "source_tracked": false,
       "banner": "RubUP"
     },
     {
@@ -4258,7 +4023,6 @@
       "url": "https://www.youtube.com/shorts/b8UNGriw54k",
       "has_video_id": true,
       "evidence": "по имени файла · требуется проверка",
-      "source_tracked": false,
       "banner": "RubUP"
     },
     {
@@ -4267,14 +4031,13 @@
       "account": "@patriciagilberti152524",
       "account_url": "https://www.tiktok.com/@patriciagilberti152524",
       "platform": "tiktok",
-      "views": null,
-      "views_source": "нет проверенных данных",
+      "views": 0,
+      "views_source": "из базы",
       "views_checked_at": null,
       "published_at": 1795251798.191844,
       "url": "https://www.tiktok.com/@patriciagilberti152524/video/7710547699275222294",
       "has_video_id": true,
       "evidence": "по имени файла · требуется проверка",
-      "source_tracked": false,
       "banner": "RubUP"
     },
     {
@@ -4290,7 +4053,6 @@
       "url": "https://www.tiktok.com/@user1185002629934/video/7710547606773992725",
       "has_video_id": true,
       "evidence": "по имени файла · требуется проверка",
-      "source_tracked": false,
       "banner": "RubUP"
     },
     {
@@ -4306,7 +4068,6 @@
       "url": "https://www.instagram.com/n01225485353/reel/Df_3Btbhoij/",
       "has_video_id": true,
       "evidence": "распознан текст на кадре",
-      "source_tracked": false,
       "banner": "RubUP"
     },
     {
@@ -4322,7 +4083,6 @@
       "url": "https://www.youtube.com/shorts/oRpPwLWQWII",
       "has_video_id": true,
       "evidence": "по имени файла · требуется проверка",
-      "source_tracked": false,
       "banner": "RubUP"
     },
     {
@@ -4338,7 +4098,6 @@
       "url": "https://www.tiktok.com/@charlenecooperud640864/video/7710546741715569942",
       "has_video_id": true,
       "evidence": "по имени файла · требуется проверка",
-      "source_tracked": false,
       "banner": "RubUP"
     },
     {
@@ -4354,7 +4113,6 @@
       "url": "https://www.tiktok.com/@matthewjonesg836824/video/7710546691388116246",
       "has_video_id": true,
       "evidence": "по имени файла · требуется проверка",
-      "source_tracked": false,
       "banner": "RubUP"
     },
     {
@@ -4370,7 +4128,6 @@
       "url": "https://www.tiktok.com/@angelagarcias74562976/video/7709796724029590806",
       "has_video_id": true,
       "evidence": "по имени файла · требуется проверка",
-      "source_tracked": false,
       "banner": "RubUP"
     },
     {
@@ -4386,7 +4143,6 @@
       "url": "https://www.youtube.com/shorts/A0DY6hLCynU",
       "has_video_id": true,
       "evidence": "по имени файла · требуется проверка",
-      "source_tracked": false,
       "banner": "RubUP"
     },
     {
@@ -4402,7 +4158,6 @@
       "url": "https://www.tiktok.com/@lucasyamassato607/video/7709796434937154837",
       "has_video_id": true,
       "evidence": "по имени файла · требуется проверка",
-      "source_tracked": false,
       "banner": "RubUP"
     },
     {
@@ -4418,7 +4173,6 @@
       "url": "https://www.youtube.com/shorts/ieAdP3-1Iv4",
       "has_video_id": true,
       "evidence": "по имени файла · требуется проверка",
-      "source_tracked": false,
       "banner": "RubUP"
     },
     {
@@ -4434,7 +4188,6 @@
       "url": "https://www.instagram.com/n01225485353/reel/Df6pTHrho58/",
       "has_video_id": true,
       "evidence": "по имени файла · требуется проверка",
-      "source_tracked": false,
       "banner": "RubUP"
     },
     {
@@ -4443,14 +4196,13 @@
       "account": "@patriciagilberti152524",
       "account_url": "https://www.tiktok.com/@patriciagilberti152524",
       "platform": "tiktok",
-      "views": null,
-      "views_source": "нет проверенных данных",
+      "views": 0,
+      "views_source": "из базы",
       "views_checked_at": null,
       "published_at": 1795076669.8928535,
       "url": "https://www.tiktok.com/@patriciagilberti152524/video/7709795508117589270",
       "has_video_id": true,
       "evidence": "распознан текст на кадре",
-      "source_tracked": false,
       "banner": "RubUP"
     },
     {
@@ -4466,7 +4218,6 @@
       "url": "https://www.tiktok.com/@user1185002629934/video/7709795100892712213",
       "has_video_id": true,
       "evidence": "по имени файла · требуется проверка",
-      "source_tracked": false,
       "banner": "RubUP"
     },
     {
@@ -4482,7 +4233,6 @@
       "url": "https://www.youtube.com/shorts/_LjVcNSGkHA",
       "has_video_id": true,
       "evidence": "по имени файла · требуется проверка",
-      "source_tracked": false,
       "banner": "RubUP"
     },
     {
@@ -4498,7 +4248,6 @@
       "url": "https://www.tiktok.com/@charlenecooperud640864/video/7709794195724094742",
       "has_video_id": true,
       "evidence": "по имени файла · требуется проверка",
-      "source_tracked": false,
       "banner": "RubUP"
     },
     {
@@ -4514,7 +4263,6 @@
       "url": "https://www.instagram.com/n01225485353/reel/Df5_vlkhffB/",
       "has_video_id": true,
       "evidence": "по имени файла · требуется проверка",
-      "source_tracked": false,
       "banner": "RubUP"
     },
     {
@@ -4530,7 +4278,6 @@
       "url": "https://www.youtube.com/shorts/gdFTS4Q8skQ",
       "has_video_id": true,
       "evidence": "по имени файла · требуется проверка",
-      "source_tracked": false,
       "banner": "RubUP"
     },
     {
@@ -4546,7 +4293,6 @@
       "url": "https://www.tiktok.com/@angelagarcias74562976/video/7709584774855331094",
       "has_video_id": true,
       "evidence": "по имени файла · требуется проверка",
-      "source_tracked": false,
       "banner": "RubUP"
     },
     {
@@ -4562,7 +4308,6 @@
       "url": "https://www.youtube.com/shorts/QiXsKU4dwG0",
       "has_video_id": true,
       "evidence": "по имени файла · требуется проверка",
-      "source_tracked": false,
       "banner": "RubUP"
     },
     {
@@ -4578,7 +4323,6 @@
       "url": "https://www.tiktok.com/@lucasyamassato607/video/7709583606422719764",
       "has_video_id": true,
       "evidence": "по имени файла · требуется проверка",
-      "source_tracked": false,
       "banner": "RubUP"
     },
     {
@@ -4594,7 +4338,6 @@
       "url": "https://www.youtube.com/shorts/vb0S2YHkQcY",
       "has_video_id": true,
       "evidence": "по имени файла · требуется проверка",
-      "source_tracked": false,
       "banner": "RubUP"
     },
     {
@@ -4603,14 +4346,13 @@
       "account": "@patriciagilberti152524",
       "account_url": "https://www.tiktok.com/@patriciagilberti152524",
       "platform": "tiktok",
-      "views": null,
-      "views_source": "нет проверенных данных",
+      "views": 0,
+      "views_source": "из базы",
       "views_checked_at": null,
       "published_at": 1795027200.4091556,
       "url": "https://www.tiktok.com/@patriciagilberti152524/video/7709583078095654166",
       "has_video_id": true,
       "evidence": "по имени файла · требуется проверка",
-      "source_tracked": false,
       "banner": "RubUP"
     },
     {
@@ -4626,7 +4368,6 @@
       "url": "https://www.tiktok.com/@user1185002629934/video/7709582736096382228",
       "has_video_id": true,
       "evidence": "по имени файла · требуется проверка",
-      "source_tracked": false,
       "banner": "RubUP"
     },
     {
@@ -4642,7 +4383,6 @@
       "url": "https://www.instagram.com/n01225485353/reel/Df5KgWOBwxl/",
       "has_video_id": true,
       "evidence": "по имени файла · требуется проверка",
-      "source_tracked": false,
       "banner": "RubUP"
     },
     {
@@ -4658,7 +4398,6 @@
       "url": "https://www.youtube.com/shorts/ubAgqTC1AO0",
       "has_video_id": true,
       "evidence": "по имени файла · требуется проверка",
-      "source_tracked": false,
       "banner": "RubUP"
     },
     {
@@ -4674,7 +4413,6 @@
       "url": "https://www.youtube.com/shorts/i4kZDoY0E-4",
       "has_video_id": true,
       "evidence": "по имени файла · требуется проверка",
-      "source_tracked": false,
       "banner": "RubUP"
     },
     {
@@ -4690,7 +4428,6 @@
       "url": "https://www.tiktok.com/@angelagarcias74562976/video/7709507070005005571",
       "has_video_id": true,
       "evidence": "по имени файла · требуется проверка",
-      "source_tracked": false,
       "banner": "RubUP"
     },
     {
@@ -4699,14 +4436,13 @@
       "account": "@user1185002629934",
       "account_url": "https://www.tiktok.com/@user1185002629934",
       "platform": "tiktok",
-      "views": null,
-      "views_source": "нет проверенных данных",
+      "views": 0,
+      "views_source": "из базы",
       "views_checked_at": null,
       "published_at": 1795009449.3836403,
       "url": "https://www.tiktok.com/@user1185002629934/video/7709506729171733780",
       "has_video_id": true,
       "evidence": "по имени файла · требуется проверка",
-      "source_tracked": false,
       "banner": "RubUP"
     },
     {
@@ -4722,7 +4458,6 @@
       "url": "https://www.tiktok.com/@lucasyamassato607/video/7709505461594131733",
       "has_video_id": true,
       "evidence": "распознан текст на кадре",
-      "source_tracked": false,
       "banner": "RubUP"
     },
     {
@@ -4731,14 +4466,13 @@
       "account": "@patriciagilberti152524",
       "account_url": "https://www.tiktok.com/@patriciagilberti152524",
       "platform": "tiktok",
-      "views": null,
-      "views_source": "нет проверенных данных",
+      "views": 0,
+      "views_source": "из базы",
       "views_checked_at": null,
       "published_at": 1795009025.3609228,
       "url": "https://www.tiktok.com/@patriciagilberti152524/video/7709504969803599126",
       "has_video_id": true,
       "evidence": "по имени файла · требуется проверка",
-      "source_tracked": false,
       "banner": "RubUP"
     },
     {
@@ -4754,7 +4488,6 @@
       "url": "https://www.youtube.com/shorts/BybSuRTYBRU",
       "has_video_id": true,
       "evidence": "распознан текст на кадре",
-      "source_tracked": false,
       "banner": "RubUP"
     }
   ]
