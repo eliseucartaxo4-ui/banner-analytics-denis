@@ -1,0 +1,32 @@
+<!doctype html>
+<html lang="ru">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Аналитика рекламных баннеров</title>
+  <link rel="stylesheet" href="banner-analytics.css">
+</head>
+<body>
+  <main class="shell">
+    <header class="top">
+      <div><div class="eyebrow">MULTI-PLATFORM PUBLISHER</div><h1>Аналитика баннеров</h1><p>Публикации с рекламными плашками и сохранённые просмотры</p></div>
+      <div class="top-actions"><a class="button ghost local-only" href="/">← Панель</a><button id="scan" class="button ghost local-only">Искать баннеры</button><button id="share" class="button primary">Поделиться</button></div>
+    </header>
+    <div id="notice" class="notice">Загружаем данные…</div>
+    <section class="filters">
+      <label>Баннер <select id="banner"><option value="">Все баннеры</option></select></label>
+      <label>Клиент <select id="person"><option value="">Все клиенты</option></select></label>
+      <label>Площадка <select id="platform"><option value="">Все площадки</option><option value="youtube">YouTube</option><option value="tiktok">TikTok</option><option value="instagram">Instagram</option></select></label>
+      <label>Поиск <input id="search" placeholder="Клиент или аккаунт"></label>
+    </section>
+    <section class="metrics" id="metrics"></section>
+    <p class="explanation">Это предварительная оценка по данным базы, а не подтверждённый охват. Часть баннеров определена по имени файла. В существующей системе некоторые записи YouTube могут содержать показатели предыдущего ролика; ссылки и просмотры требуют проверки. Значение 0 может означать как ноль, так и отсутствие данных.</p>
+    <section><div class="section-head"><div><span class="eyebrow">ОБЗОР</span><h2>Баннеры</h2></div></div><div class="banner-cards" id="cards"></div></section>
+    <section><div class="section-head"><div><span class="eyebrow">ДЕТАЛИ</span><h2>Аккаунты</h2></div><span class="muted">Низкие просмотры: от 1 до 50</span></div><div id="accounts"></div></section>
+    <section><div class="section-head"><div><span class="eyebrow">ИСТОРИЯ</span><h2>Публикации</h2></div><select id="view-filter" aria-label="Фильтр просмотров"><option value="all">Все публикации</option><option value="low">Мало просмотров</option><option value="unknown">Нет данных или 0</option></select></div><div id="publications"></div></section>
+    <section class="local-only"><div class="section-head"><div><span class="eyebrow">ПРОВЕРКА</span><h2>Неопределённые публикации</h2><p>Можно вручную указать баннер. Показаны последние 500 записей с именем файла.</p></div><button class="button ghost" id="toggle-unassigned">Показать</button></div><div id="unassigned" hidden></div></section>
+    <footer>Статистика по рекламным плашкам · Не является измерением уникальных зрителей</footer>
+  </main>
+  <script src="banner-analytics.js"></script>
+</body>
+</html>
