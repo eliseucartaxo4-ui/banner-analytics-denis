@@ -1,6 +1,6 @@
 {
   "banner": "CSGORUN",
-  "generated_at": 1795264154.766159,
+  "generated_at": 1795264760.1515722,
   "publications": [
     {
       "person": "ДЕНИС РЯБЦЕВ",
@@ -1246,7 +1246,7 @@
       "published_at": 1795103943.4007359,
       "url": "https://www.youtube.com/shorts/V3hLdS4jfS8",
       "has_video_id": true,
-      "evidence": "по имени файла · требуется проверка"
+      "evidence": "распознан текст на кадре"
     },
     {
       "person": "ДЕНИС РЯБЦЕВ",
@@ -1848,7 +1848,7 @@
       "published_at": 1795074276.3460362,
       "url": "",
       "has_video_id": false,
-      "evidence": "по имени файла · требуется проверка"
+      "evidence": "распознан текст на кадре"
     },
     {
       "person": "ДЕНИС РЯБЦЕВ",
@@ -1862,7 +1862,7 @@
       "published_at": 1795074196.2270825,
       "url": "https://www.tiktok.com/@dotadva218/video/7709784683202039071",
       "has_video_id": false,
-      "evidence": "по имени файла · требуется проверка"
+      "evidence": "распознан текст на кадре"
     },
     {
       "person": "ДЕНИС РЯБЦЕВ",
@@ -1876,7 +1876,7 @@
       "published_at": 1795074116.0311801,
       "url": "https://www.youtube.com/shorts/ZoisGq8laJE",
       "has_video_id": true,
-      "evidence": "по имени файла · требуется проверка"
+      "evidence": "распознан текст на кадре"
     },
     {
       "person": "ДЕНИС РЯБЦЕВ",
@@ -1890,7 +1890,7 @@
       "published_at": 1795074085.7516882,
       "url": "https://www.youtube.com/shorts/iNsynQWhK68",
       "has_video_id": true,
-      "evidence": "по имени файла · требуется проверка"
+      "evidence": "распознан текст на кадре"
     },
     {
       "person": "ДЕНИС РЯБЦЕВ",
@@ -1904,7 +1904,7 @@
       "published_at": 1795073990.5924137,
       "url": "https://www.tiktok.com/@lauralewisr46484288/video/7709783968790351126",
       "has_video_id": false,
-      "evidence": "по имени файла · требуется проверка"
+      "evidence": "распознан текст на кадре"
     },
     {
       "person": "ДЕНИС РЯБЦЕВ",
@@ -1918,7 +1918,7 @@
       "published_at": 1795073970.5002713,
       "url": "https://www.youtube.com/shorts/44MwxO8K_kY",
       "has_video_id": true,
-      "evidence": "по имени файла · требуется проверка"
+      "evidence": "распознан текст на кадре"
     },
     {
       "person": "ДЕНИС РЯБЦЕВ",
@@ -2142,7 +2142,7 @@
       "published_at": 1795054775.8529358,
       "url": "",
       "has_video_id": false,
-      "evidence": "по имени файла · требуется проверка"
+      "evidence": "распознан текст на кадре"
     },
     {
       "person": "ДЕНИС РЯБЦЕВ",
@@ -2184,7 +2184,7 @@
       "published_at": 1795049623.6032836,
       "url": "https://www.youtube.com/shorts/eh3utaD1bjs",
       "has_video_id": true,
-      "evidence": "по имени файла · требуется проверка"
+      "evidence": "распознан текст на кадре"
     },
     {
       "person": "ДЕНИС РЯБЦЕВ",
@@ -2898,7 +2898,7 @@
       "published_at": 1795013530.3423686,
       "url": "https://www.youtube.com/shorts/TvcU1Mlzxj4",
       "has_video_id": true,
-      "evidence": "по имени файла · требуется проверка"
+      "evidence": "распознан текст на кадре"
     },
     {
       "person": "ДЕНИС РЯБЦЕВ",
@@ -2912,7 +2912,7 @@
       "published_at": 1795013394.8056302,
       "url": "https://www.tiktok.com/@dotadva218/video/7709523671903227167",
       "has_video_id": false,
-      "evidence": "по имени файла · требуется проверка"
+      "evidence": "распознан текст на кадре"
     },
     {
       "person": "ДЕНИС РЯБЦЕВ",
@@ -2926,7 +2926,7 @@
       "published_at": 1795013304.6138124,
       "url": "",
       "has_video_id": false,
-      "evidence": "по имени файла · требуется проверка"
+      "evidence": "распознан текст на кадре"
     },
     {
       "person": "ДЕНИС РЯБЦЕВ",
@@ -3290,7 +3290,7 @@
       "published_at": 1794999726.0229957,
       "url": "https://www.tiktok.com/@aropokzeropo/video/7709464980801817886",
       "has_video_id": false,
-      "evidence": "по имени файла · требуется проверка"
+      "evidence": "распознан текст на кадре"
     },
     {
       "person": "ДЕНИС РЯБЦЕВ",
@@ -3318,7 +3318,7 @@
       "published_at": 1794997641.7926178,
       "url": "https://www.tiktok.com/@lauralewisr46484288/video/7709456089720409366",
       "has_video_id": false,
-      "evidence": "по имени файла · требуется проверка"
+      "evidence": "распознан текст на кадре"
     }
   ]
 }
