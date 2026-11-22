@@ -1,10 +1,26 @@
 {
-  "generated_at": 1795347559.9352498,
+  "generated_at": 1795347865.7024717,
   "banners": [
     "CSGORUN",
     "RubUP"
   ],
   "publications": [
+    {
+      "person": "ДЕНИС РЯБЦЕВ",
+      "profile": "ЭТО ПРОБА 3ф",
+      "account": "@angelagarcias74562976",
+      "account_url": "https://www.tiktok.com/@angelagarcias74562976",
+      "platform": "tiktok",
+      "views": null,
+      "views_source": "нет проверенных данных",
+      "views_checked_at": null,
+      "published_at": 1795347582.5554225,
+      "url": "https://www.tiktok.com/@angelagarcias74562976/video/7710959033028496662",
+      "has_video_id": true,
+      "evidence": "папка исходника: CSGORUN",
+      "source_tracked": true,
+      "banner": "CSGORUN"
+    },
     {
       "person": "ДЕНИС РЯБЦЕВ",
       "profile": "ЭТО ПРОБА 3ф",
