@@ -1,10 +1,26 @@
 {
-  "generated_at": 1795444377.4562926,
+  "generated_at": 1795451121.5579948,
   "banners": [
     "CSGORUN",
     "RubUP"
   ],
   "publications": [
+    {
+      "person": "ДЕНИС РЯБЦЕВ",
+      "profile": "work14",
+      "account": "Ден Ряба | Лучшее",
+      "account_url": "https://www.youtube.com/channel/UCly8awoC69ZLSRZ3CnYNm_Q",
+      "platform": "youtube",
+      "views": null,
+      "views_source": "нет проверенных данных",
+      "views_checked_at": null,
+      "published_at": 1795451080.649989,
+      "url": "https://www.youtube.com/shorts/HdlGhOuIVVo",
+      "has_video_id": true,
+      "evidence": "папка исходника: CSGORUN",
+      "source_tracked": true,
+      "banner": "CSGORUN"
+    },
     {
       "person": "ДЕНИС РЯБЦЕВ",
       "profile": "ЭТО ПРОБА 3ф",
