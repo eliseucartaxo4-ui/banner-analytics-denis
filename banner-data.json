@@ -1,10 +1,58 @@
 {
-  "generated_at": 1795548573.7720797,
+  "generated_at": 1795548878.7334588,
   "banners": [
     "CSGORUN",
     "RubUP"
   ],
   "publications": [
+    {
+      "person": "ДЕНИС РЯБЦЕВ",
+      "profile": "work74",
+      "account": "Ден Ряба Live",
+      "account_url": "https://www.youtube.com/channel/UCrd_PQUk65fhbOjyZFK14iA",
+      "platform": "youtube",
+      "views": null,
+      "views_source": "нет проверенных данных",
+      "views_checked_at": null,
+      "published_at": 1795548853.6159747,
+      "url": "https://www.youtube.com/shorts/vP_XvF0j2AU",
+      "has_video_id": true,
+      "evidence": "папка исходника: CSGORUN",
+      "source_tracked": true,
+      "banner": "CSGORUN"
+    },
+    {
+      "person": "ДЕНИС РЯБЦЕВ",
+      "profile": "work73",
+      "account": "@matthewjonesg836824",
+      "account_url": "https://www.tiktok.com/@matthewjonesg836824",
+      "platform": "tiktok",
+      "views": null,
+      "views_source": "нет проверенных данных",
+      "views_checked_at": null,
+      "published_at": 1795548711.1796143,
+      "url": "",
+      "has_video_id": false,
+      "evidence": "папка исходника: CSGORUN",
+      "source_tracked": true,
+      "banner": "CSGORUN"
+    },
+    {
+      "person": "ДЕНИС РЯБЦЕВ",
+      "profile": "work72",
+      "account": "@priscillacalhocb97105718",
+      "account_url": "https://www.tiktok.com/@priscillacalhocb97105718",
+      "platform": "tiktok",
+      "views": null,
+      "views_source": "нет проверенных данных",
+      "views_checked_at": null,
+      "published_at": 1795548573.8421338,
+      "url": "",
+      "has_video_id": false,
+      "evidence": "папка исходника: CSGORUN",
+      "source_tracked": true,
+      "banner": "CSGORUN"
+    },
     {
       "person": "ДЕНИС РЯБЦЕВ",
       "profile": "work72",
