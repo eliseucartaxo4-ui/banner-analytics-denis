@@ -1,10 +1,26 @@
 {
-  "generated_at": 1795540027.322077,
+  "generated_at": 1795540332.8302603,
   "banners": [
     "CSGORUN",
     "RubUP"
   ],
   "publications": [
+    {
+      "person": "ДЕНИС РЯБЦЕВ",
+      "profile": "work24",
+      "account": "@carldaviss071217",
+      "account_url": "https://www.tiktok.com/@carldaviss071217",
+      "platform": "tiktok",
+      "views": null,
+      "views_source": "нет проверенных данных",
+      "views_checked_at": null,
+      "published_at": 1795540191.930314,
+      "url": "",
+      "has_video_id": false,
+      "evidence": "папка исходника: CSGORUN",
+      "source_tracked": true,
+      "banner": "CSGORUN"
+    },
     {
       "person": "ДЕНИС РЯБЦЕВ",
       "profile": "work23",
