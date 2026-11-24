@@ -1,7 +1,37 @@
 {
   "banner": "CSGORUN",
-  "generated_at": 1795542164.8333898,
+  "generated_at": 1795542470.4926138,
   "publications": [
+    {
+      "person": "ДЕНИС РЯБЦЕВ",
+      "profile": "work53",
+      "account": "Deniska Шоу",
+      "account_url": "https://www.youtube.com/channel/UCVPldWGwdzCLMTrJHtpM2Iw",
+      "platform": "youtube",
+      "views": null,
+      "views_source": "нет проверенных данных",
+      "views_checked_at": null,
+      "published_at": 1795542436.2891748,
+      "url": "https://www.youtube.com/shorts/LEZMvmApjRo",
+      "has_video_id": true,
+      "evidence": "папка исходника: CSGORUN",
+      "source_tracked": true
+    },
+    {
+      "person": "ДЕНИС РЯБЦЕВ",
+      "profile": "work52",
+      "account": "@justinbaileyuj701873",
+      "account_url": "https://www.tiktok.com/@justinbaileyuj701873",
+      "platform": "tiktok",
+      "views": null,
+      "views_source": "нет проверенных данных",
+      "views_checked_at": null,
+      "published_at": 1795542268.356864,
+      "url": "",
+      "has_video_id": false,
+      "evidence": "папка исходника: CSGORUN",
+      "source_tracked": true
+    },
     {
       "person": "ДЕНИС РЯБЦЕВ",
       "profile": "work51",
