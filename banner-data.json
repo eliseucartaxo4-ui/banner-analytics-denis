@@ -1,10 +1,26 @@
 {
-  "generated_at": 1795550095.84168,
+  "generated_at": 1795550400.7777402,
   "banners": [
     "CSGORUN",
     "RubUP"
   ],
   "publications": [
+    {
+      "person": "ДЕНИС РЯБЦЕВ",
+      "profile": "work643",
+      "account": "Вася",
+      "account_url": "https://www.youtube.com/channel/UCUzIBSQb4xDSxqU0ZHUznwg",
+      "platform": "youtube",
+      "views": null,
+      "views_source": "нет проверенных данных",
+      "views_checked_at": null,
+      "published_at": 1795550181.9827037,
+      "url": "https://www.youtube.com/shorts/uqhvudc5jIk",
+      "has_video_id": true,
+      "evidence": "папка исходника: CSGORUN",
+      "source_tracked": true,
+      "banner": "CSGORUN"
+    },
     {
       "person": "ДЕНИС РЯБЦЕВ",
       "profile": "work642",
