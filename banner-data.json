@@ -1,10 +1,42 @@
 {
-  "generated_at": 1795548268.242448,
+  "generated_at": 1795548573.7720797,
   "banners": [
     "CSGORUN",
     "RubUP"
   ],
   "publications": [
+    {
+      "person": "ДЕНИС РЯБЦЕВ",
+      "profile": "work72",
+      "account": "Ряба Движ",
+      "account_url": "https://www.youtube.com/channel/UCn_ner9WK6FT69BOFm2p2tw",
+      "platform": "youtube",
+      "views": null,
+      "views_source": "нет проверенных данных",
+      "views_checked_at": null,
+      "published_at": 1795548447.4655278,
+      "url": "https://www.youtube.com/shorts/yIV62vy-sMk",
+      "has_video_id": true,
+      "evidence": "папка исходника: CSGORUN",
+      "source_tracked": true,
+      "banner": "CSGORUN"
+    },
+    {
+      "person": "ДЕНИС РЯБЦЕВ",
+      "profile": "work71",
+      "account": "@thomasmorenobx13261183",
+      "account_url": "https://www.tiktok.com/@thomasmorenobx13261183",
+      "platform": "tiktok",
+      "views": null,
+      "views_source": "нет проверенных данных",
+      "views_checked_at": null,
+      "published_at": 1795548274.3978095,
+      "url": "https://www.tiktok.com/@thomasmorenobx13261183/video/7711821021099085078",
+      "has_video_id": true,
+      "evidence": "папка исходника: CSGORUN",
+      "source_tracked": true,
+      "banner": "CSGORUN"
+    },
     {
       "person": "ДЕНИС РЯБЦЕВ",
       "profile": "work71",
