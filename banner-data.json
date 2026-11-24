@@ -1,10 +1,42 @@
 {
-  "generated_at": 1795547963.2032733,
+  "generated_at": 1795548268.242448,
   "banners": [
     "CSGORUN",
     "RubUP"
   ],
   "publications": [
+    {
+      "person": "ДЕНИС РЯБЦЕВ",
+      "profile": "work71",
+      "account": "Deniska Нарезки",
+      "account_url": "https://www.youtube.com/channel/UCj9SixQpPwC7LG65-7nKZCA",
+      "platform": "youtube",
+      "views": null,
+      "views_source": "нет проверенных данных",
+      "views_checked_at": null,
+      "published_at": 1795548133.6188245,
+      "url": "https://www.youtube.com/shorts/klLXSmHUvUU",
+      "has_video_id": true,
+      "evidence": "папка исходника: CSGORUN",
+      "source_tracked": true,
+      "banner": "CSGORUN"
+    },
+    {
+      "person": "ДЕНИС РЯБЦЕВ",
+      "profile": "work70",
+      "account": "@ashleywilliamsp61599188",
+      "account_url": "https://www.tiktok.com/@ashleywilliamsp61599188",
+      "platform": "tiktok",
+      "views": null,
+      "views_source": "нет проверенных данных",
+      "views_checked_at": null,
+      "published_at": 1795547966.3016493,
+      "url": "https://www.tiktok.com/@ashleywilliamsp61599188/video/7711819695938145558",
+      "has_video_id": true,
+      "evidence": "папка исходника: CSGORUN",
+      "source_tracked": true,
+      "banner": "CSGORUN"
+    },
     {
       "person": "ДЕНИС РЯБЦЕВ",
       "profile": "work69",
