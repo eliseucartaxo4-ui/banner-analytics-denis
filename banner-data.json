@@ -1,10 +1,42 @@
 {
-  "generated_at": 1795546130.0720484,
+  "generated_at": 1795546436.2295797,
   "banners": [
     "CSGORUN",
     "RubUP"
   ],
   "publications": [
+    {
+      "person": "ДЕНИС РЯБЦЕВ",
+      "profile": "work65",
+      "account": "@emilyowenn197695",
+      "account_url": "https://www.tiktok.com/@emilyowenn197695",
+      "platform": "tiktok",
+      "views": null,
+      "views_source": "нет проверенных данных",
+      "views_checked_at": null,
+      "published_at": 1795546392.8419032,
+      "url": "https://www.tiktok.com/@emilyowenn197695/video/7711812934313184534",
+      "has_video_id": true,
+      "evidence": "папка исходника: CSGORUN",
+      "source_tracked": true,
+      "banner": "CSGORUN"
+    },
+    {
+      "person": "ДЕНИС РЯБЦЕВ",
+      "profile": "work65",
+      "account": "Denis Ryabcev Шоу",
+      "account_url": "https://www.youtube.com/channel/UCw72xO70DDbopQid0N9zDuQ",
+      "platform": "youtube",
+      "views": null,
+      "views_source": "нет проверенных данных",
+      "views_checked_at": null,
+      "published_at": 1795546241.8523853,
+      "url": "https://www.youtube.com/shorts/-VVxKkOsPoI",
+      "has_video_id": true,
+      "evidence": "папка исходника: CSGORUN",
+      "source_tracked": true,
+      "banner": "CSGORUN"
+    },
     {
       "person": "ДЕНИС РЯБЦЕВ",
       "profile": "work64",
