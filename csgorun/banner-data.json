@@ -1,7 +1,37 @@
 {
   "banner": "CSGORUN",
-  "generated_at": 1795539111.1639128,
+  "generated_at": 1795539416.7343967,
   "publications": [
+    {
+      "person": "ДЕНИС РЯБЦЕВ",
+      "profile": "work17",
+      "account": "@aropokzeropo",
+      "account_url": "https://www.tiktok.com/@aropokzeropo",
+      "platform": "tiktok",
+      "views": null,
+      "views_source": "нет проверенных данных",
+      "views_checked_at": null,
+      "published_at": 1795539316.333906,
+      "url": "",
+      "has_video_id": false,
+      "evidence": "папка исходника: CSGORUN",
+      "source_tracked": true
+    },
+    {
+      "person": "ДЕНИС РЯБЦЕВ",
+      "profile": "work17",
+      "account": "Ден Ряба | Стримы",
+      "account_url": "https://www.youtube.com/channel/UC17TunByvdjZnP9hFUHvTBg",
+      "platform": "youtube",
+      "views": null,
+      "views_source": "нет проверенных данных",
+      "views_checked_at": null,
+      "published_at": 1795539163.9743912,
+      "url": "https://www.youtube.com/shorts/3W6_RjfoXq0",
+      "has_video_id": true,
+      "evidence": "папка исходника: CSGORUN",
+      "source_tracked": true
+    },
     {
       "person": "ДЕНИС РЯБЦЕВ",
       "profile": "work16",
