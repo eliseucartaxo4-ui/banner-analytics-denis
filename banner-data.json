@@ -1,10 +1,42 @@
 {
-  "generated_at": 1795544905.9986563,
+  "generated_at": 1795545214.5676088,
   "banners": [
     "CSGORUN",
     "RubUP"
   ],
   "publications": [
+    {
+      "person": "ДЕНИС РЯБЦЕВ",
+      "profile": "work60",
+      "account": "Денис Рябцев · Лучшее",
+      "account_url": "https://www.youtube.com/channel/UC8KGNnGhtghI7KMK28IqJuQ",
+      "platform": "youtube",
+      "views": null,
+      "views_source": "нет проверенных данных",
+      "views_checked_at": null,
+      "published_at": 1795545202.2441185,
+      "url": "https://www.youtube.com/shorts/a6J7D7OhTsY",
+      "has_video_id": true,
+      "evidence": "папка исходника: CSGORUN",
+      "source_tracked": true,
+      "banner": "CSGORUN"
+    },
+    {
+      "person": "ДЕНИС РЯБЦЕВ",
+      "profile": "work59",
+      "account": "@michellemccallvx2849213",
+      "account_url": "https://www.tiktok.com/@michellemccallvx2849213",
+      "platform": "tiktok",
+      "views": null,
+      "views_source": "нет проверенных данных",
+      "views_checked_at": null,
+      "published_at": 1795545023.1265452,
+      "url": "",
+      "has_video_id": false,
+      "evidence": "папка исходника: CSGORUN",
+      "source_tracked": true,
+      "banner": "CSGORUN"
+    },
     {
       "person": "ДЕНИС РЯБЦЕВ",
       "profile": "work59",
