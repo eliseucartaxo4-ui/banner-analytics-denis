@@ -1,10 +1,26 @@
 {
-  "generated_at": 1795549488.670826,
+  "generated_at": 1795550095.84168,
   "banners": [
     "CSGORUN",
     "RubUP"
   ],
   "publications": [
+    {
+      "person": "ДЕНИС РЯБЦЕВ",
+      "profile": "work642",
+      "account": "@lucasyamassato607",
+      "account_url": "https://www.tiktok.com/@lucasyamassato607",
+      "platform": "tiktok",
+      "views": null,
+      "views_source": "нет проверенных данных",
+      "views_checked_at": null,
+      "published_at": 1795550014.6306295,
+      "url": "https://www.tiktok.com/@lucasyamassato607/video/7711828444119682324",
+      "has_video_id": true,
+      "evidence": "папка исходника: CSGORUN",
+      "source_tracked": true,
+      "banner": "CSGORUN"
+    },
     {
       "person": "ДЕНИС РЯБЦЕВ",
       "profile": "work634",
