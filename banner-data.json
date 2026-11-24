@@ -1,10 +1,42 @@
 {
-  "generated_at": 1795549183.7271793,
+  "generated_at": 1795549488.670826,
   "banners": [
     "CSGORUN",
     "RubUP"
   ],
   "publications": [
+    {
+      "person": "ДЕНИС РЯБЦЕВ",
+      "profile": "work634",
+      "account": "@patriciagilberti152524",
+      "account_url": "https://www.tiktok.com/@patriciagilberti152524",
+      "platform": "tiktok",
+      "views": null,
+      "views_source": "нет проверенных данных",
+      "views_checked_at": null,
+      "published_at": 1795549419.9051178,
+      "url": "https://www.tiktok.com/@patriciagilberti152524/video/7711825937062546710",
+      "has_video_id": true,
+      "evidence": "папка исходника: CSGORUN",
+      "source_tracked": true,
+      "banner": "CSGORUN"
+    },
+    {
+      "person": "ДЕНИС РЯБЦЕВ",
+      "profile": "work626",
+      "account": "@user1185002629934",
+      "account_url": "https://www.tiktok.com/@user1185002629934",
+      "platform": "tiktok",
+      "views": null,
+      "views_source": "нет проверенных данных",
+      "views_checked_at": null,
+      "published_at": 1795549273.988185,
+      "url": "",
+      "has_video_id": false,
+      "evidence": "папка исходника: CSGORUN",
+      "source_tracked": true,
+      "banner": "CSGORUN"
+    },
     {
       "person": "ДЕНИС РЯБЦЕВ",
       "profile": "work626",
