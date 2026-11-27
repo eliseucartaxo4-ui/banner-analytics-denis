@@ -1,10 +1,42 @@
 {
-  "generated_at": 1795767641.574029,
+  "generated_at": 1795768423.3850286,
   "banners": [
     "CSGORUN",
     "RubUP"
   ],
   "publications": [
+    {
+      "person": "ДЕНИС РЯБЦЕВ",
+      "profile": "work53",
+      "account": "@ashleybutleral76989147",
+      "account_url": "https://www.tiktok.com/@ashleybutleral76989147",
+      "platform": "tiktok",
+      "views": null,
+      "views_source": "нет проверенных данных",
+      "views_checked_at": null,
+      "published_at": 1795768341.0645022,
+      "url": "https://www.tiktok.com/@ashleybutleral76989147/video/7712766178787200278",
+      "has_video_id": true,
+      "evidence": "папка исходника: CSGORUN",
+      "source_tracked": true,
+      "banner": "CSGORUN"
+    },
+    {
+      "person": "ДЕНИС РЯБЦЕВ",
+      "profile": "work53",
+      "account": "Deniska Шоу",
+      "account_url": "https://www.youtube.com/channel/UCVPldWGwdzCLMTrJHtpM2Iw",
+      "platform": "youtube",
+      "views": null,
+      "views_source": "нет проверенных данных",
+      "views_checked_at": null,
+      "published_at": 1795768220.633035,
+      "url": "https://www.youtube.com/shorts/tXjfip4Af7Y",
+      "has_video_id": true,
+      "evidence": "папка исходника: CSGORUN",
+      "source_tracked": true,
+      "banner": "CSGORUN"
+    },
     {
       "person": "ДЕНИС РЯБЦЕВ",
       "profile": "work50",
