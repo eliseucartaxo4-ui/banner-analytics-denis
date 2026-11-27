@@ -1,7 +1,22 @@
 {
   "banner": "CSGORUN",
-  "generated_at": 1795795212.7222838,
+  "generated_at": 1795795518.0338612,
   "publications": [
+    {
+      "person": "ДЕНИС РЯБЦЕВ",
+      "profile": "work71",
+      "account": "Deniska Нарезки",
+      "account_url": "https://www.youtube.com/channel/UCj9SixQpPwC7LG65-7nKZCA",
+      "platform": "youtube",
+      "views": null,
+      "views_source": "нет проверенных данных",
+      "views_checked_at": null,
+      "published_at": 1795795373.0588732,
+      "url": "https://www.youtube.com/shorts/wL4bjPNcCOE",
+      "has_video_id": true,
+      "evidence": "папка исходника: CSGORUN",
+      "source_tracked": true
+    },
     {
       "person": "ДЕНИС РЯБЦЕВ",
       "profile": "work70",
