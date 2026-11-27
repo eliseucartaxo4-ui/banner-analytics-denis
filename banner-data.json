@@ -1,10 +1,26 @@
 {
-  "generated_at": 1795767335.5047953,
+  "generated_at": 1795767641.574029,
   "banners": [
     "CSGORUN",
     "RubUP"
   ],
   "publications": [
+    {
+      "person": "ДЕНИС РЯБЦЕВ",
+      "profile": "work50",
+      "account": "@jeffreymillertl5058149",
+      "account_url": "https://www.tiktok.com/@jeffreymillertl5058149",
+      "platform": "tiktok",
+      "views": null,
+      "views_source": "нет проверенных данных",
+      "views_checked_at": null,
+      "published_at": 1795767390.3800638,
+      "url": "https://www.tiktok.com/@jeffreymillertl5058149/video/7712762086157241622",
+      "has_video_id": true,
+      "evidence": "папка исходника: CSGORUN",
+      "source_tracked": true,
+      "banner": "CSGORUN"
+    },
     {
       "person": "ДЕНИС РЯБЦЕВ",
       "profile": "work49",
