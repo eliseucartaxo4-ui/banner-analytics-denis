@@ -1,7 +1,37 @@
 {
   "banner": "CSGORUN",
-  "generated_at": 1795761521.5238748,
+  "generated_at": 1795761827.1719756,
   "publications": [
+    {
+      "person": "ДЕНИС РЯБЦЕВ",
+      "profile": "work72",
+      "account": "@priscillacalhocb97105718",
+      "account_url": "https://www.tiktok.com/@priscillacalhocb97105718",
+      "platform": "tiktok",
+      "views": null,
+      "views_source": "нет проверенных данных",
+      "views_checked_at": null,
+      "published_at": 1795761708.2120304,
+      "url": "https://www.tiktok.com/@priscillacalhocb97105718/video/7712737678198099203",
+      "has_video_id": true,
+      "evidence": "папка исходника: CSGORUN",
+      "source_tracked": true
+    },
+    {
+      "person": "ДЕНИС РЯБЦЕВ",
+      "profile": "work72",
+      "account": "Ряба Движ",
+      "account_url": "https://www.youtube.com/channel/UCn_ner9WK6FT69BOFm2p2tw",
+      "platform": "youtube",
+      "views": null,
+      "views_source": "нет проверенных данных",
+      "views_checked_at": null,
+      "published_at": 1795761582.0541866,
+      "url": "https://www.youtube.com/shorts/dcpPdOnOo3k",
+      "has_video_id": true,
+      "evidence": "папка исходника: CSGORUN",
+      "source_tracked": true
+    },
     {
       "person": "ДЕНИС РЯБЦЕВ",
       "profile": "work71",
