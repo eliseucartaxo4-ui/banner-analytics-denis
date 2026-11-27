@@ -1,10 +1,42 @@
 {
-  "generated_at": 1795776647.372442,
+  "generated_at": 1795776955.443668,
   "banners": [
     "CSGORUN",
     "RubUP"
   ],
   "publications": [
+    {
+      "person": "ДЕНИС РЯБЦЕВ",
+      "profile": "work58",
+      "account": "@crystalwalshgr689907",
+      "account_url": "https://www.tiktok.com/@crystalwalshgr689907",
+      "platform": "tiktok",
+      "views": null,
+      "views_source": "нет проверенных данных",
+      "views_checked_at": null,
+      "published_at": 1795776884.878281,
+      "url": "https://www.tiktok.com/@crystalwalshgr689907/video/7712802877588245782",
+      "has_video_id": true,
+      "evidence": "папка исходника: CSGORUN",
+      "source_tracked": true,
+      "banner": "CSGORUN"
+    },
+    {
+      "person": "ДЕНИС РЯБЦЕВ",
+      "profile": "work58",
+      "account": "Deniska Стримы",
+      "account_url": "https://www.youtube.com/channel/UCCs8AJdeF-I7J4BFjX3KDgw",
+      "platform": "youtube",
+      "views": null,
+      "views_source": "нет проверенных данных",
+      "views_checked_at": null,
+      "published_at": 1795776743.7033982,
+      "url": "https://www.youtube.com/shorts/ehuY3PxSyA8",
+      "has_video_id": true,
+      "evidence": "папка исходника: CSGORUN",
+      "source_tracked": true,
+      "banner": "CSGORUN"
+    },
     {
       "person": "ДЕНИС РЯБЦЕВ",
       "profile": "work57",
