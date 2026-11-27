@@ -1,10 +1,58 @@
 {
-  "generated_at": 1795781856.2100427,
+  "generated_at": 1795782162.6080356,
   "banners": [
     "CSGORUN",
     "RubUP"
   ],
   "publications": [
+    {
+      "person": "ДЕНИС РЯБЦЕВ",
+      "profile": "work643",
+      "account": "Вася",
+      "account_url": "https://www.youtube.com/channel/UCUzIBSQb4xDSxqU0ZHUznwg",
+      "platform": "youtube",
+      "views": null,
+      "views_source": "нет проверенных данных",
+      "views_checked_at": null,
+      "published_at": 1795782154.130507,
+      "url": "https://www.youtube.com/shorts/s7THk55FGak",
+      "has_video_id": true,
+      "evidence": "папка исходника: CSGORUN",
+      "source_tracked": true,
+      "banner": "CSGORUN"
+    },
+    {
+      "person": "ДЕНИС РЯБЦЕВ",
+      "profile": "work642",
+      "account": "@lucasyamassato607",
+      "account_url": "https://www.tiktok.com/@lucasyamassato607",
+      "platform": "tiktok",
+      "views": null,
+      "views_source": "нет проверенных данных",
+      "views_checked_at": null,
+      "published_at": 1795781996.6966686,
+      "url": "https://www.tiktok.com/@lucasyamassato607/video/7712824861747563796",
+      "has_video_id": true,
+      "evidence": "папка исходника: CSGORUN",
+      "source_tracked": true,
+      "banner": "CSGORUN"
+    },
+    {
+      "person": "ДЕНИС РЯБЦЕВ",
+      "profile": "work642",
+      "account": "dawidek100",
+      "account_url": "https://www.youtube.com/channel/UCh31hyIH5llp3z2WxYVCZZA",
+      "platform": "youtube",
+      "views": null,
+      "views_source": "нет проверенных данных",
+      "views_checked_at": null,
+      "published_at": 1795781866.3122294,
+      "url": "https://www.youtube.com/shorts/VOExpTg1bNQ",
+      "has_video_id": true,
+      "evidence": "папка исходника: CSGORUN",
+      "source_tracked": true,
+      "banner": "CSGORUN"
+    },
     {
       "person": "ДЕНИС РЯБЦЕВ",
       "profile": "work634",
