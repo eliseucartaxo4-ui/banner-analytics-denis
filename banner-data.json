@@ -1,10 +1,26 @@
 {
-  "generated_at": 1795779400.4988406,
+  "generated_at": 1795779706.5517566,
   "banners": [
     "CSGORUN",
     "RubUP"
   ],
   "publications": [
+    {
+      "person": "ДЕНИС РЯБЦЕВ",
+      "profile": "work69",
+      "account": "@joshuaharveys8308280",
+      "account_url": "https://www.tiktok.com/@joshuaharveys8308280",
+      "platform": "tiktok",
+      "views": null,
+      "views_source": "нет проверенных данных",
+      "views_checked_at": null,
+      "published_at": 1795779498.7483451,
+      "url": "https://www.tiktok.com/@joshuaharveys8308280/video/7712814088983825686",
+      "has_video_id": true,
+      "evidence": "папка исходника: CSGORUN",
+      "source_tracked": true,
+      "banner": "CSGORUN"
+    },
     {
       "person": "ДЕНИС РЯБЦЕВ",
       "profile": "work68",
