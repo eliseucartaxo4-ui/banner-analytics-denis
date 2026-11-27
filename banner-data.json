@@ -1,10 +1,58 @@
 {
-  "generated_at": 1795778216.0780249,
+  "generated_at": 1795778787.9075894,
   "banners": [
     "CSGORUN",
     "RubUP"
   ],
   "publications": [
+    {
+      "person": "ДЕНИС РЯБЦЕВ",
+      "profile": "work66",
+      "account": "@thomasbutlerm39360264",
+      "account_url": "https://www.tiktok.com/@thomasbutlerm39360264",
+      "platform": "tiktok",
+      "views": null,
+      "views_source": "нет проверенных данных",
+      "views_checked_at": null,
+      "published_at": 1795778769.5373335,
+      "url": "https://www.tiktok.com/@thomasbutlerm39360264/video/7712810978034945302",
+      "has_video_id": true,
+      "evidence": "папка исходника: CSGORUN",
+      "source_tracked": true,
+      "banner": "CSGORUN"
+    },
+    {
+      "person": "ДЕНИС РЯБЦЕВ",
+      "profile": "work66",
+      "account": "Deniska Moments",
+      "account_url": "https://www.youtube.com/channel/UCNTcVChiUTOXpe4HKBN9eBQ",
+      "platform": "youtube",
+      "views": null,
+      "views_source": "нет проверенных данных",
+      "views_checked_at": null,
+      "published_at": 1795778643.8236797,
+      "url": "https://www.youtube.com/shorts/bicHH4SLPFI",
+      "has_video_id": true,
+      "evidence": "папка исходника: CSGORUN",
+      "source_tracked": true,
+      "banner": "CSGORUN"
+    },
+    {
+      "person": "ДЕНИС РЯБЦЕВ",
+      "profile": "work65",
+      "account": "@emilyowenn197695",
+      "account_url": "https://www.tiktok.com/@emilyowenn197695",
+      "platform": "tiktok",
+      "views": null,
+      "views_source": "нет проверенных данных",
+      "views_checked_at": null,
+      "published_at": 1795778497.0586467,
+      "url": "https://www.tiktok.com/@emilyowenn197695/video/7712809800349928726",
+      "has_video_id": true,
+      "evidence": "папка исходника: CSGORUN",
+      "source_tracked": true,
+      "banner": "CSGORUN"
+    },
     {
       "person": "ДЕНИС РЯБЦЕВ",
       "profile": "work64",
