@@ -1,10 +1,42 @@
 {
-  "generated_at": 1795766416.5538855,
+  "generated_at": 1795766722.371304,
   "banners": [
     "CSGORUN",
     "RubUP"
   ],
   "publications": [
+    {
+      "person": "ДЕНИС РЯБЦЕВ",
+      "profile": "work47",
+      "account": "@andrewandersonp3470239",
+      "account_url": "https://www.tiktok.com/@andrewandersonp3470239",
+      "platform": "tiktok",
+      "views": null,
+      "views_source": "нет проверенных данных",
+      "views_checked_at": null,
+      "published_at": 1795766668.499024,
+      "url": "https://www.tiktok.com/@andrewandersonp3470239/video/7712759008687443222",
+      "has_video_id": true,
+      "evidence": "папка исходника: CSGORUN",
+      "source_tracked": true,
+      "banner": "CSGORUN"
+    },
+    {
+      "person": "ДЕНИС РЯБЦЕВ",
+      "profile": "work47",
+      "account": "Денис Рябцев | Нарезки",
+      "account_url": "https://www.youtube.com/channel/UCXsqJbHUg0cfoRZsSPbMNOQ",
+      "platform": "youtube",
+      "views": null,
+      "views_source": "нет проверенных данных",
+      "views_checked_at": null,
+      "published_at": 1795766553.0564961,
+      "url": "https://www.youtube.com/shorts/LWDGKCMu_s8",
+      "has_video_id": true,
+      "evidence": "папка исходника: CSGORUN",
+      "source_tracked": true,
+      "banner": "CSGORUN"
+    },
     {
       "person": "ДЕНИС РЯБЦЕВ",
       "profile": "work46",
