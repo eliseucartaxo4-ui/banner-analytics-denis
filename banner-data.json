@@ -1,10 +1,26 @@
 {
-  "generated_at": 1795793683.3951387,
+  "generated_at": 1795793988.303946,
   "banners": [
     "CSGORUN",
     "RubUP"
   ],
   "publications": [
+    {
+      "person": "ДЕНИС РЯБЦЕВ",
+      "profile": "work57",
+      "account": "@michelleconleybb1395910",
+      "account_url": "https://www.tiktok.com/@michelleconleybb1395910",
+      "platform": "tiktok",
+      "views": null,
+      "views_source": "нет проверенных данных",
+      "views_checked_at": null,
+      "published_at": 1795793783.7386336,
+      "url": "https://www.tiktok.com/@michelleconleybb1395910/video/7712875461801446678",
+      "has_video_id": true,
+      "evidence": "папка исходника: CSGORUN",
+      "source_tracked": true,
+      "banner": "CSGORUN"
+    },
     {
       "person": "ДЕНИС РЯБЦЕВ",
       "profile": "work57",
