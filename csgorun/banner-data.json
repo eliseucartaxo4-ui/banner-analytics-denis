@@ -1,7 +1,37 @@
 {
   "banner": "CSGORUN",
-  "generated_at": 1795759992.824706,
+  "generated_at": 1795760298.4480803,
   "publications": [
+    {
+      "person": "ДЕНИС РЯБЦЕВ",
+      "profile": "work67",
+      "account": "@alyssajenningsk99556710",
+      "account_url": "https://www.tiktok.com/@alyssajenningsk99556710",
+      "platform": "tiktok",
+      "views": null,
+      "views_source": "нет проверенных данных",
+      "views_checked_at": null,
+      "published_at": 1795760276.137254,
+      "url": "https://www.tiktok.com/@alyssajenningsk99556710/video/7712731514013879574",
+      "has_video_id": true,
+      "evidence": "папка исходника: CSGORUN",
+      "source_tracked": true
+    },
+    {
+      "person": "ДЕНИС РЯБЦЕВ",
+      "profile": "work67",
+      "account": "Ряба Топ",
+      "account_url": "https://www.youtube.com/channel/UCrMEde0z_XXU3LY-VKJPgzQ",
+      "platform": "youtube",
+      "views": null,
+      "views_source": "нет проверенных данных",
+      "views_checked_at": null,
+      "published_at": 1795760149.7691274,
+      "url": "https://www.youtube.com/shorts/jecKKb6uzkM",
+      "has_video_id": true,
+      "evidence": "папка исходника: CSGORUN",
+      "source_tracked": true
+    },
     {
       "person": "ДЕНИС РЯБЦЕВ",
       "profile": "work66",
