@@ -1,7 +1,37 @@
 {
   "banner": "CSGORUN",
-  "generated_at": 1795777567.6974254,
+  "generated_at": 1795777874.1939566,
   "publications": [
+    {
+      "person": "ДЕНИС РЯБЦЕВ",
+      "profile": "work62",
+      "account": "@cynthiamyersf070289",
+      "account_url": "https://www.tiktok.com/@cynthiamyersf070289",
+      "platform": "tiktok",
+      "views": null,
+      "views_source": "нет проверенных данных",
+      "views_checked_at": null,
+      "published_at": 1795777748.812736,
+      "url": "https://www.tiktok.com/@cynthiamyersf070289/video/7712806566700928278",
+      "has_video_id": true,
+      "evidence": "папка исходника: CSGORUN",
+      "source_tracked": true
+    },
+    {
+      "person": "ДЕНИС РЯБЦЕВ",
+      "profile": "work61",
+      "account": "@deniska_vibes_live",
+      "account_url": "https://www.tiktok.com/@deniska_vibes_live",
+      "platform": "tiktok",
+      "views": null,
+      "views_source": "нет проверенных данных",
+      "views_checked_at": null,
+      "published_at": 1795777600.7517827,
+      "url": "https://www.tiktok.com/@deniska_vibes_live/video/7712805959311117590",
+      "has_video_id": true,
+      "evidence": "папка исходника: CSGORUN",
+      "source_tracked": true
+    },
     {
       "person": "ДЕНИС РЯБЦЕВ",
       "profile": "work60",
