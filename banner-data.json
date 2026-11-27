@@ -1,10 +1,42 @@
 {
-  "generated_at": 1795782774.8175993,
+  "generated_at": 1795793073.7064748,
   "banners": [
     "CSGORUN",
     "RubUP"
   ],
   "publications": [
+    {
+      "person": "ДЕНИС РЯБЦЕВ",
+      "profile": "work52",
+      "account": "@justinbaileyuj701873",
+      "account_url": "https://www.tiktok.com/@justinbaileyuj701873",
+      "platform": "tiktok",
+      "views": null,
+      "views_source": "нет проверенных данных",
+      "views_checked_at": null,
+      "published_at": 1795793006.667132,
+      "url": "https://www.tiktok.com/@justinbaileyuj701873/video/7712872149907934487",
+      "has_video_id": true,
+      "evidence": "папка исходника: CSGORUN",
+      "source_tracked": true,
+      "banner": "CSGORUN"
+    },
+    {
+      "person": "ДЕНИС РЯБЦЕВ",
+      "profile": "work51",
+      "account": "@michaelfrankliwo33777259",
+      "account_url": "https://www.tiktok.com/@michaelfrankliwo33777259",
+      "platform": "tiktok",
+      "views": null,
+      "views_source": "нет проверенных данных",
+      "views_checked_at": null,
+      "published_at": 1795792853.3716376,
+      "url": "https://www.tiktok.com/@michaelfrankliwo33777259/video/7712871462163500310",
+      "has_video_id": true,
+      "evidence": "папка исходника: CSGORUN",
+      "source_tracked": true,
+      "banner": "CSGORUN"
+    },
     {
       "person": "ДЕНИС РЯБЦЕВ",
       "profile": "ЭТО ПРОБА 3ф",
