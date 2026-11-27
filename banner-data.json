@@ -1,10 +1,42 @@
 {
-  "generated_at": 1795772973.0581458,
+  "generated_at": 1795773279.1727011,
   "banners": [
     "CSGORUN",
     "RubUP"
   ],
   "publications": [
+    {
+      "person": "ДЕНИС РЯБЦЕВ",
+      "profile": "work23",
+      "account": "@unairodero5",
+      "account_url": "https://www.tiktok.com/@unairodero5",
+      "platform": "tiktok",
+      "views": null,
+      "views_source": "нет проверенных данных",
+      "views_checked_at": null,
+      "published_at": 1795773267.9377906,
+      "url": "https://www.tiktok.com/@unairodero5/video/7712787007159815438",
+      "has_video_id": true,
+      "evidence": "папка исходника: CSGORUN",
+      "source_tracked": true,
+      "banner": "CSGORUN"
+    },
+    {
+      "person": "ДЕНИС РЯБЦЕВ",
+      "profile": "work23",
+      "account": "Ден Ряба | Угар",
+      "account_url": "https://www.youtube.com/channel/UCjTFfS8_mOlhZcoHTKk1M9g",
+      "platform": "youtube",
+      "views": null,
+      "views_source": "нет проверенных данных",
+      "views_checked_at": null,
+      "published_at": 1795773131.3466482,
+      "url": "https://www.youtube.com/shorts/KtNHhcudecU",
+      "has_video_id": true,
+      "evidence": "папка исходника: CSGORUN",
+      "source_tracked": true,
+      "banner": "CSGORUN"
+    },
     {
       "person": "ДЕНИС РЯБЦЕВ",
       "profile": "work19",
