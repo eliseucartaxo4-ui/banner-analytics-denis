@@ -1,7 +1,37 @@
 {
   "banner": "CSGORUN",
-  "generated_at": 1795765192.8520317,
+  "generated_at": 1795765498.663095,
   "publications": [
+    {
+      "person": "ДЕНИС РЯБЦЕВ",
+      "profile": "work23",
+      "account": "Ден Ряба | Угар",
+      "account_url": "https://www.youtube.com/channel/UCjTFfS8_mOlhZcoHTKk1M9g",
+      "platform": "youtube",
+      "views": null,
+      "views_source": "нет проверенных данных",
+      "views_checked_at": null,
+      "published_at": 1795765496.0794759,
+      "url": "https://www.youtube.com/shorts/Wcw8ZZyLGZg",
+      "has_video_id": true,
+      "evidence": "папка исходника: CSGORUN",
+      "source_tracked": true
+    },
+    {
+      "person": "ДЕНИС РЯБЦЕВ",
+      "profile": "work19",
+      "account": "Ден Ряба | Движ",
+      "account_url": "https://www.youtube.com/channel/UCYN9iaBt8AKZ52Dscal_adw",
+      "platform": "youtube",
+      "views": null,
+      "views_source": "нет проверенных данных",
+      "views_checked_at": null,
+      "published_at": 1795765293.3316987,
+      "url": "https://www.youtube.com/shorts/UUnka-lFNsk",
+      "has_video_id": true,
+      "evidence": "папка исходника: CSGORUN",
+      "source_tracked": true
+    },
     {
       "person": "ДЕНИС РЯБЦЕВ",
       "profile": "work17",
