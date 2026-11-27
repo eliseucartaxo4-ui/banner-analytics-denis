@@ -1,10 +1,42 @@
 {
-  "generated_at": 1795793073.7064748,
+  "generated_at": 1795793379.8603396,
   "banners": [
     "CSGORUN",
     "RubUP"
   ],
   "publications": [
+    {
+      "person": "ДЕНИС РЯБЦЕВ",
+      "profile": "work54",
+      "account": "@jeremymcmillanq918810",
+      "account_url": "https://www.tiktok.com/@jeremymcmillanq918810",
+      "platform": "tiktok",
+      "views": null,
+      "views_source": "нет проверенных данных",
+      "views_checked_at": null,
+      "published_at": 1795793279.6332767,
+      "url": "https://www.tiktok.com/@jeremymcmillanq918810/video/7712873294080249110",
+      "has_video_id": true,
+      "evidence": "папка исходника: CSGORUN",
+      "source_tracked": true,
+      "banner": "CSGORUN"
+    },
+    {
+      "person": "ДЕНИС РЯБЦЕВ",
+      "profile": "work54",
+      "account": "Ряба Нарезчик",
+      "account_url": "https://www.youtube.com/channel/UCUS0r7OM-eODoMe5WqN7txw",
+      "platform": "youtube",
+      "views": null,
+      "views_source": "нет проверенных данных",
+      "views_checked_at": null,
+      "published_at": 1795793153.9833357,
+      "url": "https://www.youtube.com/shorts/tvreRebeprU",
+      "has_video_id": true,
+      "evidence": "папка исходника: CSGORUN",
+      "source_tracked": true,
+      "banner": "CSGORUN"
+    },
     {
       "person": "ДЕНИС РЯБЦЕВ",
       "profile": "work52",
