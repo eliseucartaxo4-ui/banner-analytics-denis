@@ -1,10 +1,26 @@
 {
-  "generated_at": 1795772054.7588181,
+  "generated_at": 1795772360.817645,
   "banners": [
     "CSGORUN",
     "RubUP"
   ],
   "publications": [
+    {
+      "person": "ДЕНИС РЯБЦЕВ",
+      "profile": "work15",
+      "account": "@dotadva218",
+      "account_url": "https://www.tiktok.com/@dotadva218",
+      "platform": "tiktok",
+      "views": null,
+      "views_source": "нет проверенных данных",
+      "views_checked_at": null,
+      "published_at": 1795772145.7717774,
+      "url": "https://www.tiktok.com/@dotadva218/video/7712782386634689805",
+      "has_video_id": true,
+      "evidence": "папка исходника: CSGORUN",
+      "source_tracked": true,
+      "banner": "CSGORUN"
+    },
     {
       "person": "ДЕНИС РЯБЦЕВ",
       "profile": "work15",
