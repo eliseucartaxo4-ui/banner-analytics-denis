@@ -1,10 +1,26 @@
 {
-  "generated_at": 1795740812.5202854,
+  "generated_at": 1795756653.9156594,
   "banners": [
     "CSGORUN",
     "RubUP"
   ],
   "publications": [
+    {
+      "person": "ДЕНИС РЯБЦЕВ",
+      "profile": "work56",
+      "account": "@allisondayk389916",
+      "account_url": "https://www.tiktok.com/@allisondayk389916",
+      "platform": "tiktok",
+      "views": null,
+      "views_source": "нет проверенных данных",
+      "views_checked_at": null,
+      "published_at": 1795756620.7242765,
+      "url": "https://www.tiktok.com/@allisondayk389916/video/7712715785285897495",
+      "has_video_id": true,
+      "evidence": "папка исходника: CSGORUN",
+      "source_tracked": true,
+      "banner": "CSGORUN"
+    },
     {
       "person": "ДЕНИС РЯБЦЕВ",
       "profile": "work53",
