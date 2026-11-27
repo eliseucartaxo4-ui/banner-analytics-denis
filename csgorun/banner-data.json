@@ -1,7 +1,37 @@
 {
   "banner": "CSGORUN",
-  "generated_at": 1795777261.6428576,
+  "generated_at": 1795777567.6974254,
   "publications": [
+    {
+      "person": "ДЕНИС РЯБЦЕВ",
+      "profile": "work60",
+      "account": "@victoriameyern6918441",
+      "account_url": "https://www.tiktok.com/@victoriameyern6918441",
+      "platform": "tiktok",
+      "views": null,
+      "views_source": "нет проверенных данных",
+      "views_checked_at": null,
+      "published_at": 1795777448.4704967,
+      "url": "https://www.tiktok.com/@victoriameyern6918441/video/7712805318291393814",
+      "has_video_id": true,
+      "evidence": "папка исходника: CSGORUN",
+      "source_tracked": true
+    },
+    {
+      "person": "ДЕНИС РЯБЦЕВ",
+      "profile": "work60",
+      "account": "Денис Рябцев · Лучшее",
+      "account_url": "https://www.youtube.com/channel/UC8KGNnGhtghI7KMK28IqJuQ",
+      "platform": "youtube",
+      "views": null,
+      "views_source": "нет проверенных данных",
+      "views_checked_at": null,
+      "published_at": 1795777327.6050084,
+      "url": "https://www.youtube.com/shorts/tBPCP69La1Q",
+      "has_video_id": true,
+      "evidence": "папка исходника: CSGORUN",
+      "source_tracked": true
+    },
     {
       "person": "ДЕНИС РЯБЦЕВ",
       "profile": "work59",
