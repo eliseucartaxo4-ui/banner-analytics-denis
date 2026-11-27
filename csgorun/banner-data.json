@@ -1,7 +1,22 @@
 {
   "banner": "CSGORUN",
-  "generated_at": 1795779706.5517566,
+  "generated_at": 1795780319.3485694,
   "publications": [
+    {
+      "person": "ДЕНИС РЯБЦЕВ",
+      "profile": "work71",
+      "account": "@thomasmorenobx13261183",
+      "account_url": "https://www.tiktok.com/@thomasmorenobx13261183",
+      "platform": "tiktok",
+      "views": null,
+      "views_source": "нет проверенных данных",
+      "views_checked_at": null,
+      "published_at": 1795780218.5865755,
+      "url": "https://www.tiktok.com/@thomasmorenobx13261183/video/7712817197587893526",
+      "has_video_id": true,
+      "evidence": "папка исходника: CSGORUN",
+      "source_tracked": true
+    },
     {
       "person": "ДЕНИС РЯБЦЕВ",
       "profile": "work69",
