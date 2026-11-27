@@ -1,7 +1,22 @@
 {
   "banner": "CSGORUN",
-  "generated_at": 1795760910.046194,
+  "generated_at": 1795761215.597497,
   "publications": [
+    {
+      "person": "ДЕНИС РЯБЦЕВ",
+      "profile": "work70",
+      "account": "@ashleywilliamsp61599188",
+      "account_url": "https://www.tiktok.com/@ashleywilliamsp61599188",
+      "platform": "tiktok",
+      "views": null,
+      "views_source": "нет проверенных данных",
+      "views_checked_at": null,
+      "published_at": 1795761048.5918038,
+      "url": "https://www.tiktok.com/@ashleywilliamsp61599188/video/7712734847306829078",
+      "has_video_id": true,
+      "evidence": "папка исходника: CSGORUN",
+      "source_tracked": true
+    },
     {
       "person": "ДЕНИС РЯБЦЕВ",
       "profile": "work69",
