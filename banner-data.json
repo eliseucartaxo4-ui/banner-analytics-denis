@@ -1,10 +1,26 @@
 {
-  "generated_at": 1795766722.371304,
+  "generated_at": 1795767029.1386228,
   "banners": [
     "CSGORUN",
     "RubUP"
   ],
   "publications": [
+    {
+      "person": "ДЕНИС РЯБЦЕВ",
+      "profile": "work48",
+      "account": "Denis Ryabcev Cuts",
+      "account_url": "https://www.youtube.com/channel/UCHZAR2hOSeSvlDooVyLVQVw",
+      "platform": "youtube",
+      "views": null,
+      "views_source": "нет проверенных данных",
+      "views_checked_at": null,
+      "published_at": 1795766945.737562,
+      "url": "https://www.youtube.com/shorts/gExwKmjBTWo",
+      "has_video_id": true,
+      "evidence": "папка исходника: CSGORUN",
+      "source_tracked": true,
+      "banner": "CSGORUN"
+    },
     {
       "person": "ДЕНИС РЯБЦЕВ",
       "profile": "work47",
