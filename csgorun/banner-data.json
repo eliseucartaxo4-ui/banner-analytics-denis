@@ -1,7 +1,37 @@
 {
   "banner": "CSGORUN",
-  "generated_at": 1795780933.992043,
+  "generated_at": 1795781240.443514,
   "publications": [
+    {
+      "person": "ДЕНИС РЯБЦЕВ",
+      "profile": "work75",
+      "account": "@n01225485353",
+      "account_url": "https://www.instagram.com/n01225485353/",
+      "platform": "instagram",
+      "views": null,
+      "views_source": "нет проверенных данных",
+      "views_checked_at": null,
+      "published_at": 1795781202.175793,
+      "url": "",
+      "has_video_id": false,
+      "evidence": "папка исходника: CSGORUN",
+      "source_tracked": true
+    },
+    {
+      "person": "ДЕНИС РЯБЦЕВ",
+      "profile": "work74",
+      "account": "@charlenecooperud640864",
+      "account_url": "https://www.tiktok.com/@charlenecooperud640864",
+      "platform": "tiktok",
+      "views": null,
+      "views_source": "нет проверенных данных",
+      "views_checked_at": null,
+      "published_at": 1795780954.0845027,
+      "url": "https://www.tiktok.com/@charlenecooperud640864/video/7712820368960015638",
+      "has_video_id": true,
+      "evidence": "папка исходника: CSGORUN",
+      "source_tracked": true
+    },
     {
       "person": "ДЕНИС РЯБЦЕВ",
       "profile": "work74",
