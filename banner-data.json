@@ -1,10 +1,42 @@
 {
-  "generated_at": 1795854188.5892835,
+  "generated_at": 1795854794.935902,
   "banners": [
     "CSGORUN",
     "RubUP"
   ],
   "publications": [
+    {
+      "person": "ДЕНИС РЯБЦЕВ",
+      "profile": "work23",
+      "account": "Ден Ряба | Угар",
+      "account_url": "https://www.youtube.com/channel/UCjTFfS8_mOlhZcoHTKk1M9g",
+      "platform": "youtube",
+      "views": null,
+      "views_source": "нет проверенных данных",
+      "views_checked_at": null,
+      "published_at": 1795854710.772541,
+      "url": "https://www.youtube.com/shorts/dMJoRhfI15I",
+      "has_video_id": true,
+      "evidence": "папка исходника: CSGORUN",
+      "source_tracked": true,
+      "banner": "CSGORUN"
+    },
+    {
+      "person": "ДЕНИС РЯБЦЕВ",
+      "profile": "work19",
+      "account": "Ден Ряба | Движ",
+      "account_url": "https://www.youtube.com/channel/UCYN9iaBt8AKZ52Dscal_adw",
+      "platform": "youtube",
+      "views": null,
+      "views_source": "нет проверенных данных",
+      "views_checked_at": null,
+      "published_at": 1795854520.7130024,
+      "url": "https://www.youtube.com/shorts/P6WajbGsVsk",
+      "has_video_id": true,
+      "evidence": "папка исходника: CSGORUN",
+      "source_tracked": true,
+      "banner": "CSGORUN"
+    },
     {
       "person": "ДЕНИС РЯБЦЕВ",
       "profile": "work17",
