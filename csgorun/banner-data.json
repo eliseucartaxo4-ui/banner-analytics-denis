@@ -1,7 +1,22 @@
 {
   "banner": "CSGORUN",
-  "generated_at": 1795857237.5649145,
+  "generated_at": 1795857544.8197317,
   "publications": [
+    {
+      "person": "ДЕНИС РЯБЦЕВ",
+      "profile": "work53",
+      "account": "Deniska Шоу",
+      "account_url": "https://www.youtube.com/channel/UCVPldWGwdzCLMTrJHtpM2Iw",
+      "platform": "youtube",
+      "views": null,
+      "views_source": "нет проверенных данных",
+      "views_checked_at": null,
+      "published_at": 1795857391.1982884,
+      "url": "https://www.youtube.com/shorts/q9sNe4aNN_g",
+      "has_video_id": true,
+      "evidence": "папка исходника: CSGORUN",
+      "source_tracked": true
+    },
     {
       "person": "ДЕНИС РЯБЦЕВ",
       "profile": "work51",
