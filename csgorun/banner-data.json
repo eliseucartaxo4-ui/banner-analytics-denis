@@ -1,7 +1,22 @@
 {
   "banner": "CSGORUN",
-  "generated_at": 1795859672.0586417,
+  "generated_at": 1795860278.1564398,
   "publications": [
+    {
+      "person": "ДЕНИС РЯБЦЕВ",
+      "profile": "work60",
+      "account": "@victoriameyern6918441",
+      "account_url": "https://www.tiktok.com/@victoriameyern6918441",
+      "platform": "tiktok",
+      "views": null,
+      "views_source": "нет проверенных данных",
+      "views_checked_at": null,
+      "published_at": 1795860258.3633666,
+      "url": "https://www.tiktok.com/@victoriameyern6918441/video/7713160985925733654",
+      "has_video_id": true,
+      "evidence": "папка исходника: CSGORUN",
+      "source_tracked": true
+    },
     {
       "person": "ДЕНИС РЯБЦЕВ",
       "profile": "work59",
