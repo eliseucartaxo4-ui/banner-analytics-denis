@@ -1,10 +1,26 @@
 {
-  "generated_at": 1795852753.297058,
+  "generated_at": 1795853271.9803507,
   "banners": [
     "CSGORUN",
     "RubUP"
   ],
   "publications": [
+    {
+      "person": "ДЕНИС РЯБЦЕВ",
+      "profile": "work1",
+      "account": "@lauralewisr46484288",
+      "account_url": "https://www.tiktok.com/@lauralewisr46484288",
+      "platform": "tiktok",
+      "views": null,
+      "views_source": "нет проверенных данных",
+      "views_checked_at": null,
+      "published_at": 1795853097.5337148,
+      "url": "https://www.tiktok.com/@lauralewisr46484288/video/7713130191882685718",
+      "has_video_id": true,
+      "evidence": "папка исходника: CSGORUN",
+      "source_tracked": true,
+      "banner": "CSGORUN"
+    },
     {
       "person": "ДЕНИС РЯБЦЕВ",
       "profile": "work71",
