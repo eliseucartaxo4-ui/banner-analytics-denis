@@ -1,10 +1,42 @@
 {
-  "generated_at": 1795861800.4356096,
+  "generated_at": 1795862105.0888724,
   "banners": [
     "CSGORUN",
     "RubUP"
   ],
   "publications": [
+    {
+      "person": "ДЕНИС РЯБЦЕВ",
+      "profile": "work68",
+      "account": "@melissahunton354530",
+      "account_url": "https://www.tiktok.com/@melissahunton354530",
+      "platform": "tiktok",
+      "views": null,
+      "views_source": "нет проверенных данных",
+      "views_checked_at": null,
+      "published_at": 1795862099.0196595,
+      "url": "https://www.tiktok.com/@melissahunton354530/video/7713168883741396247",
+      "has_video_id": true,
+      "evidence": "папка исходника: CSGORUN",
+      "source_tracked": true,
+      "banner": "CSGORUN"
+    },
+    {
+      "person": "ДЕНИС РЯБЦЕВ",
+      "profile": "work68",
+      "account": "Денис Рябцев Fan",
+      "account_url": "https://www.youtube.com/channel/UCXkfIm77R2-rIhuTNVyPGug",
+      "platform": "youtube",
+      "views": null,
+      "views_source": "нет проверенных данных",
+      "views_checked_at": null,
+      "published_at": 1795861962.5748463,
+      "url": "https://www.youtube.com/shorts/-iBywfdQRx0",
+      "has_video_id": true,
+      "evidence": "папка исходника: CSGORUN",
+      "source_tracked": true,
+      "banner": "CSGORUN"
+    },
     {
       "person": "ДЕНИС РЯБЦЕВ",
       "profile": "work67",
