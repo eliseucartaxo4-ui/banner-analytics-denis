@@ -1,7 +1,37 @@
 {
   "banner": "CSGORUN",
-  "generated_at": 1795861191.4337037,
+  "generated_at": 1795861495.8361647,
   "publications": [
+    {
+      "person": "ДЕНИС РЯБЦЕВ",
+      "profile": "work66",
+      "account": "@thomasbutlerm39360264",
+      "account_url": "https://www.tiktok.com/@thomasbutlerm39360264",
+      "platform": "tiktok",
+      "views": null,
+      "views_source": "нет проверенных данных",
+      "views_checked_at": null,
+      "published_at": 1795861469.329897,
+      "url": "https://www.tiktok.com/@thomasbutlerm39360264/video/7713166173914926358",
+      "has_video_id": true,
+      "evidence": "папка исходника: CSGORUN",
+      "source_tracked": true
+    },
+    {
+      "person": "ДЕНИС РЯБЦЕВ",
+      "profile": "work66",
+      "account": "Deniska Moments",
+      "account_url": "https://www.youtube.com/channel/UCNTcVChiUTOXpe4HKBN9eBQ",
+      "platform": "youtube",
+      "views": null,
+      "views_source": "нет проверенных данных",
+      "views_checked_at": null,
+      "published_at": 1795861353.600933,
+      "url": "https://www.youtube.com/shorts/07te8sMk8XI",
+      "has_video_id": true,
+      "evidence": "папка исходника: CSGORUN",
+      "source_tracked": true
+    },
     {
       "person": "ДЕНИС РЯБЦЕВ",
       "profile": "work65",
