@@ -1,10 +1,42 @@
 {
-  "generated_at": 1795856622.8394008,
+  "generated_at": 1795856929.2633634,
   "banners": [
     "CSGORUN",
     "RubUP"
   ],
   "publications": [
+    {
+      "person": "ДЕНИС РЯБЦЕВ",
+      "profile": "work50",
+      "account": "@jeffreymillertl5058149",
+      "account_url": "https://www.tiktok.com/@jeffreymillertl5058149",
+      "platform": "tiktok",
+      "views": null,
+      "views_source": "нет проверенных данных",
+      "views_checked_at": null,
+      "published_at": 1795856782.8363974,
+      "url": "https://www.tiktok.com/@jeffreymillertl5058149/video/7713146053012311318",
+      "has_video_id": true,
+      "evidence": "папка исходника: CSGORUN",
+      "source_tracked": true,
+      "banner": "CSGORUN"
+    },
+    {
+      "person": "ДЕНИС РЯБЦЕВ",
+      "profile": "work49",
+      "account": "@laurenricewu281953",
+      "account_url": "https://www.tiktok.com/@laurenricewu281953",
+      "platform": "tiktok",
+      "views": null,
+      "views_source": "нет проверенных данных",
+      "views_checked_at": null,
+      "published_at": 1795856627.9629242,
+      "url": "https://www.tiktok.com/@laurenricewu281953/video/7713145368191536406",
+      "has_video_id": true,
+      "evidence": "папка исходника: CSGORUN",
+      "source_tracked": true,
+      "banner": "CSGORUN"
+    },
     {
       "person": "ДЕНИС РЯБЦЕВ",
       "profile": "work48",
