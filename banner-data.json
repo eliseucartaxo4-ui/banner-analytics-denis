@@ -1,10 +1,26 @@
 {
-  "generated_at": 1795863631.6978824,
+  "generated_at": 1795863937.1552885,
   "banners": [
     "CSGORUN",
     "RubUP"
   ],
   "publications": [
+    {
+      "person": "ДЕНИС РЯБЦЕВ",
+      "profile": "work75",
+      "account": "@n01225485353",
+      "account_url": "https://www.instagram.com/n01225485353/",
+      "platform": "instagram",
+      "views": null,
+      "views_source": "нет проверенных данных",
+      "views_checked_at": null,
+      "published_at": 1795863770.3872762,
+      "url": "",
+      "has_video_id": false,
+      "evidence": "папка исходника: CSGORUN",
+      "source_tracked": true,
+      "banner": "CSGORUN"
+    },
     {
       "person": "ДЕНИС РЯБЦЕВ",
       "profile": "work74",
