@@ -1,10 +1,42 @@
 {
-  "generated_at": 1795855099.3396728,
+  "generated_at": 1795855404.9749906,
   "banners": [
     "CSGORUN",
     "RubUP"
   ],
   "publications": [
+    {
+      "person": "ДЕНИС РЯБЦЕВ",
+      "profile": "work44",
+      "account": "@user8278593368309",
+      "account_url": "https://www.tiktok.com/@user8278593368309",
+      "platform": "tiktok",
+      "views": null,
+      "views_source": "нет проверенных данных",
+      "views_checked_at": null,
+      "published_at": 1795855332.3328798,
+      "url": "https://www.tiktok.com/@user8278593368309/video/7713139791298252054",
+      "has_video_id": true,
+      "evidence": "папка исходника: CSGORUN",
+      "source_tracked": true,
+      "banner": "CSGORUN"
+    },
+    {
+      "person": "ДЕНИС РЯБЦЕВ",
+      "profile": "work44",
+      "account": "Ден Ряба | Vibe",
+      "account_url": "https://www.youtube.com/channel/UCJTYinMD1TNKQh2sW0GCLzA",
+      "platform": "youtube",
+      "views": null,
+      "views_source": "нет проверенных данных",
+      "views_checked_at": null,
+      "published_at": 1795855161.6283479,
+      "url": "https://www.youtube.com/shorts/a7t7RuHZVig",
+      "has_video_id": true,
+      "evidence": "папка исходника: CSGORUN",
+      "source_tracked": true,
+      "banner": "CSGORUN"
+    },
     {
       "person": "ДЕНИС РЯБЦЕВ",
       "profile": "work24",
