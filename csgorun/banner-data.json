@@ -1,7 +1,37 @@
 {
   "banner": "CSGORUN",
-  "generated_at": 1795856318.7526486,
+  "generated_at": 1795856622.8394008,
   "publications": [
+    {
+      "person": "ДЕНИС РЯБЦЕВ",
+      "profile": "work48",
+      "account": "@rachelsmithpb073260",
+      "account_url": "https://www.tiktok.com/@rachelsmithpb073260",
+      "platform": "tiktok",
+      "views": null,
+      "views_source": "нет проверенных данных",
+      "views_checked_at": null,
+      "published_at": 1795856467.3430743,
+      "url": "https://www.tiktok.com/@rachelsmithpb073260/video/7713144668837530902",
+      "has_video_id": true,
+      "evidence": "папка исходника: CSGORUN",
+      "source_tracked": true
+    },
+    {
+      "person": "ДЕНИС РЯБЦЕВ",
+      "profile": "work48",
+      "account": "Denis Ryabcev Cuts",
+      "account_url": "https://www.youtube.com/channel/UCHZAR2hOSeSvlDooVyLVQVw",
+      "platform": "youtube",
+      "views": null,
+      "views_source": "нет проверенных данных",
+      "views_checked_at": null,
+      "published_at": 1795856345.9431922,
+      "url": "https://www.youtube.com/shorts/mE2iT_IfYkY",
+      "has_video_id": true,
+      "evidence": "папка исходника: CSGORUN",
+      "source_tracked": true
+    },
     {
       "person": "ДЕНИС РЯБЦЕВ",
       "profile": "work47",
