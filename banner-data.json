@@ -1,10 +1,42 @@
 {
-  "generated_at": 1795859367.630715,
+  "generated_at": 1795859672.0586417,
   "banners": [
     "CSGORUN",
     "RubUP"
   ],
   "publications": [
+    {
+      "person": "ДЕНИС РЯБЦЕВ",
+      "profile": "work59",
+      "account": "@michellemccallvx2849213",
+      "account_url": "https://www.tiktok.com/@michellemccallvx2849213",
+      "platform": "tiktok",
+      "views": null,
+      "views_source": "нет проверенных данных",
+      "views_checked_at": null,
+      "published_at": 1795859604.382712,
+      "url": "https://www.tiktok.com/@michellemccallvx2849213/video/7713158188819811586",
+      "has_video_id": true,
+      "evidence": "папка исходника: CSGORUN",
+      "source_tracked": true,
+      "banner": "CSGORUN"
+    },
+    {
+      "person": "ДЕНИС РЯБЦЕВ",
+      "profile": "work59",
+      "account": "A N",
+      "account_url": "https://www.youtube.com/channel/UCSpKKhPgbPNIffWaEofc-yA",
+      "platform": "youtube",
+      "views": null,
+      "views_source": "нет проверенных данных",
+      "views_checked_at": null,
+      "published_at": 1795859473.3553903,
+      "url": "https://www.youtube.com/shorts/7F9k4v57WgQ",
+      "has_video_id": true,
+      "evidence": "папка исходника: CSGORUN",
+      "source_tracked": true,
+      "banner": "CSGORUN"
+    },
     {
       "person": "ДЕНИС РЯБЦЕВ",
       "profile": "work58",
