@@ -1,10 +1,42 @@
 {
-  "generated_at": 1795886772.42739,
+  "generated_at": 1795887078.3902733,
   "banners": [
     "CSGORUN",
     "RubUP"
   ],
   "publications": [
+    {
+      "person": "ДЕНИС РЯБЦЕВ",
+      "profile": "work57",
+      "account": "Denis Ryabcev Hub",
+      "account_url": "https://www.youtube.com/channel/UCt147FqC-3n9vf2iUQDxb6g",
+      "platform": "youtube",
+      "views": null,
+      "views_source": "нет проверенных данных",
+      "views_checked_at": null,
+      "published_at": 1795887027.2510164,
+      "url": "https://www.youtube.com/shorts/w6PRlXFMhDQ",
+      "has_video_id": true,
+      "evidence": "папка исходника: CSGORUN",
+      "source_tracked": true,
+      "banner": "CSGORUN"
+    },
+    {
+      "person": "ДЕНИС РЯБЦЕВ",
+      "profile": "work56",
+      "account": "@allisondayk389916",
+      "account_url": "https://www.tiktok.com/@allisondayk389916",
+      "platform": "tiktok",
+      "views": null,
+      "views_source": "нет проверенных данных",
+      "views_checked_at": null,
+      "published_at": 1795886919.435617,
+      "url": "https://www.tiktok.com/@allisondayk389916/video/7713275509534149910",
+      "has_video_id": true,
+      "evidence": "папка исходника: CSGORUN",
+      "source_tracked": true,
+      "banner": "CSGORUN"
+    },
     {
       "person": "ДЕНИС РЯБЦЕВ",
       "profile": "work55",
