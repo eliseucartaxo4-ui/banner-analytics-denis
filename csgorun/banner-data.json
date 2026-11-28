@@ -1,7 +1,22 @@
 {
   "banner": "CSGORUN",
-  "generated_at": 1795856929.2633634,
+  "generated_at": 1795857237.5649145,
   "publications": [
+    {
+      "person": "ДЕНИС РЯБЦЕВ",
+      "profile": "work51",
+      "account": "@michaelfrankliwo33777259",
+      "account_url": "https://www.tiktok.com/@michaelfrankliwo33777259",
+      "platform": "tiktok",
+      "views": null,
+      "views_source": "нет проверенных данных",
+      "views_checked_at": null,
+      "published_at": 1795857022.003552,
+      "url": "https://www.tiktok.com/@michaelfrankliwo33777259/video/7713147009569525014",
+      "has_video_id": true,
+      "evidence": "папка исходника: CSGORUN",
+      "source_tracked": true
+    },
     {
       "person": "ДЕНИС РЯБЦЕВ",
       "profile": "work50",
