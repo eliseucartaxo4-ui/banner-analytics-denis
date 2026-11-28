@@ -1,10 +1,26 @@
 {
-  "generated_at": 1795885854.7760036,
+  "generated_at": 1795886160.7027001,
   "banners": [
     "CSGORUN",
     "RubUP"
   ],
   "publications": [
+    {
+      "person": "ДЕНИС РЯБЦЕВ",
+      "profile": "work52",
+      "account": "@justinbaileyuj701873",
+      "account_url": "https://www.tiktok.com/@justinbaileyuj701873",
+      "platform": "tiktok",
+      "views": null,
+      "views_source": "нет проверенных данных",
+      "views_checked_at": null,
+      "published_at": 1795885990.372988,
+      "url": "https://www.tiktok.com/@justinbaileyuj701873/video/7713271510806449411",
+      "has_video_id": true,
+      "evidence": "папка исходника: CSGORUN",
+      "source_tracked": true,
+      "banner": "CSGORUN"
+    },
     {
       "person": "ДЕНИС РЯБЦЕВ",
       "profile": "work51",
